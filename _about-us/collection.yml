@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Hours.md
       - Contact Us.md
       - Financial Information.md
       - Alumni.md
