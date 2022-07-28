@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Achievement of Staff/.keep
       - Teachers/.keep
       - Teachers/Primary 1.md
       - Teachers/Primary 2.md
