@@ -2,12 +2,12 @@ collections:
   staff:
     output: true
     order:
-      - Teachers/Primary 6.md
-      - Teachers/Primary 5.md
-      - Teachers/Primary 4.md
-      - Teachers/Primary 3.md
-      - Teachers/Primary 2.md
-      - Teachers/Primary 1.md
       - Teachers/.keep
+      - Teachers/Primary 1.md
+      - Teachers/Primary 2.md
+      - Teachers/Primary 3.md
+      - Teachers/Primary 4.md
+      - Teachers/Primary 5.md
+      - Teachers/Primary 6.md
       - Key Personnel.md
       - School Leaders.md
