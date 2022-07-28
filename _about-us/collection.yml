@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - St Hilda’s School e Magazine.md
       - School Hours.md
       - Contact Us.md
       - Financial Information.md
