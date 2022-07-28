@@ -6,7 +6,7 @@ description: ""
 School e-Magazine Online viewing
 --------------------------------
 
-Please click [here](https://issuu.com/touche-design/docs/st_hildas_primary_magazine_2021?fr=sMjMyZTI3NTIwODU)
+Please click [here](https://issuu.com/touche-design/docs/st_hildas_primary_magazine_2021?fr=sMjMyZTI3NTIwODU).
 
 School e-Magazine Downloadable PDF
 ----------------------------------
