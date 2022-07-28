@@ -2,11 +2,11 @@ collections:
   staff:
     output: true
     order:
-      - Achievement of Staff/2018.md
-      - Achievement of Staff/2019.md
-      - Achievement of Staff/2020.md
-      - Achievement of Staff/2021.md
       - Achievement of Staff/.keep
+      - Achievement of Staff/2021.md
+      - Achievement of Staff/2020.md
+      - Achievement of Staff/2019.md
+      - Achievement of Staff/2018.md
       - Teachers/.keep
       - Teachers/Primary 1.md
       - Teachers/Primary 2.md
