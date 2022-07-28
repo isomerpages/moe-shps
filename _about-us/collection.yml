@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Chaplaincy.md
       - School Management Committee.md
       - Crest & Motto.md
       - Vision, Mission, Values.md
