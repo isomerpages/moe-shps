@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - St Hilda’s School e Magazine.md
-      - School Hours.md
-      - Contact Us.md
-      - Financial Information.md
-      - Alumni.md
-      - Parent Support Group (PSG).md
-      - Chaplaincy.md
-      - School Management Committee.md
-      - Crest & Motto.md
-      - Vision, Mission, Values.md
-      - History.md
       - Principal's Message.md
+      - History.md
+      - Vision, Mission, Values.md
+      - Crest & Motto.md
+      - School Management Committee.md
+      - Chaplaincy.md
+      - Parent Support Group (PSG).md
+      - Alumni.md
+      - Financial Information.md
+      - Contact Us.md
+      - School Hours.md
+      - St Hilda’s School e Magazine.md
