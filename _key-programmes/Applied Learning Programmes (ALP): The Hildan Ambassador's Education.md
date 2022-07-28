@@ -20,7 +20,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ALP%201.jpg" alt="Applied Learning Programmes" style="width:50%;">  
+<body><img src="/images/ALP%201.jpg" alt="Applied Learning Programmes" style="width:60%;">  
   
 </body>
 
@@ -32,6 +32,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ALP%202.jpg" alt="Applied Learning Programmes" style="width:50%;">  
+<body><img src="/images/ALP%202.jpg" alt="Applied Learning Programmes" style="width:60%;">  
   
 </body>
