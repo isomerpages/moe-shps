@@ -27,7 +27,7 @@ third_nav_title: Teachers
 <tbody>
   <tr>
     <td class="tg-f4yw">6/1<br>Love</td>
-    <td class="tg-ee9d">Ms Edwina Lee<br><a href="mailto:lee_xin_ting_edwina@schools.gov.sg">lee_xin_ting_edwina@schools.gov.sg</a><br></td>
+    <td class="tg-ee9d">Ms Edwina Lee<br><a href="mailto:lee_xin_ting_edwina@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lee_xin_ting_edwina@schools.gov.sg</a><br></td>
     <td class="tg-7yig">Mrs Agnes Poh<br><a href="mailto:khoo_gek_lin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">khoo_gek_lin@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
