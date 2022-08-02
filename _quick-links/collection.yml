@@ -2,9 +2,9 @@ collections:
   quick-links:
     output: true
     order:
-      - For Staff/Staff Travel Declaration.md
-      - For Staff/For Staff.md
       - For Staff/.keep
+      - For Staff/For Staff.md
+      - For Staff/Staff Travel Declaration.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/AskNLearn.md
