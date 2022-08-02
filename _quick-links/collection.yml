@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/Booklist for Year 2022.md
       - For Parents/P1 Orientation 2022.md
       - For Parents/.keep
