@@ -33,7 +33,7 @@ third_nav_title: Teachers
   <tr>
     <td class="tg-7yig">3/2 <br><span style="background-color:initial">Joy</span></td>
     <td class="tg-ee9d"><br>Mr Isaac Lin<br><br><a href="mailto:isaac_lin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">isaac_lin@schools.gov.sg</span></a></td>
-    <td class="tg-7yig"><br>Ms Amira Tajudin<br><br><a href="mailto:amira_Tajudin@schools.gov.sg">amira_Tajudin@schools.gov.sg</a></td>
+    <td class="tg-7yig"><br>Ms Amira Tajudin<br><br><a href="mailto:amira_Tajudin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">amira_Tajudin@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-7yig">3/3 <br><span style="background-color:initial">Peace</span></td>
