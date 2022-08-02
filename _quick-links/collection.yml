@@ -2,12 +2,12 @@ collections:
   quick-links:
     output: true
     order:
-      - For Students/Office 365 Login.md
-      - For Students/Student iCON.md
-      - For Students/Student Learning Space (SLS).md
-      - For Students/AskNLearn.md
-      - For Students/For Students.md
       - For Students/.keep
+      - For Students/For Students.md
+      - For Students/AskNLearn.md
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Student iCON.md
+      - For Students/Office 365 Login.md
       - For Parents/.keep
       - For Parents/P1 Orientation 2022.md
       - For Parents/Booklist for Year 2022.md
