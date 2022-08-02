@@ -2,9 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For Staff/.keep
-      - For Staff/For Staff.md
-      - For Staff/Staff Travel Declaration.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/AskNLearn.md
@@ -21,3 +18,6 @@ collections:
       - For Parents/SHPS CCA e Open House.md
       - For Parents/Sexuality Education 2022.md
       - For Parents/Edusave Character Award (ECHA) for P4 to P6 Students.md
+      - For Staff/.keep
+      - For Staff/For Staff.md
+      - For Staff/Staff Travel Declaration.md
