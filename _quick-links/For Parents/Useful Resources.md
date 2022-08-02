@@ -26,23 +26,23 @@ third_nav_title: For Parents
 
   
 
-1. [MOE FAS Application Form](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Forms/MOE%20FAS%20Application%20Form%20Sep%2021.pdf) 
+1. [MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)
 
 2. [2022 Waiting List Application Form](https://go.gov.sg/wait-list-form-2022)
 
-3. [Income Family Micro-Insurance and Savings Scheme](https://www-shps-moe-edu-sg-admin.cwp.sg/qql/slot/u548/Quicklinks/Information%20to%20Parents/2018%20Info%20to%20Parents/Income_Family_Micro-Insurance_and_Savings_Scheme_(IFMISS).pdf)
+3. [Income Family Micro-Insurance and Savings Scheme](/files/Income_Family_Micro-Insurance_and_Savings_Scheme_(IFMISS).pdf)
 
-4. [FAQ of Income Family Micro-Insurance and Savings Scheme  (as of 12 Dec 2016)](https://www-shps-moe-edu-sg-admin.cwp.sg/qql/slot/u548/Quicklinks/Information%20to%20Parents/2018%20Info%20to%20Parents/FAQ_for_IFMISS.pdf)
+4. [FAQ of Income Family Micro-Insurance and Savings Scheme  (as of 12 Dec 2016)](/files/FAQ_for_IFMISS.pdf)
 
 5. [Leave of Absence Form](https://go.gov.sg/leave-of-absence-form)
 
-6. [Edusave Application Form](https://www.shps.moe.edu.sg/qql/slot/u548/Edusave_Application_Form_revisedSep19.pdf)
+6. [Edusave Application Form](/files/Edusave_Application_Form_revisedSep19.pdf)
 
 7. Please get the updated GIRO Application Form via this link: "[FAQ on how to apply for GIRO](https://va.ecitizen.gov.sg/cfp/customerPages/moe/displayresult.aspx?MesId=1287872)".
 
-8. [GIRO Termination Form](https://www.shps.moe.edu.sg/qql/slot/u548/GIRO_Termination_Form_revisedSep19.pdf)
+8. [GIRO Termination Form](/files/GIRO_Termination_Form_revisedSep19.pdf)
 
-9. [Parent Volunteer Scheme at SHPS (Parents of children born in 2018)](https://www.shps.moe.edu.sg/qql/slot/u1233/PARENT%20VOLUNTEER%20INVITATION%20_PV.pdf)  
+9. [Parent Volunteer Scheme at SHPS (Parents of children born in 2018)](/files/PARENT%20VOLUNTEER%20INVITATION%20_PV.pdf)  
 
   
 
@@ -50,4 +50,4 @@ third_nav_title: For Parents
 
 
   
-1. [Canteen Application Form](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Forms/Canteen%20Application%20Form.pdf)
+1. [Canteen Application Form](/files/Canteen%20Application%20Form.pdf)
