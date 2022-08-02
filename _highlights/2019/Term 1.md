@@ -16,8 +16,14 @@ third_nav_title: "2019"
 
 ![TOTAL DEFENCE DAY](/images/2019%20Total%20Defense.jpg)
 
-![](/images/2019%20MT%20Fortnight.jpg)
+### MOTHER TONGUE LANGUAGES FORTNIGHT
 
-![](/images/2019%20Student%20Leaders%20Investiture_ed.jpg)
+![MOTHER TONGUE LANGUAGES FORTNIGHT](/images/2019%20MT%20Fortnight.jpg)
 
-![](/images/2019%20Carnival_ed2.jpg)
+### 9TH HIDAN STUDENT COUNCIL STUDENT LEADERS’ INVESTITURE
+
+![9TH HIDAN STUDENT COUNCIL STUDENT LEADERS’ INVESTITURE](/images/2019%20Student%20Leaders%20Investiture_ed.jpg)
+
+### ST. HILDA’S SCHOOLS 85TH ANNIVERSARY CARNIVAL
+
+![ST. HILDA’S SCHOOLS 85TH ANNIVERSARY CARNIVAL](/images/2019%20Carnival_ed2.jpg)
