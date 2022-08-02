@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Rev-Graham-White-with-thanks-to-the-White-family-900x1280.jpg" alt="Anglican Archdeacon Graham White" style="width:50%;">  
+<body><img src="/images/Rev-Graham-White-with-thanks-to-the-White-family-900x1280.jpg" alt="Anglican Archdeacon Graham White" style="width:40%;">  
   
 </body>
 
