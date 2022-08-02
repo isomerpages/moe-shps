@@ -19,7 +19,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jls"><img src="/images/art%20club%20cover.png" alt="Art Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Art Club</span><br><a href="/co-curricular-activities/clubs-and-societies/art-club"><span style="text-decoration:none;color:inherit;background-color:transparent">Art Club</span></a><br></th>
+    <th class="tg-8jls"><img src="/images/art%20club%20cover.png" alt="Art Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/clubs-and-societies/art-club"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Art Club</strong></span></a><br></th>
     <th class="tg-hwgp"><img src="/images/chess%20club%20cover.png" alt="Basketball" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Chess Club</span><br><a href="/co-curricular-activities/clubs-and-societies/chess-club"><span style="text-decoration:none;color:inherit;background-color:transparent">Chess Club</span></a><br></th>
     <th class="tg-hwgp"><img src="/images/drama%20box%20cover.png" alt="Drama Box" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Drama Box</span><br><a href="/co-curricular-activities/clubs-and-societies/drama-box"><span style="text-decoration:none;color:inherit;background-color:transparent">Drama Box</span></a><br></th>
     <th class="tg-hwgp"><img src="/images/infocomm%20club%20cover.png" alt="Netball" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Infocomm Club
@@ -38,3 +38,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+
