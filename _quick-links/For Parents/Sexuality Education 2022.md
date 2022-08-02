@@ -132,3 +132,83 @@ Growing Years (GY) Programme: 
 </tbody>
 </table>
 
+<p style="text-align:center;"> <strong>PRIMARY 6</strong></p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">UNIT</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">LESSONS / DURATION</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">LESSON OBJECTIVES</span><br><span style="color:#222;background-color:#B0B0B0">At the end of the lesson, pupils will be able to:</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">TIME PERIOD</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w" rowspan="5"><span style="color:#222;background-color:#EAEAEA">Are We More Than Friends?</span><br><span style="color:#222;background-color:#EAEAEA">     </span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Who Are My Friends? (30 min)</span><br></td>
+    <td class="tg-y7qa"><br>- identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship</td>
+    <td class="tg-ku5w" rowspan="5"><span style="color:#222;background-color:#EAEAEA">Term 4 Post Exam Programme</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Am I A Good Friend? (30 min)</span><br></td>
+    <td class="tg-y7qa"><br>- identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the qualities of a good friend<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">What is Love?</span><br><span style="color:#222;background-color:#EAEAEA"> (30 min)</span><br></td>
+    <td class="tg-y7qa"><br>- identify the characteristics of love and infatuation <br>- distinguish between the characteristics of love versus infatuation <br>- identify strong feelings arising from infatuation</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Am I Falling In Love? (30 min)</span></td>
+    <td class="tg-y7qa"><br>- manage strong feelings arising from infatuation <br>- identify ways to manage and cope with teasing from peers</td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Main Task </span><br><span style="color:#222;background-color:#EAEAEA">(30 min)</span></td>
+    <td class="tg-y7qa"><br>Description of the Main Task:    <br><br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. </td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w" rowspan="3"><span style="color:#222;background-color:#EAEAEA">Friends or Foes?   </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Are You Really My Friend?</span><br><span style="color:#222;background-color:#EAEAEA">(30 min) </span></td>
+    <td class="tg-y7qa"><br><br>- identify the pros and cons of forming relationships through social networking websites <br>- know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-ku5w" rowspan="3"><span style="color:#222;background-color:#EAEAEA">Term 4 Post Exam Programme</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Is It All Safe?</span><br><span style="color:#222;background-color:#EAEAEA">(30 min) </span></td>
+    <td class="tg-y7qa"><br>- know that some information (like pornography) received through the Internet may be harmful <br>- know ways to keep themselves safe when using social networking websites or the Internet </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Main Task  </span><br><span style="color:#222;background-color:#EAEAEA">(30 min)</span></td>
+    <td class="tg-y7qa"><br>Description of the Main Task:    <br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility </td>
+  </tr>
+</tbody>
+</table>
+
+Information for parents
+-----------------------
+
+  
+
+8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+  
+
+9. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents before the commencement of the  programme.  
+
+  
+
+10. Parents can contact the school at 67811916 (Mrs Jasmine David – HOD CCE) for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+11. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
