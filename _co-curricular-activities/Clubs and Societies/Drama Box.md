@@ -8,7 +8,7 @@ The Drama Box aims to develop students’ interest and passion for theatrical ar
 
 ![Drama Club](/images/drama%20club%201.jpg)
 
-Drama Box Schedule:
+### Drama Box Schedule:
 
 
 
