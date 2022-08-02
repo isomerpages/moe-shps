@@ -4,17 +4,14 @@ title: St. Hilda's Primary School
 description: St Hilda's Primary School
 image: /images/school logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      background: /images/shps homepage.gif
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: School Virtual Tour
+          description: Dear Parents, please click here for our school's virtual tour.
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
@@ -29,5 +26,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
