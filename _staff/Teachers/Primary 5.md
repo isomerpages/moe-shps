@@ -26,7 +26,7 @@ third_nav_title: Teachers
 <tbody>
   <tr>
     <td class="tg-f4yw">5/1<br>Love  </td>
-    <td class="tg-7yig">Mdm Priscilla Goh<br><a href="mailto:goh_hwi_ping@schools.gov.sg">goh_hwi_ping@schools.gov.sg</a><br> </td>
+    <td class="tg-7yig">Mdm Priscilla Goh<br><a href="mailto:goh_hwi_ping@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">goh_hwi_ping@schools.gov.sg</a><br> </td>
     <td class="tg-7yig">Mdm Siti Khairunnisa Binte Abdullah<br><a href="mailto:Siti_khairunnisa_ABDULLAH@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">Siti_khairunnisa_ABDULLAH@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
