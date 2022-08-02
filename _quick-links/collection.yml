@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Students/Student iCON.md
       - For Students/Student Learning Space (SLS).md
       - For Students/AskNLearn.md
       - For Students/For Students.md
