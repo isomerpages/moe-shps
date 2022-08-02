@@ -43,3 +43,7 @@ The school strongly discourages Leave of Absence during the school term. For spe
 ### Immunisation
 
 Students must be immunised against diseases such as diphtheria, tetanus and poliomyelitis before joining the school.
+
+### P4 GEP Parents' Briefing 2022
+
+1) [P4 GEP Parents' Briefing Slides](/files/2022%20P4%20GEP%20Parents%20Briefing%20For%20School%20Website.pdf)
