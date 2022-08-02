@@ -111,8 +111,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jls"><img src="https://angmokiosec.moe.edu.sg/qql/slot/u531/style2022/sub/CCA/tn_badminton.png" alt="Badminton" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Badminton</span><br><a href="https://angmokiosec.moe.edu.sg/co-curriculum/sports-and-games/badminton"><span style="text-decoration:none;color:inherit;background-color:transparent">Badminton</span></a><br><img src="https://angmokiosec.moe.edu.sg/pix/spacer.gif"></th>
-    <th class="tg-hwgp"><img src="https://angmokiosec.moe.edu.sg/qql/slot/u531/style2022/sub/CCA/tn_basketball.png" alt="Basketball" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Basketball</span><br><a href="https://angmokiosec.moe.edu.sg/co-curriculum/sports-and-games/basketball"><span style="text-decoration:none;color:#FFF;background-color:transparent">Basketball</span></a><br><img src="https://angmokiosec.moe.edu.sg/pix/spacer.gif"></th>
+    <th class="tg-8jls"><img src="/images/boys%20brigade%20cover.png" alt="Boys' Brigade" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/uniformed-groups/boys-brigade"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Boys' Brigade</strong></span></a><br></th>
+    <th class="tg-hwgp"><img src="/images/girls%20brigade.png" alt="Girls' Brigade" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/uniformed-groups/girls-brigade"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Girls' Brigade</strong></span></a><br></th>
   </tr>
 </thead>
 </table>
