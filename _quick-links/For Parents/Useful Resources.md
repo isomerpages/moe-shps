@@ -7,15 +7,15 @@ third_nav_title: For Parents
 ### Useful Resources
   
 
-1.    [P6 Parents Engagement Session on PSLE Scoring & Secondary School Posting Systems](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Useful%20Resources/SHPS%20PSLE%20Indicative%20Scores.pdf)
+1.    [P6 Parents Engagement Session on PSLE Scoring & Secondary School Posting Systems](/files/SHPS%20PSLE%20Indicative%20Scores.pdf)
 
-2.    [COVID-19 vaccination for students (12 years and older)](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Useful%20Resources/COVID-19%20Vaccination%20for%20students%2012%20year%20and%20above.pdf)
+2.    [COVID-19 vaccination for students (12 years and older)](/files/COVID-19%20Vaccination%20for%20students%2012%20year%20and%20above.pdf)
 
-3.    [Video on changes to PSLE Scoring & Secondary School Posting Systems](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Useful%20Resources/Changes%20to%20the%20PSLE%20scoring%20and%20S1%20posting.mp4)
+3.    [Video on changes to PSLE Scoring & Secondary School Posting Systems](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Useful%20Resources/Changes%20to%20the%20PSLE%20scoring%20and%20S1%20posting.mp4) **VIDEO TO BE UPLOADED TO YOUTUBE**
 
-4.    [P5 Zoom Webinar on PSLE and New scoring system for Parents and Guardians](https://www.shps.moe.edu.sg/qql/slot/u548/P5%20Parent%20Engagement%20Session%208%20July%202021.pdf)
+4.    [P5 Zoom Webinar on PSLE and New scoring system for Parents and Guardians](/files/P5%20Parent%20Engagement%20Session%208%20July%202021.pdf)
 
-5.    [Canteen Menu](https://www.shps.moe.edu.sg/qql/slot/u1233/Canteen%20Menu%202022%20Revised%2001%20Jul.pdf)
+5.    [Canteen Menu](/files/Canteen%20Menu%202022%20Revised%2001%20Jul.pdf)
 
   
 
