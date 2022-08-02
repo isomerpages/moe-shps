@@ -53,3 +53,82 @@ Overview of ST HILDA’S PRIMARY SCHOOL’s Sexuality Education Programme for 20
 	b. Form Teacher Guidance Period (FTGP)
 
 	c. Character and Citizenship Education (CCE)
+	
+Growing Years (GY) Programme: 
+------------------------------
+
+<p style="text-align:center;">“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
+  
+
+6. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+
+  
+
+7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+
+
+<p style="text-align:center;"> <strong>At St Hilda’s Primary School, the following lessons from the Growing Years Programme will be taught in 2022:<br><br>PRIMARY 5</strong></p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">UNIT</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">LESSONS/DURATION</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">LESSON OBJECTIVES</span><br><span style="color:#222;background-color:#B0B0B0">At the end of the lesson, pupils will be able to:</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">TIME PERIOD</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k" rowspan="4"><span style="font-weight:normal">Gosh! I Am Changing</span><br><br><span style="font-weight:normal">   </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">What Is Happening To Me?</span><br><span style="font-weight:normal">(30 min)</span><br></td>
+    <td class="tg-y7qa"><span style="font-weight:normal">- know what puberty is</span><br><span style="font-weight:normal">- identify the physical changes during puberty</span></td>
+    <td class="tg-ii8k" rowspan="4"><span style="font-weight:normal">Term 2 Post Exam Programm</span><span style="color:#222;background-color:#EAEAEA">e</span><br><br><span style="color:#222;background-color:#EAEAEA">   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal">What Can I Do? (Part 1)</span><br><span style="font-weight:normal">(30 min) </span><br></td>
+    <td class="tg-y7qa"><br><span style="font-weight:normal">- identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">- describe the emotions caused by physical changes during puberty</span><br><span style="font-weight:normal">- recognise that one's identity does not change even when one's body is  experiencing change due to puberty </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal"> What Can I Do (Part 2)</span><br><span style="font-weight:normal">(30 min)</span><br></td>
+    <td class="tg-y7qa"><br><span style="font-weight:normal">identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">describe the emotions caused by physical changes during puberty</span><br><span style="font-weight:normal">recognise that one's identify does not change weven when one's body is experiencing change due to puberty </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal"> Main Task</span><br><span style="font-weight:normal">(30 min)</span><br></td>
+    <td class="tg-rj1p"><span style="color:#222;background-color:#EAEAEA"> </span><span style="font-weight:normal">Description of Main Task: </span><br><br><span style="font-weight:normal">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">Where I Belong  </span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal">What Are Families?</span><br><span style="font-weight:normal">(30 min) </span><br></td>
+    <td class="tg-y7qa"><br><span style="font-weight:normal">- know that there are different types of family structures</span><br><span style="font-weight:normal">- know that every family is unique</span><br><span style="font-weight:normal"> - state that the three basic  functions of families are to provide love, protection and guidance</span><br><span style="font-weight:normal">- identify the right sources of help to turn to when in need </span></td>
+    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">   Term 2 Post Exam Programme</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal"> What Is My Role?</span><br><span style="font-weight:normal">(30 min)</span><br></td>
+    <td class="tg-y7qa"><span style="font-weight:normal">- know that  gender is about being male or female</span><br><span style="font-weight:normal">- choose not to stereotype by gender</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">   How Do I Keep Myself Safe?</span><br></td>
+    <td class="tg-ii8k"><span style="font-weight:normal"> What Is Safety?</span><br><span style="font-weight:normal">(30 min)</span><br></td>
+    <td class="tg-y7qa"><br>- know what sexual abuse is<br><span style="font-weight:normal">- know that there are laws in Singapore that can protect them from sexual abuse</span><br><span style="font-weight:normal">- know their rights in keeping themselves safe from sexual abuse </span></td>
+    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">Term 2 Post Exam Programme   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="font-weight:normal"> Stop it! Run! Tell!</span><br></td>
+    <td class="tg-y7qa"><br><span style="font-weight:normal">- protect themselves  by resisting, removing themselves from harm and seeking help from a trusted adult.  </span><br><span style="font-weight:normal">- know their responsibilities in minimising the risk of sexual harm</span></td>
+  </tr>
+</tbody>
+</table>
+
