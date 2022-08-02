@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/sch_crest.png" alt="School Crest" style="width:40%;">  
+<body><img src="/images/sch_crest.png" alt="School Crest" style="width:25%;">  
   
 </body>
 
