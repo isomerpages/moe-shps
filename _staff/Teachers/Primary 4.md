@@ -42,7 +42,7 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-7yig">4/4<br>Praise<br></td>
-    <td class="tg-ee9d">Mrs Zoe Chu<br><a href="mailto:yeo_zoe@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_zoe@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mrs Zoe Chu<br><a href="mailto:yeo_zoe@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_zoe@schools.gov.sg</span></a><br></td>
     <td class="tg-7yig">Mdm Nurliyana Yahya<br><a href="mailto:nurliyana_yahya@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nurliyana_yahya@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
@@ -57,12 +57,12 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-7yig">4/7<br>Hope</td>
-    <td class="tg-ee9d">Ms Koh Hwee Kay<br><a href="mailto:koh_hwee_kay@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">koh_hwee_kay@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Ms Koh Hwee Kay<br><a href="mailto:koh_hwee_kay@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">koh_hwee_kay@schools.gov.sg</span></a><br></td>
     <td class="tg-7yig">Mr Long HK<br><a href="mailto:long_hian_kum@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">long_hian_kum@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">4/8<br>Grace</td>
-    <td class="tg-ee9d">Mrs Goh Yixin<br><a href="mailto:teo_yixin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teo_yixin@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mrs Goh Yixin<br><a href="mailto:teo_yixin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teo_yixin@schools.gov.sg</span></a><br></td>
     <td class="tg-7yig">Mrs Irene Tai<br><a href="mailto:ho_wai_leng_irene@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ho_wai_leng_irene@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
