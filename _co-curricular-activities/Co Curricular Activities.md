@@ -19,8 +19,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jls"><img src="/images/art%20club%20cover.png" alt="Art Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curricular-activities/clubs-and-societies/art-club"><span style="text-decoration:none;color:inherit;background-color:transparent">Art Club</span></a><br></th>
-    <th class="tg-hwgp"><img src="/images/chess%20club%20cover.png" alt="Chess Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curricular-activities/clubs-and-societies/chess-club"><span style="text-decoration:none;color:inherit;background-color:transparent">Chess Club</span></a><br></th>
+    <th class="tg-8jls"><a href="/co-curricular-activities/clubs-and-societies/art-club"><img src="/images/art%20club%20cover.png" alt="Art Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curricular-activities/clubs-and-societies/art-club"><span style="text-decoration:none;color:inherit;background-color:transparent">Art Club</span></a><br></th>
+    <th class="tg-hwgp"><a href="/co-curricular-activities/clubs-and-societies/chess-club"><img src="/images/chess%20club%20cover.png" alt="Chess Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curricular-activities/clubs-and-societies/chess-club"><span style="text-decoration:none;color:inherit;background-color:transparent">Chess Club</span></a><br></th>
     <th class="tg-hwgp"><img src="/images/tn_Football.png" alt="Football" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/sports-and-games/football"><span style="text-decoration:none;color:inherit;background-color:transparent">Football</span></a><br></th>
     <th class="tg-hwgp"><img src="/images/tn_netball.png" alt="Netball" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/sports-and-games/netball"><span style="text-decoration:none;color:inherit;background-color:transparent">Netball</span></a><br></th>
   </tr>
@@ -46,4 +46,3 @@ description: ""
 
 
 ### Uniformed Groups
-
