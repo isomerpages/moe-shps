@@ -32,12 +32,12 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-f4yw">2/2 <br>Joy</td>
-    <td class="tg-ee9d">Mdm Islina Ismail<br><a href="mailto:islina_ismail_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">islina_ismail_a@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mdm Islina Ismail<br><a href="mailto:islina_ismail_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">islina_ismail_a@schools.gov.sg</span></a><br></td>
     <td class="tg-7yig">Mdm Caris Bay<br><a href="mailto:caris_bay_tze_wei@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">caris_bay_tze_wei@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-f4yw">2/3 <br>Peace</td>
-    <td class="tg-ee9d">Mrs Eleanor Goh<br><a href="mailto:eleanor_goh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">eleanor_goh@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mrs Eleanor Goh<br><a href="mailto:eleanor_goh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">eleanor_goh@schools.gov.sg</span></a><br></td>
     <td class="tg-7yig">Mr Mohamad Zulkarnaen<br><a href="mailto:mohamad_zulkarnaen_selamat@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">mohamad_zulkarnaen_selamat@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
