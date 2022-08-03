@@ -28,16 +28,16 @@ third_nav_title: Teachers
   <tr>
     <td class="tg-7yig">1/1<br>Love<br><br></td>
     <td class="tg-f4yw">Mdm Shaheeda Anwar<br><a href="mailto:shaheeda_mohamed_anwar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">shaheeda_mohamed_anwar@schools.gov.sg</span></a></td>
-    <td class="tg-ee9d">Mdm Yang Shuang Rachel<br><a href="mailto:yang_shuang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yang_shuang@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mdm Yang Shuang Rachel<br><a href="mailto:yang_shuang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yang_shuang@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">1/2<br>Joy<br><br></td>
-    <td class="tg-ee9d">Ms Ho Wai Wai<br><a href="mailto:ho_wai_wai@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ho_wai_wai@schools.gov.sg</span></a><br></td>
-    <td class="tg-ee9d">Mrs Thilaga Suresh<br><a href="mailto:thilagavathy_suresh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Ms Ho Wai Wai<br><a href="mailto:ho_wai_wai@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ho_wai_wai@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mrs Thilaga Suresh<br><a href="mailto:thilagavathy_suresh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">1/3<br>Peace<br><br></td>
-    <td class="tg-ee9d">Mdm Wong Cui Dian<br><a href="mailto:wong_cui_dian@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wong_cui_dian@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mdm Wong Cui Dian<br><a href="mailto:wong_cui_dian@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wong_cui_dian@schools.gov.sg</span></a><br></td>
     <td class="tg-f4yw">Mdm Philomena Lim Ping Ping <br><a href="mailto:philomena_lim_ping_ping@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">philomena_lim_ping_ping@schools.gov.sg</span></a></td>
   </tr>
   <tr>
