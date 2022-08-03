@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCA draft.md
       - Co Curricular Activities.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Art Club.md
@@ -28,3 +27,4 @@ collections:
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
+      - CCA draft.md
