@@ -31,12 +31,12 @@ third_nav_title: Teachers
     <td class="tg-f4yw">Ms Nur Ashikin<br><a href="mailto:siti_nurashikin_mohd_sultan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">siti_nurashikin_mohd_sultan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7yig">3/2 <br><span style="background-color:initial">Joy</span></td>
-    <td class="tg-ee9d"><br>Mr Isaac Lin<br><br><a href="mailto:isaac_lin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">isaac_lin@schools.gov.sg</span></a></td>
+    <td class="tg-f4yw">3/2 <br><span style="background-color:initial">Joy</span></td>
+    <td class="tg-f4yw"><br>Mr Isaac Lin<br><br><a href="mailto:isaac_lin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">isaac_lin@schools.gov.sg</span></a></td>
     <td class="tg-7yig"><br>Ms Amira Tajudin<br><br><a href="mailto:amira_Tajudin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">amira_Tajudin@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-7yig">3/3 <br><span style="background-color:initial">Peace</span></td>
+    <td class="tg-f4yw">3/3 <br><span style="background-color:initial">Peace</span></td>
     <td class="tg-f4yw">Ms Adeline Boon<br><a href="mailto:adeline_boon@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">adeline_boon@schools.gov.sg</span></a></td>
     <td class="tg-7yig">Mdm Rani<br><a href="mailto:inthirani_nadarajah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">inthirani_nadarajah@schools.gov.sg</span></a></td>
   </tr>
