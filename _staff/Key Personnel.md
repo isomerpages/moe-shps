@@ -80,23 +80,28 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06"> Mrs Susana Lim</td>
-    <td class="tg-zr06">Assistant Year Head (P5)  </td>
+    <td class="tg-zr06">	Year Head<br>(Upper Primary)</td>
     <td class="tg-zr06"> <a href="mailto:lim_siok_fun_susana@schools.gov.sg">lim_siok_fun_susana@schools.gov.sg</a></td>
+  </tr>
+	  <tr>
+    <td class="tg-zr06"> Mrs Grace Chua</td>
+    <td class="tg-zr06">Assistant Year Head [internal]<br>(Upper Primary)</td>
+    <td class="tg-zr06"> <a href="mailto:chua_wee_leng@schools.gov.sg">chua_wee_leng@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-faf8">Mr Andrew Soong</td>
-    <td class="tg-faf8">Year Head (P3 &amp; P4)</td>
+    <td class="tg-faf8">Year Head<br>(Middle Primary)</td>
     <td class="tg-faf8"><a href="mailto:soong_kheng_fah_andrew@schools.gov.sg">soong_kheng_fah_andrew@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Sonia Lee</td>
-    <td class="tg-zr06">Year Head (P1 &amp; P2)</td>
-    <td class="tg-zr06"><a href="mailto:lee_sock_ping@schools.gov.sg">lee_sock_ping@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td class="tg-faf8">Mdm Jasjit Kaur</td>
-    <td class="tg-faf8">Assistant Year Head (P3 &amp; P4)</td>
+    <td class="tg-faf8">Assistant Year Head<br>(Middle Primary)</td>
     <td class="tg-faf8"><a href="mailto:jasjit_kaur_ranjit_singh@schools.gov.sg">jasjit_kaur_ranjit_singh@schools.gov.sg</a></td>
+  </tr>
+	  <tr>
+    <td class="tg-zr06">Mdm Sonia Lee</td>
+    <td class="tg-zr06">Year Head<br>(Lower Primary)</td>
+    <td class="tg-zr06"><a href="mailto:lee_sock_ping@schools.gov.sg">lee_sock_ping@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Ms Poh Lin Hui</td>
