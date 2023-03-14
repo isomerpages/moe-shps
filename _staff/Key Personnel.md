@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /staff/key-personnel
+permalink: /staff/key-personnel/
 description: ""
 ---
 <style type="text/css">
@@ -157,6 +157,11 @@ description: ""
     <td class="tg-faf8">Mrs Cindy Simon</td>
     <td class="tg-faf8">Senior Teacher<br>English Language</td>
     <td class="tg-faf8"><a href="mailto:simon_chin_see_cindy@schools.gov.sg">simon_chin_see_cindy@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <td class="tg-faf8">Ms Faith Huang</td>
+    <td class="tg-faf8">Senior Teacher<br>English Language</td>
+    <td class="tg-faf8"><a href="mailto: huang\_huiru\_faith@schools.gov.sg"> huang_huiru_faith@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mdm Natila Abu Bakar<br></td>
