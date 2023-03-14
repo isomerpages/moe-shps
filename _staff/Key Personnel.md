@@ -74,11 +74,6 @@ description: ""
     <td class="tg-zr06"><a href="mailto:lim_li_shi_jasmine@schools.gov.sg">lim_li_shi_jasmine@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mrs Gina Ow</td>
-    <td class="tg-faf8">Year Head (P6)</td>
-    <td class="tg-faf8"><a href="mailto:gina_ow@schools.gov.sg">gina_ow@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td class="tg-zr06"> Mrs Susana Lim</td>
     <td class="tg-zr06">	Year Head<br>(Upper Primary)</td>
     <td class="tg-zr06"> <a href="mailto:lim_siok_fun_susana@schools.gov.sg">lim_siok_fun_susana@schools.gov.sg</a></td>
