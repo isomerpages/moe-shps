@@ -10,11 +10,9 @@ The Art Club enables its members to see art as a meaningful process in life and 
 
 #### Art Club Schedule:
 
-  
-
 | Level | Day | Time |
 | --- | --- | --- |
-| P3 - P6 | Thursdays | 1.45pm - 3.45pm |
+| P3 - P6 | Thursdays | 2pm - 4pm |
 
 
 #### CCA Teachers:  
