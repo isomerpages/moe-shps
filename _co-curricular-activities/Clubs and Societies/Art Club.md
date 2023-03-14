@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /co-curricular-activities/clubs-and-societies/art-club
+permalink: /co-curricular-activities/clubs-and-societies/art-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -8,7 +8,7 @@ The Art Club enables its members to see art as a meaningful process in life and 
 
  ![Art Club](/images/art%20club%201.jpg) 
 
-### Art Club Schedule:
+#### Art Club Schedule:
 
   
 
@@ -16,15 +16,8 @@ The Art Club enables its members to see art as a meaningful process in life and 
 | --- | --- | --- |
 | P3 - P6 | Thursdays | 1.45pm - 3.45pm |
 
-  
 
-  
-
-  
-
-  
-
-### CCA Teachers:  
+#### CCA Teachers:  
 
   
 
