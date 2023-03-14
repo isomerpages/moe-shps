@@ -139,9 +139,9 @@ description: ""
     <td class="tg-faf8"><a href="mailto:farah_anna_mohamed@schools.gov.sg">farah_anna_mohamed@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Ms Adeline Boon</td>
-    <td class="tg-zr06">Level Head<br>Student Management</td>
-    <td class="tg-zr06"><a href="mailto:adeline_boon@schools.gov.sg">adeline_boon@schools.gov.sg</a></td>
+    <td class="tg-zr06">Mrs Sabrina Neo</td>
+    <td class="tg-zr06">Subject Head<br>Information & Communication<br>Technology  </td>
+    <td class="tg-zr06"><a href="mailto:seah\_jia\_fen\_sabrina@schools.gov.sg">seah_jia_fen_sabrina@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-faf8">Mrs Nazima S Mohammed</td>
