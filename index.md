@@ -16,7 +16,4 @@ sections:
         - title: Gratitude Portal
           description: Dear Parents, please click here to access the portal.
           url: https://thankyoucher.edu.sg/
-        - title: HIGHLIGHTS
-          description: Coming Soon
-          url: ""
 ---
