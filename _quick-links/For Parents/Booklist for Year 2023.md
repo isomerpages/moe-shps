@@ -24,47 +24,47 @@ third_nav_title: For Parents
 <tbody>
   <tr>
     <td class="tg-f4yw">P1</td>
-    <td class="tg-6s4d"><a href="[](/files/P1%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 1 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P1%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 1 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P2</td>
-    <td class="tg-6s4d"><a href="[](/files/P2%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 2 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P2%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 2 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P3</td>
-    <td class="tg-6s4d"><a href="[](/files/P3%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 3 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P3%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 3 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P4</td>
-    <td class="tg-6s4d"><a href="[](/files/P4%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 4 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P4%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 4 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P4 (GEP)</td>
-    <td class="tg-6s4d"><a href="[](/files/P4%20GEP%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 4 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P4%20GEP%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 4 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P5</td>
-    <td class="tg-6s4d"><a href="[](/files/P5%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P5%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P5 (GEP)</td>
-    <td class="tg-6s4d"><a href="[](/files/P5%20TEXTBOOK%20GEP%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P5%20TEXTBOOK%20GEP%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P5 (FDN)</td>
-    <td class="tg-6s4d"><a href="[](/files/P5%20TEXTBOOK%20FDN%202%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P5%20TEXTBOOK%20FDN%202%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P6</td>
-    <td class="tg-6s4d"><a href="[](/files/P6%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P6%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P6 (GEP)</td>
-    <td class="tg-6s4d"><a href="[](/files/P6%20TEXTBOOK%20GEP%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P6%20TEXTBOOK%20GEP%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P6 (FDN)</td>
-    <td class="tg-6s4d"><a href="[](/files/P6%20TEXTBOOK%20FDN%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P6%20TEXTBOOK%20FDN%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
 </tbody>
 </table>
