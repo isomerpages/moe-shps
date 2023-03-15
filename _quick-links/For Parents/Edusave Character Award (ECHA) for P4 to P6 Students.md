@@ -1,6 +1,6 @@
 ---
 title: Edusave Character Award (ECHA) for P4 to P6 Students
-permalink: /quick-links/for-parents/edusave-character-award-echa-for-p4-to-p6-students
+permalink: /quick-links/for-parents/edusave-character-award-echa-for-p4-to-p6-students/
 description: ""
 third_nav_title: For Parents
 ---
@@ -48,7 +48,8 @@ The nominated students must: 
 Nomination
 ----------
 
-The form must be duly completed and submitted through your child’s Form Teacher by Monday, 16 August 2021.  
-A copy of the nomination form can be downloaded [here](/files/ECHA_NOMINATION_FORM_FOR_PARENTS_2021.pdf).   
+  
+The form must be duly completed and submitted through your child’s Form Teacher by Wednesday, 31 August 2022.  
+A copy of the nomination form can be downloaded [here](/files/ECHA_NOMINATION_FORM_FOR_PARENTS_2022.pdf).   
   
 Thank you.
