@@ -4,9 +4,7 @@ permalink: /quick-links/for-parents/sexuality-education-2023/
 description: ""
 third_nav_title: For Parents
 ---
-
-MOE Sexuality Education in Schools
-----------------------------------
+### MOE Sexuality Education in Schools
 
   
 
