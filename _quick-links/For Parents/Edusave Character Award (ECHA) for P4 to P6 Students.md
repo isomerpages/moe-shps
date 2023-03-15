@@ -6,8 +6,6 @@ third_nav_title: For Parents
 ---
 Dear Parents, 
 
-  
-
 The Ministry of Education (MOE) introduced the Edusave Character Award (ECHA) in 2012 to **enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions.** This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports our efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
 
   
