@@ -93,13 +93,11 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">UNIT</span><br></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">UNIT</span><br></th>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">LESSONS/DURATION</span><br></th>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">LESSON OBJECTIVES</span><br><span style="color:#222;background-color:#B0B0B0">At the end of the lesson, pupils will be able to:</span><br></th>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">TIME PERIOD</span><br></th>
@@ -107,42 +105,18 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k" rowspan="4"><span style="font-weight:normal">Gosh! I Am Changing</span><br><br><span style="font-weight:normal">   </span></td>
-    <td class="tg-ii8k"><span style="font-weight:normal">What Is Happening To Me?</span><br><span style="font-weight:normal">(30 min)</span><br></td>
-    <td class="tg-y7qa"><span style="font-weight:normal">- know what puberty is</span><br><span style="font-weight:normal">- identify the physical changes during puberty</span></td>
-    <td class="tg-ii8k" rowspan="4"><span style="font-weight:normal">Term 2 Post Exam Programm</span><span style="color:#222;background-color:#EAEAEA">e</span><br><br><span style="color:#222;background-color:#EAEAEA">   </span></td>
+    <td class="tg-ii8k" rowspan="3"><span style="font-weight:400">Growing</span><br><span style="font-weight:400">Years</span><br></td>
+    <td class="tg-ii8k"><span style="font-weight:400">The Changes in Me</span><br><span style="font-weight:normal">(60 min)</span><br></td>
+    <td class="tg-y7qa"><span style="font-weight:normal">Identify the emotions and stresses caused by physical changes during puberty.</span><br><span style="font-weight:normal">Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty.</span><br><span style="font-weight:normal">Recognise that one’s identity does not change even when one’s body is experiencing change due to puberty.</span></td>
+    <td class="tg-ii8k" rowspan="3"><span style="font-weight:normal">Term 2</span><br><span style="color:#222;background-color:#EAEAEA">   </span></td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><span style="font-weight:normal">What Can I Do? (Part 1)</span><br><span style="font-weight:normal">(30 min) </span><br></td>
-    <td class="tg-y7qa"><br><span style="font-weight:normal">- identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">- describe the emotions caused by physical changes during puberty</span><br><span style="font-weight:normal">- recognise that one's identity does not change even when one's body is  experiencing change due to puberty </span></td>
+    <td class="tg-ii8k"><span style="font-weight:400">Did You Know</span><span style="font-weight:normal">?</span><br><span style="font-weight:normal">(60 min) </span><br></td>
+    <td class="tg-y7qa"><span style="font-weight:400">Know what pornography is and how it can affect them and others.</span><br><span style="font-weight:400">Understand the dangers of pornography and reject the viewing and/or reading of pornographic materials.</span><br><span style="font-weight:400">Recognise possible situations where they may encounter pornography.</span><br><span style="font-weight:400">Evaluate their responses when encounter pornography using 'Stop-Think-Do'.</span></td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><span style="font-weight:normal"> What Can I Do (Part 2)</span><br><span style="font-weight:normal">(30 min)</span><br></td>
-    <td class="tg-y7qa"><br><span style="font-weight:normal">identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:normal">describe the emotions caused by physical changes during puberty</span><br><span style="font-weight:normal">recognise that one's identify does not change weven when one's body is experiencing change due to puberty </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><span style="font-weight:normal"> Main Task</span><br><span style="font-weight:normal">(30 min)</span><br></td>
-    <td class="tg-rj1p"><span style="color:#222;background-color:#EAEAEA"> </span><span style="font-weight:normal">Description of Main Task: </span><br><br><span style="font-weight:normal">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">Where I Belong  </span></td>
-    <td class="tg-ii8k"><span style="font-weight:normal">What Are Families?</span><br><span style="font-weight:normal">(30 min) </span><br></td>
-    <td class="tg-y7qa"><br><span style="font-weight:normal">- know that there are different types of family structures</span><br><span style="font-weight:normal">- know that every family is unique</span><br><span style="font-weight:normal"> - state that the three basic  functions of families are to provide love, protection and guidance</span><br><span style="font-weight:normal">- identify the right sources of help to turn to when in need </span></td>
-    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">   Term 2 Post Exam Programme</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><span style="font-weight:normal"> What Is My Role?</span><br><span style="font-weight:normal">(30 min)</span><br></td>
-    <td class="tg-y7qa"><span style="font-weight:normal">- know that  gender is about being male or female</span><br><span style="font-weight:normal">- choose not to stereotype by gender</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">   How Do I Keep Myself Safe?</span><br></td>
-    <td class="tg-ii8k"><span style="font-weight:normal"> What Is Safety?</span><br><span style="font-weight:normal">(30 min)</span><br></td>
-    <td class="tg-y7qa"><br>- know what sexual abuse is<br><span style="font-weight:normal">- know that there are laws in Singapore that can protect them from sexual abuse</span><br><span style="font-weight:normal">- know their rights in keeping themselves safe from sexual abuse </span></td>
-    <td class="tg-ii8k" rowspan="2"><span style="font-weight:normal">Term 2 Post Exam Programme   </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><span style="font-weight:normal"> Stop it! Run! Tell!</span><br></td>
-    <td class="tg-y7qa"><br><span style="font-weight:normal">- protect themselves  by resisting, removing themselves from harm and seeking help from a trusted adult.  </span><br><span style="font-weight:normal">- know their responsibilities in minimising the risk of sexual harm</span></td>
+    <td class="tg-ii8k"><span style="font-weight:normal"> </span><span style="font-weight:400">Keeping Myself Safe</span><br><span style="font-weight:normal">(60 min)</span><br></td>
+    <td class="tg-y7qa"><span style="font-weight:normal">Know what sexual abuse is and identify the signs of danger online.</span><br><span style="font-weight:normal">Explain their rights in keeping themselves safe from sexual abuse.</span><br><span style="font-weight:normal">Elaborate on the precautionary measures they should take when they communicate with people online.</span><br><span style="font-weight:normal">Evaluate and explain how they can protect themselves online / offline and avoid dangers.</span></td>
   </tr>
 </tbody>
 </table>
@@ -171,48 +145,23 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ku5w" rowspan="5"><span style="color:#222;background-color:#EAEAEA">Are We More Than Friends?</span><br><span style="color:#222;background-color:#EAEAEA">     </span></td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Who Are My Friends? (30 min)</span><br></td>
-    <td class="tg-y7qa"><br>- identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship</td>
-    <td class="tg-ku5w" rowspan="5"><span style="color:#222;background-color:#EAEAEA">Term 4 Post Exam Programme</span><br></td>
+    <td class="tg-ku5w" rowspan="3"><span style="color:#222;background-color:#EAEAEA">Growing</span><br><span style="color:#222;background-color:#EAEAEA">Years</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Are We More Than Friends?</span><br><span style="color:#222;background-color:#EAEAEA">(60 min)</span><br></td>
+    <td class="tg-y7qa"><br>Understand the differences between love and infatuation.<br>Identify the strong emotions that may arise from infatuation.</td>
+    <td class="tg-ku5w" rowspan="3"><span style="color:#222;background-color:#EAEAEA">Term 3</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Am I A Good Friend? (30 min)</span><br></td>
-    <td class="tg-y7qa"><br>- identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the qualities of a good friend<br><br></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Are We More Than Friends?</span><br><span style="color:#222;background-color:#EAEAEA">(60 min)</span><br></td>
+    <td class="tg-ii8k"><br>Learn some healthy ways to manage the strong emotions. <br>Recognise the negative impact of teasing their peers who may be experiencing infatuation.</td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">What is Love?</span><br><span style="color:#222;background-color:#EAEAEA"> (30 min)</span><br></td>
-    <td class="tg-y7qa"><br>- identify the characteristics of love and infatuation <br>- distinguish between the characteristics of love versus infatuation <br>- identify strong feelings arising from infatuation</td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Am I Falling In Love? (30 min)</span></td>
-    <td class="tg-y7qa"><br>- manage strong feelings arising from infatuation <br>- identify ways to manage and cope with teasing from peers</td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Main Task </span><br><span style="color:#222;background-color:#EAEAEA">(30 min)</span></td>
-    <td class="tg-y7qa"><br>Description of the Main Task:    <br><br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. </td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w" rowspan="3"><span style="color:#222;background-color:#EAEAEA">Friends or Foes?   </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Are You Really My Friend?</span><br><span style="color:#222;background-color:#EAEAEA">(30 min) </span></td>
-    <td class="tg-y7qa"><br><br>- identify the pros and cons of forming relationships through social networking websites <br>- know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-ku5w" rowspan="3"><span style="color:#222;background-color:#EAEAEA">Term 4 Post Exam Programme</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Is It All Safe?</span><br><span style="color:#222;background-color:#EAEAEA">(30 min) </span></td>
-    <td class="tg-y7qa"><br>- know that some information (like pornography) received through the Internet may be harmful <br>- know ways to keep themselves safe when using social networking websites or the Internet </td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Main Task  </span><br><span style="color:#222;background-color:#EAEAEA">(30 min)</span></td>
-    <td class="tg-y7qa"><br>Description of the Main Task:    <br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility </td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Did You Know?</span><br><span style="color:#222;background-color:#EAEAEA"> (60 min)</span><br></td>
+    <td class="tg-y7qa"><br>Know what pornography is and how it can affect them and others.<br>Understand the dangers of pornography and reject the viewing and/or reading of pornographic materials.<br>Recognise possible situations where they may encounter pornography.<br>Evaluate their responses when encounter pornography using 'Stop-Think-Do'.</td>
   </tr>
 </tbody>
 </table>
 
-Information for parents
------------------------
-
-  
+### Information for parents
 
 8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
