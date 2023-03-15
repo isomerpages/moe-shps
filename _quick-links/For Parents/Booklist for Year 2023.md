@@ -28,15 +28,15 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-f4yw"> P2</td>
-    <td class="tg-6s4d"><a href="https://www.shps.moe.edu.sg/qql/slot/u1233/P2%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 2 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="[](/files/P2%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 2 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P3</td>
-    <td class="tg-6s4d"><a href="https://www.shps.moe.edu.sg/qql/slot/u1233/P3%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 3 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="[](/files/P3%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 3 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P4</td>
-    <td class="tg-6s4d"><a href="https://www.shps.moe.edu.sg/qql/slot/u1233/P4%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 4 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="[](/files/P4%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 4 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P4 (GEP)</td>
