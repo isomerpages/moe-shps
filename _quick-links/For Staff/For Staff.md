@@ -1,11 +1,10 @@
 ---
 title: For Staff
-permalink: /quick-links/for-staff
+permalink: /quick-links/for-staff/
 description: ""
 third_nav_title: For Staff
 ---
-Quicklinks for SHPS Staff
--------------------------
+### Quicklinks for SHPS Staff
 
 **\- [AV/ICT Fault Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSc9eSEXE8hbFEgRJDYQwfowxj_zSxrVRt6VyQHOyQFws82znA/viewform)**
 
