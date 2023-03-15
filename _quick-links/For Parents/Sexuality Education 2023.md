@@ -36,22 +36,42 @@ third_nav_title: For Parents
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)  for more information on MOE Sexuality Education.
 
-Overview of ST HILDA’S PRIMARY SCHOOL’s Sexuality Education Programme for 2022
-------------------------------------------------------------------------------
+### Overview of ST HILDA’S PRIMARY SCHOOL’s Sexuality Education Programme for 2023
+
+  
+4. The MOE Sexuality Education curriculum is holistic and secular. It is taught through
+
+        a. Science 
+
+        b.    Form Teacher Guidance Period (FTGP)   
+
+        b. Character and Citizenship Education (CCE)
 
   
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)  for more information on the scope of Sexuality Education in the school curriculum.
+5. The Primary 5 and 6 SEd lessons in the Character and Citizenship Education (CCE) 2021 aim to equip students with the social-emotional skills to understand themselves, navigate changes arising from pubertal development, build healthy relationships and keep safe when online. 
 
   
 
-5. The subjects that incorporate topics on sexuality include:
+6.  The content of Sexuality Education is grouped into five main themes:
 
-	a. Science 
+        • **Human development**: the onset of puberty and its psychological and emotional impact.
 
-	b. Form Teacher Guidance Period (FTGP)
+        • **Interpersonal relationships**: the skills and values for healthy and rewarding relationships with friends and
 
-	c. Character and Citizenship Education (CCE)
+                family, including the opposite sex.
+
+        • **Sexual health**: information and attitudes to promote sexual health and avoid unwanted consequences of
+
+                sexual behaviour.
+
+        • **Sexual behaviour**: expressions of sexuality and their effects.
+
+        • **Culture, society and law**: societal, cultural and legal influences on sexual identity and sexual expressions.
+
+  
+
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 	
 Growing Years (GY) Programme: 
 ------------------------------
