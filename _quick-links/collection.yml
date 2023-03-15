@@ -2,12 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For Students/.keep
-      - For Students/For Students.md
-      - For Students/AskNLearn.md
-      - For Students/Student Learning Space (SLS).md
-      - For Students/Student iCON.md
-      - For Students/Office 365 Login.md
       - For Parents/.keep
       - For Parents/P1 Orientation 2022.md
       - For Parents/Booklist for Year 2022.md
@@ -18,6 +12,12 @@ collections:
       - For Parents/SHPS CCA e Open House.md
       - For Parents/Sexuality Education 2022.md
       - For Parents/Edusave Character Award (ECHA) for P4 to P6 Students.md
+      - For Students/.keep
+      - For Students/For Students.md
+      - For Students/AskNLearn.md
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Student iCON.md
+      - For Students/Office 365 Login.md
       - For Staff/.keep
       - For Staff/For Staff.md
       - For Staff/Staff Travel Declaration.md
