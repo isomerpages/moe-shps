@@ -60,11 +60,11 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-f4yw"> P6 (GEP)</td>
-    <td class="tg-6s4d"><a href="https://www.shps.moe.edu.sg/qql/slot/u1233/P6%20TEXTBOOK%20GEP%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="[](/files/P6%20TEXTBOOK%20GEP%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (GEP) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P6 (FDN)</td>
-    <td class="tg-6s4d"><a href="https://www.shps.moe.edu.sg/qql/slot/u1233/P6%20TEXTBOOK%20FDN%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="[](/files/P6%20TEXTBOOK%20FDN%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 6 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
 </tbody>
 </table>
