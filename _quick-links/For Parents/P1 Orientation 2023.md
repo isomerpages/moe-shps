@@ -4,9 +4,10 @@ permalink: /quick-links/for-parents/p1-orientation-2023/
 description: ""
 third_nav_title: For Parents
 ---
+1. [Virtual Tour Video Link](https://www-shps-moe-edu-sg-admin.cwp.sg/quick-links/for-parents/school-virtual-tour)
 
-1. [Virtual Tour Video Link](https://drive.google.com/file/d/1YKU-r0zOSsOoB7q99BJCGzuQ-x7TFYPd/view)
+2. [2023 P1 Orientation Principal's Address](https://www.shps.moe.edu.sg/qql/slot/u1233/2023%20P1%20Orientation%20-%20Principals%20Address.pdf)
 
-2. [2022 P1 Orientation Principals Address](/files/2022%20P1%20Orientation%20-%20Principals%20Address_for%20school%20website.pdf)
+3. [2023 Briefing for Parents](https://www.shps.moe.edu.sg/qql/slot/u1233/Briefing%20for%20Parents%20on%2011%20Nov%202022.pdf) 
 
 3. [P1 Administration Package Link](https://go.gov.sg/shps-p1information)
