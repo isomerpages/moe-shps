@@ -24,7 +24,7 @@ third_nav_title: For Parents
 <tbody>
   <tr>
     <td class="tg-f4yw">P1</td>
-    <td class="tg-6s4d"><a href="https://www.shps.moe.edu.sg/qql/slot/u1233/P1%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 1 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="[](/files/P1%20TEXTBOOK%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 1 BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P2</td>
