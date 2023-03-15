@@ -73,20 +73,16 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 	
-Growing Years (GY) Programme: 
-------------------------------
+### Growing Years (GY) Programme: 
 
-<p style="text-align:center;">“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
-  
-
-6. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+7. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Growing Years” is a response to these challenges.
 
   
 
-7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+8. The Primary 5 & 6 Growing Years (GY) package, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 
-<p style="text-align:center;"> <strong>At St Hilda’s Primary School, the following lessons from the Growing Years Programme will be taught in 2022:<br><br>PRIMARY 5</strong></p>
+<p style="text-align:center;"> <strong>At St Hilda’s Primary School, the following lessons from the Growing Years Programme will be taught in 2023 through CCE (FTGP):<br><br>PRIMARY 5</strong></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
