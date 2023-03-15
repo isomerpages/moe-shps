@@ -52,7 +52,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-f4yw"> P5 (FDN)</td>
-    <td class="tg-6s4d"><a href="https://www.shps.moe.edu.sg/qql/slot/u1233/P5%20TEXTBOOK%20FDN%202%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="[](/files/P5%20TEXTBOOK%20FDN%202%20FOR%20YEAR%202023.pdf)"><span style="text-decoration:none;color:#FDB900">PRIMARY 5 (FOUNDATION) BOOKLIST FOR YEAR 2023</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P6</td>
