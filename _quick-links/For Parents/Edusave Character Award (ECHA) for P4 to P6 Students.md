@@ -22,8 +22,7 @@ The objectives of the ECHA are:
 
             (b) To recognise outstanding students in each school who are exemplary in character, and who can be role models to inspire others.
 
-Eligibility Criteria
---------------------
+### Eligibility Criteria
 
 The nominated students must:   
 
@@ -45,8 +44,7 @@ The nominated students must: 
 
             (c) Qualities associated with resilience: Students who have persevered despite facing difficult circumstances (e.g. financial problems, health issues, family issues, peer resistance etc) and have managed to overcome the odds and still do commendably well in academic and non-academic domains. Students may be nominated regardless of their academic results provided that their weak academic results are not due to negative character traits but attributed to difficulties that go beyond the control of the student.
 
-Nomination
-----------
+### Nomination
 
   
 The form must be duly completed and submitted through your child’s Form Teacher by Wednesday, 31 August 2022.  
