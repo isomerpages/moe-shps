@@ -3,7 +3,7 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-
+<div style="border: 1px solid black;">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -103,37 +103,4 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-<div id="_ptoo_block_start" style="font-size:1px;border:1px solid transparent"></div>
-
-<div id="_ptoo_PTOID" class="pageblock_box " style="display:none">
-    <div id="_ptod_PTOID" class="ive_editable ive_ptod ive_content"></div>
 </div>
-
-  <div id="_ptoo_89653" class="pageblock_box " >
-    <div id="_ptod_89653" class="ive_editable ive_ptod ive_content"><table style="text-align: center; width: 687.898px; height: 677px;" border="0" width="0" cellspacing="0" cellpadding="0" class="ive_eobj_center iveo_table ives_tab_simple3">
-<tbody>
-<tr style="height: 0.25in;">
-<td style="width: 43px; height: 0.25in;" width="48">
-<p style="text-align: center;"><strong style="background-color: initial;"><br></strong></p><p style="text-align: center;"><strong style="background-color: initial;">S/No</strong><br></p>
-</td>
-<td style="width: 142px; height: 0.25in;" width="129">
-<p style="text-align: center;"><strong style="background-color: initial;"><br></strong></p><p style="text-align: center;"><strong style="background-color: initial;">APPOINTMENT</strong><br></p>
-</td>
-<td style="width: 157px; height: 0.25in;" width="221">
-<p style="text-align: center;"><strong style="background-color: initial;"><br></strong></p><p style="text-align: center;"><strong style="background-color: initial;">NAME</strong><br></p>
-</td>
-
-<td style="width: 345px;"><b><br>REMARKS</b></td></tr>
-
-
-<tr><td><font face="arial, sans-serif">1<font size="2">&nbsp;</font></font></td><td><font size="2" face="arial, sans-serif">&nbsp;Chairman</font></td><td><font size="2" face="arial, sans-serif">Mr Kelvin Koh&nbsp;</font></td><td style="width: 60px;"><font size="2" face="arial, sans-serif">&nbsp;</font></td></tr><tr><td><font size="2" face="arial, sans-serif">2</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Vice-Chairman</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Mrs Helen Tan</font></td><td style="width: 60px;"><font size="2" face="arial, sans-serif">Bishop’s Nominee (St Hilda’s Church (SHC))&nbsp;</font></td></tr><tr><td><font size="2" face="arial, sans-serif">3&nbsp;</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Honorary Secretary</font></td><td><font size="2" face="arial, sans-serif">Mrs Janice Lim&nbsp;</font></td><td style="width: 60px;"><font size="2" face="arial, sans-serif">&nbsp;Principal, St Hilda’s Secondary School (SHSS) / Honorary Secretary</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;4</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Treasurer</font></td><td><font size="2" face="arial, sans-serif">Mr Alvin Ng&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">&nbsp;Chapel of Christ the Redeemer (CCR) Parochial Church Council (PCC)
-Representative</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;5</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Member</font></td><td><font size="2" face="arial, sans-serif">Mrs Alice Tan&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">Secretary
-of Schools, Diocese of Singapore&nbsp;</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;6</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Member</font></td><td><font size="2" face="arial, sans-serif">Mrs Daphne Yeoh&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">&nbsp;Principal, St Hilda’s Primary School (SHPS)</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;7</font></td><td><font size="2" face="arial, sans-serif">Member&nbsp;</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Rev Victor Teo</font></td><td style="width: 60px;"><font face="arial, sans-serif"><font size="2">Chaplain for SHPS and SHSS/Vicar, CCR&nbsp;</font></font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;8</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Member</font></td><td><font size="2" face="arial, sans-serif">Ms Marilyn Ng&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">&nbsp;Alumni
-President</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;9</font></td><td><font size="2" face="arial, sans-serif">Member&nbsp;</font></td><td><font size="2" face="arial, sans-serif">Mr Seah Eng Wee&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">&nbsp;Parent
-Support Group (PSG) Chairman, SHPS</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;10&nbsp;</font></td><td><font size="2" face="arial, sans-serif">Member&nbsp;</font></td><td><font size="2" face="arial, sans-serif">Mr Mark Joel Premraj&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">PSG
-Chairman, SHSS&nbsp;</font></td></tr><tr><td><font size="2" face="arial, sans-serif">11</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Member</font></td><td><font size="2" face="arial, sans-serif">Mdm Lily John&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">&nbsp;St.
-Hilda’s Church (SHC) PCC Representative</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;12&nbsp;</font></td><td><font size="2" face="arial, sans-serif">Member&nbsp;</font></td><td><font size="2" face="arial, sans-serif">Mr Desmond Hoo&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">&nbsp;Bishop’s Nominee (CCR)</font></td></tr><tr><td><font size="2" face="arial, sans-serif">&nbsp;13</font></td><td><font size="2" face="arial, sans-serif">&nbsp;Member</font></td><td><font size="2" face="arial, sans-serif">Rev Martin Jungnickel&nbsp;</font></td><td style="width: 60px;"><font face="arial, sans-serif" size="2">Vicar,
-SHC&nbsp;</font></td></tr>
-</tbody>
-</table>
