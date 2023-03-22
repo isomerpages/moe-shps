@@ -3,4 +3,102 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-<table border="0" width="0" cellspacing="0" cellpadding="0" class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; width: 687.898px; height: 677px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0.25in;"><td width="48" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 43px; height: 0.25in;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></strong></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">S/No</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></p></td><td width="129" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 142px; height: 0.25in;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></strong></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">APPOINTMENT</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></p></td><td width="221" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 157px; height: 0.25in;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></strong></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">NAME</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 345px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">REMARKS</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">1<font size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Chairman</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mr Kelvin Koh&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">2</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Vice-Chairman</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Mrs Helen Tan</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Bishop’s Nominee (St Hilda’s Church (SHC))&nbsp;</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">3&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Honorary Secretary</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mrs Janice Lim&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Principal, St Hilda’s Secondary School (SHSS) / Honorary Secretary</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;4</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Treasurer</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mr Alvin Ng&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Chapel of Christ the Redeemer (CCR) Parochial Church Council (PCC) Representative</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;5</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Member</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mrs Alice Tan&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Secretary of Schools, Diocese of Singapore&nbsp;</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;6</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Member</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mrs Daphne Yeoh&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Principal, St Hilda’s Primary School (SHPS)</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;7</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Member&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Rev Victor Teo</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;"><font size="2" style="margin: 0px; outline: 0px; padding: 0px;">Chaplain for SHPS and SHSS/Vicar, CCR&nbsp;</font></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;8</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Member</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Ms Marilyn Ng&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Alumni President</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;9</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Member&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mr Seah Eng Wee&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Parent Support Group (PSG) Chairman, SHPS</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;10&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Member&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mr Mark Joel Premraj&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">PSG Chairman, SHSS&nbsp;</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">11</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Member</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lily John&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;St. Hilda’s Church (SHC) PCC Representative</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;12&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Member&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Mr Desmond Hoo&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Bishop’s Nominee (CCR)</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;13</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Member</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><font size="2" face="arial, sans-serif" style="margin: 0px; outline: 0px; padding: 0px;">Rev Martin Jungnickel&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><font face="arial, sans-serif" size="2" style="margin: 0px; outline: 0px; padding: 0px;">Vicar, SHC&nbsp;</font></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm"><br><span style="background-color:initial">S/No</span><br></th>
+    <th class="tg-amwm"><br><span style="background-color:initial">APPOINTMENT</span><br></th>
+    <th class="tg-amwm"><br><span style="background-color:initial">NAME</span><br></th>
+    <th class="tg-amwm"><br>REMARKS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">1 </td>
+    <td class="tg-baqh"> Chairman</td>
+    <td class="tg-baqh">Mr Kelvin Koh </td>
+    <td class="tg-baqh"> </td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh"> Vice-Chairman</td>
+    <td class="tg-baqh"> Mrs Helen Tan</td>
+    <td class="tg-baqh">Bishop’s Nominee (St Hilda’s Church (SHC)) </td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3 </td>
+    <td class="tg-baqh"> Honorary Secretary</td>
+    <td class="tg-baqh">Mrs Janice Lim </td>
+    <td class="tg-baqh"> Principal, St Hilda’s Secondary School (SHSS) / Honorary Secretary</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 4</td>
+    <td class="tg-baqh"> Treasurer</td>
+    <td class="tg-baqh">Mr Alvin Ng </td>
+    <td class="tg-baqh"> Chapel of Christ the Redeemer (CCR) Parochial Church Council (PCC) Representative</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 5</td>
+    <td class="tg-baqh"> Member</td>
+    <td class="tg-baqh">Mrs Alice Tan </td>
+    <td class="tg-baqh">Secretary of Schools, Diocese of Singapore </td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 6</td>
+    <td class="tg-baqh"> Member</td>
+    <td class="tg-baqh">Mrs Daphne Yeoh </td>
+    <td class="tg-baqh"> Principal, St Hilda’s Primary School (SHPS)</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 7</td>
+    <td class="tg-baqh">Member </td>
+    <td class="tg-baqh"> Rev Victor Teo</td>
+    <td class="tg-baqh">Chaplain for SHPS and SHSS/Vicar, CCR </td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 8</td>
+    <td class="tg-baqh"> Member</td>
+    <td class="tg-baqh">Ms Marilyn Ng </td>
+    <td class="tg-baqh"> Alumni President</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 9</td>
+    <td class="tg-baqh">Member </td>
+    <td class="tg-baqh">Mr Seah Eng Wee </td>
+    <td class="tg-baqh"> Parent Support Group (PSG) Chairman, SHPS</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 10 </td>
+    <td class="tg-baqh">Member </td>
+    <td class="tg-baqh">Mr Mark Joel Premraj </td>
+    <td class="tg-baqh">PSG Chairman, SHSS </td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh"> Member</td>
+    <td class="tg-baqh">Mdm Lily John </td>
+    <td class="tg-baqh"> St. Hilda’s Church (SHC) PCC Representative</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 12 </td>
+    <td class="tg-baqh">Member </td>
+    <td class="tg-baqh">Mr Desmond Hoo </td>
+    <td class="tg-baqh"> Bishop’s Nominee (CCR)</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 13</td>
+    <td class="tg-baqh"> Member</td>
+    <td class="tg-baqh">Rev Martin Jungnickel </td>
+    <td class="tg-baqh">Vicar, SHC </td>
+  </tr>
+</tbody>
+</table>
