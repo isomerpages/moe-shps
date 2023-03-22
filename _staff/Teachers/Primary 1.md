@@ -32,8 +32,8 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-baqh">1/2<br>Joy<br><br></td>
-    <td class="tg-nau8">Mrs Sarah Wee<br><a href="mailto:wong_siew_yin_sarah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wong_siew_yin_sarah@schools.gov.sg</span></a><br></td>
-    <td class="tg-nau8">Mrs Thilaga Suresh<br><a href="mailto:thilagavathy_suresh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix">Mrs Sarah Wee<br><a href="mailto:wong_siew_yin_sarah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wong_siew_yin_sarah@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh">Mrs Thilaga Suresh<br><a href="mailto:thilagavathy_suresh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-baqh">1/3<br>Peace<br><br></td>
