@@ -11,4 +11,4 @@ Please click [here](https://issuu.com/touche-design/docs/st_hildas_primary_maga
 School e-Magazine Downloadable PDF
 ----------------------------------
 
-Please download the file **here** ***(zip file!)***
+Please download the file [here](https://docs.google.com/forms/d/e/1FAIpQLSffVcFrB4saPwmI-Dob3eDsXIp-23uInU4Aw2MF6prcp7NItg/viewform).
