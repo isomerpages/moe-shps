@@ -3,16 +3,15 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-
 <style type="text/css">
 table { border-collapse: collapse;}
-th, td {border: 1px solid black; padding: 10px; text-align: left;}
+td {border: 1px solid black; text-align: left;}
 </style>
 
 <table>
-<thead  style="border: 1px solid black">
+<thead style="border: 1px solid black">
   <tr>
-    <th  style="border: 1px solid black">S/No<br></th>
+    <th style="border: 1px solid black">S/No<br></th>
     <th  style="border: 1px solid black">APPOINTMENT<br></th>
     <th style="border: 1px solid black">NAME<br></th>
     <th style="border: 1px solid black">REMARKS</th>
