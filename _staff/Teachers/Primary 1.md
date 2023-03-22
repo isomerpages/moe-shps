@@ -28,12 +28,12 @@ third_nav_title: Teachers
   <tr>
     <td class="tg-baqh"><br>1/1<br>Love<br><br></td>
     <td class="tg-nrix">Mrs Eleanor Goh<br><a href="mailto:eleanor_goh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">eleanor_goh@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh">Mrs Koh-Tan Peng Peng<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tan_peng_peng@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh"><br>Mrs Koh-Tan Peng Peng<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tan_peng_peng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-baqh"><br>1/2<br>Joy<br><br></td>
     <td class="tg-nrix">Mrs Sarah Wee<br><a href="mailto:wong_siew_yin_sarah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wong_siew_yin_sarah@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh">Mrs Thilaga Suresh<br><a href="mailto:thilagavathy_suresh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh"><br>Mrs Thilaga Suresh<br><a href="mailto:thilagavathy_suresh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-baqh"><br>1/3<br>Peace<br><br></td>
