@@ -25,12 +25,12 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix">3/1<br>Love</td>
-    <td class="tg-nrix">Mrs Yeo Yew Ling<br><a href="mailto:yeo_yew_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_yew_ling@schools.gov.sg</span></a><br></td>
-    <td class="tg-nrix">Mdm Jasjit Kaur  <br><a href="mailto:jasjit_kaur_ranjit_singh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">jasjit_kaur_ranjit_singh@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix"><br>3/1<br>Love</td>
+    <td class="tg-nrix"><br>Mrs Yeo Yew Ling<br><a href="mailto:yeo_yew_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_yew_ling@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix"><br>Mdm Jasjit Kaur  <br><a href="mailto:jasjit_kaur_ranjit_singh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">jasjit_kaur_ranjit_singh@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh">3/2 <br><span style="background-color:initial">Joy</span></td>
+    <td class="tg-baqh"><br>3/2 <br><span style="background-color:initial">Joy</span></td>
     <td class="tg-nau8"><br>Mrs Zoe Chu<br><br><a href="mailto:yeo_zoe@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_zoe@schools.gov.sg</span></a><br></td>
     <td class="tg-baqh"><br>Mdm Khairunnisa<br><a href="mailto:khairunnisa_shamsuri@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">khairunnisa_shamsuri@schools.gov.sg</span></a><br><br></td>
   </tr>
