@@ -3,7 +3,7 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-<style>
+<style type="text/css">
   table {
     border-collapse: collapse;
   }
