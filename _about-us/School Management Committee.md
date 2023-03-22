@@ -4,14 +4,8 @@ permalink: /about-us/school-management-committee/
 description: ""
 ---
 <style type="text/css">
-  table {
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid orange;
-    padding: 10px;
-    text-align: left;
-  }
+table { border-collapse: collapse;}
+th, td {border: 1px solid orange; padding: 10px; text-align: left;}
 </style>
 
 <table>
