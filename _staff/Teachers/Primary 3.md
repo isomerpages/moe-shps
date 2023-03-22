@@ -31,7 +31,7 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-baqh"><br>3/2 <br><span style="background-color:initial">Joy</span></td>
-    <td class="tg-nau8"><br>Mrs Zoe Chu<br><br><a href="mailto:yeo_zoe@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_zoe@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix"><br>Mrs Zoe Chu<br><br><a href="mailto:yeo_zoe@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_zoe@schools.gov.sg</span></a><br></td>
     <td class="tg-baqh"><br>Mdm Khairunnisa<br><a href="mailto:khairunnisa_shamsuri@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">khairunnisa_shamsuri@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
