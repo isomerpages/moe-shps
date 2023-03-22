@@ -37,7 +37,7 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-baqh">1/3<br>Peace<br><br></td>
-    <td class="tg-nau8">Mdm Rohayah <br><a href="mailto:wong_siew_yin_sarah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">rohaya_yaacub@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix">Mdm Rohayah <br><a href="mailto:wong_siew_yin_sarah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">rohaya_yaacub@schools.gov.sg</span></a><br></td>
     <td class="tg-nrix">Ms Caris Bay<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">caris_bay_tze_wei@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
