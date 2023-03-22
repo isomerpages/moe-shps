@@ -26,7 +26,7 @@ third_nav_title: Teachers
 <tbody>
   <tr>
     <td class="tg-nrix">6/1<br>Love</td>
-    <td class="tg-nau8"><br>Mdm Priscilla Goh<br><a href="mailto:goh_hwi_ping@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">goh_hwi_ping@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh"><br>Mdm Priscilla Goh<br><a href="mailto:goh_hwi_ping@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">goh_hwi_ping@schools.gov.sg</span></a><br></td>
     <td class="tg-baqh"><br>Mdm Siti Khairunnisa Binte Abdullah<br><a href="mailto:Siti_khairunnisa_ABDULLAH@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">Siti_khairunnisa_abdullah@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-nrix">6/4<br>Praise</td>
-    <td class="tg-nau8"><br>Mr Suhaimi Khalil<br><a href="mailto:suhaimi_b_khalil@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">suhaimi_b_khalil@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh"><br>Mr Suhaimi Khalil<br><a href="mailto:suhaimi_b_khalil@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">suhaimi_b_khalil@schools.gov.sg</span></a><br></td>
     <td class="tg-baqh">Ms Poh Lin Hui<br><a href="mailto:poh_lin_hui@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">poh_lin_hui@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
