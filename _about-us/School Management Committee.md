@@ -4,13 +4,13 @@ permalink: /about-us/school-management-committee/
 description: ""
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0;     border=1; frame=void; rules=rows;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top; border-right:solid #d6d6d6;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top;  border-right:solid #d6d6d6;}
 </style>
 <table class="tg">
 <thead>
