@@ -25,7 +25,7 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix"><br>3/1<br>Love</td>
+    <td class="tg-nrix"><br>3/1<br><span style="background-color:initial">Love</span></td>
     <td class="tg-nrix"><br>Mrs Yeo Yew Ling<br><a href="mailto:yeo_yew_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_yew_ling@schools.gov.sg</span></a><br></td>
     <td class="tg-nrix"><br>Mdm Jasjit Kaur  <br><a href="mailto:jasjit_kaur_ranjit_singh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">jasjit_kaur_ranjit_singh@schools.gov.sg</span></a><br></td>
   </tr>
