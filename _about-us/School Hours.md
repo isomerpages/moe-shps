@@ -112,31 +112,31 @@ td {border: 1px solid black; text-align: left;}
 </style>
 	
 <table>
-<thead>
+<thead style="border: 1px solid black">
   <tr>
-    <th>Turnstile Gate</th>
-    <th>Days</th>
-    <th>Operating Hours</th>
+    <th style="border: 1px solid black">Turnstile Gate</th>
+    <th style="border: 1px solid black">Days</th>
+    <th style="border: 1px solid black">Operating Hours</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2"><br>3A<br><br>(At Tampines Ave 3)</td>
-    <td>School Days<br>(Mondays to Fridays)</td>
-    <td>6.45am to 7.30am (entry only)<br>1.15pm to 4.30pm (exit only)</td>
+    <td rowspan="2" style="border: 1px solid black"><br><b>3A</b><br><br>(At Tampines Ave 3)</td>
+    <td style="border: 1px solid black">School Days<br>(Mondays to Fridays)</td>
+    <td style="border: 1px solid black">6.45am to 7.30am (entry only)<br>1.15pm to 4.30pm (exit only)</td>
   </tr>
-  <tr>
-    <td>School Holidays<br>(Mondays to Fridays)</td>
-    <td>Closed</td>
+  <tr style="border: 1px solid black">
+    <td style="border: 1px solid black">School Holidays<br>(Mondays to Fridays)</td>
+    <td style="border: 1px solid black">Closed</td>
   </tr>
-  <tr>
-    <td rowspan="2"><br><br>4A<br><br>(At Tampines Ave 4)</td>
-    <td>School Days<br><br>(Mondays to Fridays)</td>
-    <td>6.45am to 7.30am (entry only)<br>1.15pm to 7pm (exit only)</td>
+  <tr style="border: 1px solid black">
+    <td rowspan="2" style="border: 1px solid black"><br><br><b>4A</b><br><br>(At Tampines Ave 4)</td>
+    <td style="border: 1px solid black">School Days<br><br>(Mondays to Fridays)</td>
+    <td style="border: 1px solid black">6.45am to 7.30am (entry only)<br>1.15pm to 7pm (exit only)</td>
   </tr>
-  <tr>
-    <td>School Holidays<br>(Mondays to Fridays)</td>
-    <td>7.30am to 9.30am (entry only)<br><br>9.30am to 7pm (exit only)</td>
+  <tr style="border: 1px solid black">
+    <td style="border: 1px solid black">School Holidays<br>(Mondays to Fridays)</td>
+    <td style="border: 1px solid black">7.30am to 9.30am (entry only)<br><br>9.30am to 7pm (exit only)</td>
   </tr>
 </tbody>
 </table>
