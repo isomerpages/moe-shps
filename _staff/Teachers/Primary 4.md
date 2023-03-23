@@ -41,8 +41,8 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-baqh"><br>4/4<br>Praise<br></td>
-    <td class="tg-baqh"><br>Mr Brian Song<br><a href="mailto:brian_song_chuen_ming@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">brian_song_chuen_ming@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh"><br>Mdm Nurliyana Yahya<br><a href="mailto:nurliyana_yahya@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nurliyana_yahya@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh"><br>Mdm Nurliyana Yahya<br><a href="mailto:nurliyana_yahya@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nurliyana_yahya@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh"><br>Mr Jonathan Teng<br><a href="mailto:teng_wei_kang_jonathan_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teng_wei_kang_jonathan_a@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-baqh"><br>4/5<br>Truth  </td>
