@@ -14,48 +14,48 @@ third_nav_title: Teachers
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
   <tr>
-    <th class="tg-a4yv">CLASS</th>
-    <th class="tg-a4yv">FORM TEACHER</th>
-    <th class="tg-a4yv">CO-FORM TEACHER<br></th>
+    <th class="tg-a4yv" style="border: 1px solid black">CLASS</th>
+    <th class="tg-a4yv" style="border: 1px solid black">FORM TEACHER</th>
+    <th class="tg-a4yv" style="border: 1px solid black">CO-FORM TEACHER<br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-7yig"><br>2/1<br>Love<br><br></td>
-    <td class="tg-f4yw">Mdm Shaheeda Anwar<br><a href="mailto:shaheeda_mohamed_anwar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">shaheeda_mohamed_anwar@schools.gov.sg</span></a> <br></td>
-    <td class="tg-f4yw">Mdm Jeslin Toh<br><a href="mailto:toh_bee_hong_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">toh_bee_hong_a@schools.gov.sg</span></a><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-7yig" style="border: 1px solid black"><br>2/1<br>Love<br><br></td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Shaheeda Anwar<br><a href="mailto:shaheeda_mohamed_anwar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">shaheeda_mohamed_anwar@schools.gov.sg</span></a> <br></td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Jeslin Toh<br><a href="mailto:toh_bee_hong_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">toh_bee_hong_a@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/2 <br>Joy<br></td>
-    <td class="tg-7yig"><br>Ms Ho Wai Wai<br><a href="mailto:ho_wai_wai@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ho_wai_wai@schools.gov.sg</span></a><br><br></td>
-    <td class="tg-f4yw">Mdm Rani<br><a href="mailto:inthirani_nadarajah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">inthirani_nadarajah@schools.gov.sg</span></a><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/2 <br>Joy<br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Ms Ho Wai Wai<br><a href="mailto:ho_wai_wai@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ho_wai_wai@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Rani<br><a href="mailto:inthirani_nadarajah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">inthirani_nadarajah@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/3 <br>Peace</td>
-    <td class="tg-7yig"><br>Mdm Yang Shuang Rachel<br><a href="mailto:yang_shuang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yang_shuang@schools.gov.sg</span></a><br><br></td>
-    <td class="tg-f4yw">Mdm Philomena Lim Ping Ping <br><a href="mailto:philomena_lim_ping_ping@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">philomena_lim_ping_ping@schools.gov.sg</span></a><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/3 <br>Peace</td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Mdm Yang Shuang Rachel<br><a href="mailto:yang_shuang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yang_shuang@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Philomena Lim Ping Ping <br><a href="mailto:philomena_lim_ping_ping@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">philomena_lim_ping_ping@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/4 <br>Praise</td>
-    <td class="tg-f4yw">Mdm Lee Mei Ling<br><a href="mailto:lee_mei_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lee_mei_ling@schools.gov.sg</span></a><br></td>
-    <td class="tg-7yig"><br>Mdm Grace Chew<br><a href="mailto:chew_jia_chi_grace@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">chew_jia_chi_grace@schools.gov.sg</span></a><br><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/4 <br>Praise</td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Lee Mei Ling<br><a href="mailto:lee_mei_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lee_mei_ling@schools.gov.sg</span></a><br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Mdm Grace Chew<br><a href="mailto:chew_jia_chi_grace@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">chew_jia_chi_grace@schools.gov.sg</span></a><br><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/5 <br>Truth</td>
-    <td class="tg-f4yw">Mdm Haziah Jamale<br><a href="mailto:haziah_jamale@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">haziah_jamale@schools.gov.sg</span></a><br></td>
-    <td class="tg-7yig"><br>Mrs Josephine Leo<br><a href="mailto:ng_siok_hong_josephine@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ng_siok_hong_josephine@schools.gov.sg</span></a><br><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/5 <br>Truth</td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Haziah Jamale<br><a href="mailto:haziah_jamale@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">haziah_jamale@schools.gov.sg</span></a><br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Mrs Josephine Leo<br><a href="mailto:ng_siok_hong_josephine@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ng_siok_hong_josephine@schools.gov.sg</span></a><br><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/6 <br>Faith</td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/6 <br>Faith</td>
     <td class="tg-f4yw">Mdm Lu Na<br><a href="mailto:lu_na@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lu_na@schools.gov.sg</span></a><br></td>
-    <td class="tg-7yig"><br>Mdm Teo May Ling<br><a href="mailto:teo_may_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teo_may_ling@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Mdm Teo May Ling<br><a href="mailto:teo_may_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teo_may_ling@schools.gov.sg</span></a><br><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/7<br> Hope</td>
-    <td class="tg-f4yw">Ms Nicole Chan<br><a href="mailto:nicole_chan_poh_wan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nicole_chan_poh_wan@schools.gov.sg</span></a><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/7<br> Hope</td>
+    <td class="tg-f4yw" style="border: 1px solid black">Ms Nicole Chan<br><a href="mailto:nicole_chan_poh_wan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nicole_chan_poh_wan@schools.gov.sg</span></a><br></td>
     <td class="tg-7yig"><br>Mdm Pheroza<br><a href="mailto:pheroza_ahmad_maricar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">pheroza_ahmad_maricar@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
