@@ -26,7 +26,7 @@ third_nav_title: Teachers
   <tr>
     <td class="tg-nrix">5/1<br>Love  </td>
     <td class="tg-baqh"><br>Mdm Fu Huimin<br><a href="mailto:fu_huimin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">fu_huimin@schools.gov.sg</span></a><br> </td>
-    <td class="tg-baqh"><br>Mr Lenz Teng Hui Yieng<br><a href="mailto:teng_hui_yieng@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teng_hui_yieng@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh"><br>Mr Hashim<br><a href="mailto:thashim_bin_mohd_shariff@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teng_hui_yieng@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-nrix">5/2<br>Joy</td>
