@@ -35,7 +35,7 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-f4yw">2/3 <br>Peace</td>
-    <td class="tg-7yig"><br>Mdm Wong Cui Dian<br><a href="mailto:wong_cui_dian@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wong_cui_dian@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-7yig"><br>Mdm Yang Shuang Rachel<br><a href="mailto:yang_shuang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yang_shuang@schools.gov.sg</span></a><br><br></td>
     <td class="tg-f4yw">Mdm Philomena Lim Ping Ping <br><a href="mailto:philomena_lim_ping_ping@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">philomena_lim_ping_ping@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
