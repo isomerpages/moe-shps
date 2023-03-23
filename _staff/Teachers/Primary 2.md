@@ -26,7 +26,7 @@ third_nav_title: Teachers
   <tr>
     <td class="tg-7yig"><br>2/1<br>Love<br><br></td>
     <td class="tg-f4yw">Mdm Shaheeda Anwar<br><a href="mailto:shaheeda_mohamed_anwar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">shaheeda_mohamed_anwar@schools.gov.sg</span></a> <br></td>
-    <td class="tg-f4yw">Mdm Yang Shuang Rachel<br><a href="mailto:yang_shuang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yang_shuang@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw">Mdm Jeslin Toh<br><a href="mailto:toh_bee_hong_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">toh_bee_hong_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-f4yw">2/2 <br>Joy<br></td>
