@@ -41,7 +41,7 @@ third_nav_title: Teachers
   <tr>
     <td class="tg-nrix">5/4<br>Praise  </td>
     <td class="tg-baqh"><br>Ms Edwina Lee<br><a href="mailto:lee_xin_ting_edwina@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lee_xin_ting_edwina@schools.gov.sg</span></a><br> </td>
-    <td class="tg-baqh"><br>Mr Chua Wei Ming<br><a href="mailto:chua_wei_ming@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">chua_wei_ming@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh"><br>Mrs Jocelyn Chan<br><a href="mailto:lin_xiuqin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lin_xiuqin@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-nrix">5/5<br>Truth  </td>
