@@ -103,10 +103,40 @@ td {border: 1px solid black; text-align: left;}
   </tr>
 </tbody>
 </table>
+
+<br>
 	
 <style type="text/css">
 table { border-collapse: collapse;}
 td {border: 1px solid black; text-align: left;}
 </style>
 	
-	
+<table>
+<thead>
+  <tr>
+    <th>Turnstile Gate</th>
+    <th>Days</th>
+    <th>Operating Hours</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2"><br>3A<br><br>(At Tampines Ave 3)</td>
+    <td>School Days<br>(Mondays to Fridays)</td>
+    <td>6.45am to 7.30am (entry only)<br>1.15pm to 4.30pm (exit only)</td>
+  </tr>
+  <tr>
+    <td>School Holidays<br>(Mondays to Fridays)</td>
+    <td>Closed</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><br><br>4A<br><br>(At Tampines Ave 4)</td>
+    <td>School Days<br><br>(Mondays to Fridays)</td>
+    <td>6.45am to 7.30am (entry only)<br>1.15pm to 7pm (exit only)</td>
+  </tr>
+  <tr>
+    <td>School Holidays<br>(Mondays to Fridays)</td>
+    <td>7.30am to 9.30am (entry only)<br><br>9.30am to 7pm (exit only)</td>
+  </tr>
+</tbody>
+</table>
