@@ -56,17 +56,17 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-f4yw" style="border: 1px solid black">2/7<br> Hope</td>
     <td class="tg-f4yw" style="border: 1px solid black">Ms Nicole Chan<br><a href="mailto:nicole_chan_poh_wan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nicole_chan_poh_wan@schools.gov.sg</span></a><br></td>
-    <td class="tg-7yig"><br>Mdm Pheroza<br><a href="mailto:pheroza_ahmad_maricar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">pheroza_ahmad_maricar@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Mdm Pheroza<br><a href="mailto:pheroza_ahmad_maricar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">pheroza_ahmad_maricar@schools.gov.sg</span></a><br><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/8 <br>Grace</td>
-    <td class="tg-f4yw">Mdm Wang Qi<br><a href="mailto:wang_qi@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wang_qi@schools.gov.sg</span></a><br></td>
-    <td class="tg-7yig"><br>Ms Priscilla George<br><a href="mailto:priscilla_george_annadorai@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">priscilla_george_annadorai@schools.gov.sg</span></a><br><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/8 <br>Grace</td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Wang Qi<br><a href="mailto:wang_qi@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wang_qi@schools.gov.sg</span></a><br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Ms Priscilla George<br><a href="mailto:priscilla_george_annadorai@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">priscilla_george_annadorai@schools.gov.sg</span></a><br><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2/9 <br>Trust</td>
-    <td class="tg-f4yw">Ms Dhashni Manogaran<br><a href="mailto:dhashni_manogaran@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">dhashni_manogaran@schools.gov.sg</span></a><br></td>
-    <td class="tg-7yig"><br>Mdm Liew Weiling<br><a href="mailto:liew_weiling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">liew_weiling@schools.gov.sg</span></a><br><br></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-f4yw" style="border: 1px solid black">2/9 <br>Trust</td>
+    <td class="tg-f4yw" style="border: 1px solid black">Ms Dhashni Manogaran<br><a href="mailto:dhashni_manogaran@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">dhashni_manogaran@schools.gov.sg</span></a><br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Mdm Liew Weiling<br><a href="mailto:liew_weiling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">liew_weiling@schools.gov.sg</span></a><br><br></td>
   </tr>
 </tbody>
 </table>
