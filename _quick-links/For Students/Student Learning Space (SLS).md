@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 ### 1. Student Learning Space (SLS)
 
-The SLS can be accessed here: https://vle.learning.moe.edu.sg/login
+The SLS can be accessed here: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 
 For technical assistance, you may contact
 
