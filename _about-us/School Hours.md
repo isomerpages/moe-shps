@@ -103,3 +103,10 @@ td {border: 1px solid black; text-align: left;}
   </tr>
 </tbody>
 </table>
+	
+<style type="text/css">
+table { border-collapse: collapse;}
+td {border: 1px solid black; text-align: left;}
+</style>
+	
+	
