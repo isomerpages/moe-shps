@@ -1,6 +1,6 @@
 ---
 title: Useful Resources
-permalink: /quick-links/for-parents/useful-resources
+permalink: /quick-links/for-parents/useful-resources/
 description: ""
 third_nav_title: For Parents
 ---
@@ -11,7 +11,7 @@ third_nav_title: For Parents
 
 2.    [COVID-19 vaccination for students (12 years and older)](/files/COVID-19%20Vaccination%20for%20students%2012%20year%20and%20above.pdf)
 
-3.    [Video on changes to PSLE Scoring & Secondary School Posting Systems](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Useful%20Resources/Changes%20to%20the%20PSLE%20scoring%20and%20S1%20posting.mp4) **VIDEO TO BE UPLOADED TO YOUTUBE**
+3.    [Video on changes to PSLE Scoring & Secondary School Posting Systems](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Useful%20Resources/Changes%20to%20the%20PSLE%20scoring%20and%20S1%20posting.mp4)
 
 4.    [P5 Zoom Webinar on PSLE and New scoring system for Parents and Guardians](/files/P5%20Parent%20Engagement%20Session%208%20July%202021.pdf)
 
