@@ -113,7 +113,7 @@ description: ""
   <tr>
     <th class="tg-8jls"><a href="/co-curricular-activities/uniformed-groups/boys-brigade"><img src="/images/boys%20brigade%20cover.png" alt="Boys' Brigade" style="width:130px"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/uniformed-groups/boys-brigade"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Boys' Brigade</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/uniformed-groups/girls-brigade"><img src="/images/girls%20brigade.png" alt="Girls' Brigade" style="width:130px"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/uniformed-groups/girls-brigade"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Girls' Brigade</strong></span></a><br></th>
-		<th class="tg-nlyn"> </th>
+		<th class="tg-nlyn"></th>
     <th class="tg-0lax"></th>
   </tr>
 </thead>
