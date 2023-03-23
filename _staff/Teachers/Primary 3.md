@@ -41,13 +41,14 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-nrix"><br>3/4<br>Praise</td>
-    <td class="tg-nrix"><br>Ms Preethi Valsalan<br><a href="mailto:preethi_valsalan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">preethi_valsalan@schools.gov.sg</span></a><br><br></td>
-    <td class="tg-nrix"><br>Ms Yeap Jia Ying<br><a href="mailto:yeap_jia_ying@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeap_jia_ying@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-nrix"><br>Ms Yeap Jia Ying
+<br><a href="mailto:yeap_jia_ying@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeap_jia_ying@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-nrix"><br>Mdm Katie Tay<br><a href="mailto:tay_lay_yong_katie@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tay_lay_yong_katie@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-nrix"><br>3/5<br>Truth</td>
-    <td class="tg-nrix"><br>Mr Nasrullah Jaffar<br><a href="mailto:nasrullah_b_jaffar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nasrullah_b_jaffar@schools.gov.sg</span></a><br><br></td>
     <td class="tg-nrix"><br>Mrs Long Ai Sang<br><a href="mailto:chua_ai_sang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">chua_ai_sang@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-nrix"><br>Mr Shankar<br><a href="mailto:shankar_raja_segar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">shankar_raja_segar@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-nrix"><br>3/6<br>Faith</td>
