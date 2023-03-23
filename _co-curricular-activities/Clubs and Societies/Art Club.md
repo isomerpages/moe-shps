@@ -8,7 +8,8 @@ The Art Club enables its members to see art as a meaningful process in life and 
 
  ![Art Club](/images/art%20club%201.jpg) 
 
-#### Art Club Schedule:
+##### Art Club Schedule:
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -36,8 +37,6 @@ The Art Club enables its members to see art as a meaningful process in life and 
 </table>
 
 
-#### CCA Teachers:  
-
-  
+##### CCA Teachers:  
 
 <table class="iveo_table ives_tab_simple3 ive_eobj_left" cellspacing="0" cellpadding="0" border="1" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 527px; height: 122px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 263px;">Overall Teacher-in-charge</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 263px;">Mr Zulkarnean<br style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:mohamad_zulkarnaen_selamat@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(253, 185, 0); text-decoration: none;">mohamad_zulkarnaen_selamat@schools.gov.sg</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 22pt;"><td rowspan="2" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 193pt;">Teachers-in-charge &nbsp; &nbsp;</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 193pt;">Mr Isaac Lin<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Mdm Khairunnisa</span></td></tr></tbody></table>
