@@ -49,7 +49,7 @@ Mother Tongue books on Thu-Fri. 
 
 \*HMT – Higher Mother Tongue and FMA – Foundation Mathematics
 
-<h3><font color="#09204A">School Gates Opening Hours</h3>
+<h3><font color="#09204A">School Gates Opening Hours</font></h3>
 
 <style type="text/css">
 table { border-collapse: collapse;}
