@@ -136,7 +136,7 @@ td {border: 1px solid black; text-align: left;}
   </tr>
   <tr style="border: 1px solid black">
     <td style="border: 1px solid black">School Holidays<br>(Mondays to Fridays)</td>
-    <td style="border: 1px solid black"><em>7.30am to 9.30am (entry only)<br><br>9.30am to 7pm (exit only)</em></td>
+    <td style="border: 1px solid black"><em>7.30am to 9.30am (entry only)<br>9.30am to 7pm (exit only)</em></td>
   </tr>
 </tbody>
 </table>
