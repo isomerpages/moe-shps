@@ -26,7 +26,7 @@ third_nav_title: Teachers
 </thead>
 <tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-baqh"style="border: 1px solid black"><br>1/1<br>Love<br><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>1/1<br>Love<br><br></td>
     <td class="tg-nrix" style="border: 1px solid black">Mrs Eleanor Goh<br><a href="mailto:eleanor_goh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">eleanor_goh@schools.gov.sg</span></a><br></td>
     <td class="tg-baqh" style="border: 1px solid black"><br>Mrs Koh-Tan Peng Peng<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tan_peng_peng@schools.gov.sg</span></a><br></td>
   </tr>
