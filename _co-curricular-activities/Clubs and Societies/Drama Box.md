@@ -36,7 +36,6 @@ The Drama Box aims to develop students’ interest and passion for theatrical ar
   </tr>
 </tbody>
 </table>
-</table>
 
 #### CCA Teachers: 
 
