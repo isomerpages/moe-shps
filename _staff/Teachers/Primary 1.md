@@ -33,7 +33,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>1/2<br>Joy<br><br></td>
     <td class="tg-nrix" style="border: 1px solid black">Mrs Sarah Wee<br><a href="mailto:wong_siew_yin_sarah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wong_siew_yin_sarah@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Ms Koh Hwee Kay<br><a href="mailto:koh_hwee_kay@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Ms Koh Hwee Kay<br><a href="mailto:koh_hwee_kay@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">koh_hwee_kay@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-baqh" style="border: 1px solid black"><br>1/3<br>Peace<br><br></td>
