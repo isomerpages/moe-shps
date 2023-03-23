@@ -66,7 +66,7 @@ td {border: 1px solid black; text-align: left;}
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" rowspan="2"><br><br><b>1</b> – vehicular access<br><br><b>1A</b> – pedestrian access <br><br><br>(At Tampines St 82)</td>
+    <td rowspan="2" style="border: 1px solid black"><br><br><b>1</b> – vehicular access<br><br><b>1A</b> – pedestrian access <br><br><br>(At Tampines St 82)</td>
     <td style="border: 1px solid black"><br><br>School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black">6.30am to 6.30pm<br><br>Closed on public holidays.<br> <br>Note: Non-school staff vehicles are not allowed to enter when school buses are in the compound during the following times:<br><br>12.30pm to 2pm<br>3pm to 4.15pm </td>
   </tr>
@@ -75,7 +75,7 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black">7.00am to 5.00pm</td>
   </tr>
   <tr style="border: 1px solid black">
-    <td style="border: 1px solid black" rowspan="2"><b>2</b> – vehicular exit only<br><br>(At Tampines Ave 3)</td>
+    <td rowspan="2" style="border: 1px solid black"><b>2</b> – vehicular exit only<br><br>(At Tampines Ave 3)</td>
     <td style="border: 1px solid black">School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black">6.30am to 7.30am<br>1.45pm to 2.15pm</td>
   </tr>
@@ -84,7 +84,7 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black">Closed</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" rowspan="2"><b>3</b> – pedestrian access<br><br>(At Tampines Ave 3)</td>
+    <td rowspan="2" style="border: 1px solid black"><b>3</b> – pedestrian access<br><br>(At Tampines Ave 3)</td>
     <td style="border: 1px solid black">School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black">6.45am to 7.30am<br>1.15pm to 2pm</td>
   </tr>
@@ -93,7 +93,7 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black">Closed</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" rowspan="2"><b>4</b> – pedestrian access<br><br>(At Tampines Ave 4)</td>
+    <td rowspan="2" style="border: 1px solid black"><b>4</b> – pedestrian access<br><br>(At Tampines Ave 4)</td>
     <td style="border: 1px solid black">School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black">6.45am to 7.30am<br>1.15pm to 2pm</td>
   </tr>
@@ -121,7 +121,7 @@ td {border: 1px solid black; text-align: left;}
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" rowspan="2"><br><b>3A</b><br><br>(At Tampines Ave 3)</td>
+    <td rowspan="2" style="border: 1px solid black"><br><b>3A</b><br><br>(At Tampines Ave 3)</td>
     <td style="border: 1px solid black">School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black">6.45am to 7.30am (entry only)<br>1.15pm to 4.30pm (exit only)</td>
   </tr>
@@ -130,7 +130,7 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black">Closed</td>
   </tr>
   <tr style="border: 1px solid black">
-    <td style="border: 1px solid black" rowspan="2"><br><br><b>4A</b><br><br>(At Tampines Ave 4)</td>
+    <td rowspan="2" style="border: 1px solid black"><br><br><b>4A</b><br><br>(At Tampines Ave 4)</td>
     <td style="border: 1px solid black">School Days<br><br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black">6.45am to 7.30am (entry only)<br>1.15pm to 7pm (exit only)</td>
   </tr>
