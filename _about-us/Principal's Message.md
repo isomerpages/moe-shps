@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-<img src="/images/Daphne%20Leong.jpg" style="width:190px;height:240px;margin-left:15px;" align = "left">
+<div style="text-align: justify;"><img src="/images/Daphne%20Leong.jpg" style="width:190px;height:240px;margin-left:15px;" align = "left"></div>
 
 <div style="text-align: justify;">Since the founding of St Hilda’s School by Archdeacon Graham White in 1934, the school has grown and evolved into a dynamic learning community with a vision of developing loyal citizens with global outlook and Godly character.</div><br>
 
