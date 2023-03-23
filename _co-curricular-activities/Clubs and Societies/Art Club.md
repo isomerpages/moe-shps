@@ -9,10 +9,31 @@ The Art Club enables its members to see art as a meaningful process in life and 
  ![Art Club](/images/art%20club%201.jpg) 
 
 #### Art Club Schedule:
-
-| Level | Day | Time |
-| --- | --- | --- |
-| P3 - P6 | Thursdays | 2pm - 4pm |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-68er{background-color:#98DBEE;color:#00214D;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-qh3l{background-color:#E5E5E5;color:#00214D;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-68er"><span style="font-weight:700;color:#00214D">Level</span></th>
+    <th class="tg-68er"><span style="font-weight:700;color:#00214D">Day</span></th>
+    <th class="tg-68er"><span style="font-weight:700;color:#00214D">Time</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qh3l"><span style="font-weight:400">P3 - P6</span></td>
+    <td class="tg-qh3l"><span style="font-weight:400">Thursdays</span></td>
+    <td class="tg-qh3l"><span style="font-weight:400;color:#000">2pm - 4pm</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 #### CCA Teachers:  
