@@ -13,12 +13,12 @@ td {border: 1px solid black; text-align: left;}
 <table>
 <thead style="border: 1px solid black">
   <tr>
-    <th style="border: 1px solid black">Level</th>
-    <th style="border: 1px solid black">Monday</th>
-    <th style="border: 1px solid black">Tuesday</th>
-    <th style="border: 1px solid black">Wednesday</th>
-    <th style="border: 1px solid black">Thursday</th>
-    <th style="border: 1px solid black">Friday</th>
+    <th style="border: 1px solid black; text-align:center;">Level</th>
+    <th style="border: 1px solid black; text-align:center;">Monday</th>
+    <th style="border: 1px solid black; text-align:center;">Tuesday</th>
+    <th style="border: 1px solid black; text-align:center;">Wednesday</th>
+    <th style="border: 1px solid black; text-align:center;">Thursday</th>
+    <th style="border: 1px solid black; text-align:center;">Friday</th>
   </tr>
 </thead>
 <tbody>
