@@ -11,10 +11,10 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;bordear-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8jls{background-color:#FFF;border-color:inherit;color:#004D2E;text-align:left;vertical-align:bottom}
-.tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-hwgp{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:bottom}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-8jls{background-color:#FFF;border-color:inherit;color:#004D2E;text-align:center;vertical-align:bottom}
+.tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:top}
+.tg .tg-hwgp{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:bottom}
+.tg .tg-0lax{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
