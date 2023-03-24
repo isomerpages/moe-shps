@@ -131,7 +131,7 @@ td {border: 1px solid black; text-align: left;}
   </tr>
   <tr style="border: 1px solid black">
     <td rowspan="2" style="border: 1px solid black; text-align:center;"><br><br><b>4A</b><br><br>(At Tampines Ave 4)</td>
-    <td style="border: 1px solid black; text-align:center;">School Days<br>(Mondays to Fridays)</td>
+    <td style="border: 1px solid black; text-align:center;">School Days<br>(Mondays to Fridays)<br></td>
     <td style="border: 1px solid black; text-align:center;"><em>6.45am to 7.30am (entry only)<br>1.15pm to 7pm (exit only)</em></td>
   </tr>
   <tr style="border: 1px solid black">
