@@ -35,7 +35,7 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black; text-align:center;">2pm – 4pm<br><br><br><b>(Selected CCAs)</b></td>
     <td style="border: 1px solid black; text-align:center;">2pm – 4pm<br><br><br><b>Remedial/<br>Enrichment <br>Programmes</b></td>
     <td style="border: 1px solid black">NA</td>
-    <td style="border: 1px solid black">2pm to 4pm<br><br><b>CCA for P3 -P6</b><br>(except for certain CCAs that will end later than 4pm)</td>
+    <td style="border: 1px solid black; text-align:center;">2pm to 4pm<br><br><b>CCA for P3 -P6</b><br>(except for certain CCAs that will end later than 4pm)</td>
     <td style="border: 1px solid black">2pm to 4pm<br><br><br><b>HMT/FMA/<br>Enrichment <br>Programmes</b></td>
   </tr>
 </tbody>
