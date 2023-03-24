@@ -6,10 +6,10 @@ third_nav_title: For Parents
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;
+ overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="border: 1px solid black">
