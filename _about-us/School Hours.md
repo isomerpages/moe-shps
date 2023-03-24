@@ -74,7 +74,7 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black; text-align:center;">School Holidays<br> (Mondays to Fridays)</td>
     <td style="border: 1px solid black; text-align:center;">7.00am to 5.00pm</td>
   </tr>
-  <tr style="border: 1px solid black">
+  <tr style="border: 1px solid black; text-align:center;">
     <td rowspan="2" style="border: 1px solid black; text-align:center;"><b>2</b> – vehicular exit only<br><br>(At Tampines Ave 3)</td>
     <td style="border: 1px solid black">School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black; text-align:center;">6.30am to 7.30am<br>1.45pm to 2.15pm</td>
@@ -83,21 +83,21 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black; text-align:center;">School Holidays<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black; text-align:center;">Closed</td>
   </tr>
-  <tr>
+  <tr style="border: 1px solid black; text-align:center;">
     <td rowspan="2" style="border: 1px solid black"><b>3</b> – pedestrian access<br><br>(At Tampines Ave 3)</td>
     <td style="border: 1px solid black; text-align:center;">School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black; text-align:center;">6.45am to 7.30am<br>1.15pm to 2pm</td>
   </tr>
-  <tr>
+  <tr style="border: 1px solid black; text-align:center;">
     <td style="border: 1px solid black; text-align:center;">School Holidays<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black; text-align:center;">Closed</td>
   </tr>
-  <tr>
+  <tr style="border: 1px solid black; text-align:center;">
     <td rowspan="2" style="border: 1px solid black; text-align:center;"><b>4</b> – pedestrian access<br><br>(At Tampines Ave 4)</td>
     <td style="border: 1px solid black; text-align:center;">School Days<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black; text-align:center;">6.45am to 7.30am<br>1.15pm to 2pm</td>
   </tr>
-  <tr style="border: 1px solid black">
+  <tr style="border: 1px solid black; text-align:center;">
     <td style="border: 1px solid black; text-align:center;">School Holidays<br>(Mondays to Fridays)</td>
     <td style="border: 1px solid black; text-align:center;">Closed</td>
   </tr>
