@@ -41,7 +41,7 @@ td {border: 1px solid black; text-align: left;}
 </tbody>
 </table>
 
-<p style="font-size:14px;">Note: Students are required to bring their own storybooks for the school’s silent reading programme that is conducted daily before the school’s flag raising ceremony. They will read English books on Mon-Wed and  Mother Tongue books on Thu-Fri.&nbsp; <br> <br> \*HMT – Higher Mother Tongue and FMA – Foundation Mathematics</p>
+<p style="font-size:16px;">Note: Students are required to bring their own storybooks for the school’s silent reading programme that is conducted daily before the school’s flag raising ceremony. They will read English books on Mon-Wed and  Mother Tongue books on Thu-Fri.&nbsp; <br> <br> \*HMT – Higher Mother Tongue and FMA – Foundation Mathematics</p>
 
 <h3><font color="#09204A">School Gates Opening Hours</font></h3>
 
