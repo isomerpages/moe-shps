@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission, Values
-permalink: /about-us/vision-mission-values
+permalink: /about-us/vision-mission-values/
 description: ""
 ---
 School Vision
@@ -43,12 +43,12 @@ Hildan Outcome
 
 \-       Exemplary Servant Leaders
 
-\-       <u>Creative and Critical Inquirers</u>
+\-       Creative and Critical Inquirers
 
-\-       <u>Effective Communicators</u>
+\-       Effective Communicators
 
-\-       <u>Reflective Learners</u>
+\-       Reflective Learners
 
-\-       <u>Motivated Achievers</u>
+\-       Motivated Achievers
 
-\-       <u>Courageous Changemakers</u>
+\-       Courageous Changemakers
