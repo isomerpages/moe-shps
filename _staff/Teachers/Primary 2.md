@@ -50,7 +50,7 @@ third_nav_title: Teachers
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-f4yw" style="border: 1px solid black">2/6 <br>Faith</td>
-    <td class="tg-f4yw">Mdm Lu Na<br><a href="mailto:lu_na@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lu_na@schools.gov.sg</span></a><br></td>
+    <td class="tg-f4yw" style="border: 1px solid black">Mdm Lu Na<br><a href="mailto:lu_na@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lu_na@schools.gov.sg</span></a><br></td>
     <td class="tg-7yig" style="border: 1px solid black"><br>Mdm Teo May Ling<br><a href="mailto:teo_may_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teo_may_ling@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
