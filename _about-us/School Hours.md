@@ -117,7 +117,7 @@ td {border: 1px solid black; text-align: left;}
   <tr>
     <td rowspan="2" style="border: 1px solid black; text-align:center;"><br><b>3A</b><br><br>(At Tampines Ave 3)</td>
     <td style="border: 1px solid black; text-align:center;">School Days<br>(Mondays to Fridays)</td>
-    <td style="border: 1px solid black; text-align:center;"><em>6.45am to 7.30am (entry only)<br>1.15pm to 4.30pm (exit only)</em></td>
+    <td style="border: 1px solid black; text-align:center;">6.45am to 7.30am (entry only)<br>1.15pm to 4.30pm (exit only)</em></td>
   </tr>
   <tr style="border: 1px solid black">
     <td style="border: 1px solid black; text-align:center;">School Holidays<br>(Mondays to Fridays)</td>
@@ -126,11 +126,11 @@ td {border: 1px solid black; text-align: left;}
   <tr style="border: 1px solid black">
     <td rowspan="2" style="border: 1px solid black; text-align:center;"><br><br><b>4A</b><br><br>(At Tampines Ave 4)</td>
     <td style="border: 1px solid black; text-align:center;">School Days<br>(Mondays to Fridays)<br></td>
-    <td style="border: 1px solid black; text-align:center;"><em>6.45am to 7.30am (entry only)<br>1.15pm to 7pm (exit only)</em></td>
+    <td style="border: 1px solid black; text-align:center;">6.45am to 7.30am (entry only)<br>1.15pm to 7pm (exit only)</td>
   </tr>
   <tr style="border: 1px solid black">
     <td style="border: 1px solid black; text-align:center;">School Holidays<br>(Mondays to Fridays)</td>
-    <td style="border: 1px solid black; text-align:center;"><em>7.30am to 9.30am (entry only)<br>9.30am to 7pm (exit only)</em></td>
+    <td style="border: 1px solid black; text-align:center;">7.30am to 9.30am (entry only)<br>9.30am to 7pm (exit only)</td>
   </tr>
 </tbody>
 </table>
