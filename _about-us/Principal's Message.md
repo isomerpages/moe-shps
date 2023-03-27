@@ -9,7 +9,7 @@ Principal</center>
 
 <div><p style="text-align: justify;">
 Since the founding of St Hilda’s School by Archdeacon Graham White in 1934, the school has grown and evolved into a dynamic learning community with a vision of developing loyal citizens with global outlook and Godly character.<br>
-	
+<br>
 We provide a rigorous and forward looking curriculum to challenge every Hildan to excel and be equipped with skills, dispositions and competencies for the 21st century. We believe that students need to be grounded in sound values and be willing to learn continuously to navigate the changing terrains of the future landscape. They need to learn for life.
 	<br>
 	
