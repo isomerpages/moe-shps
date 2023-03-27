@@ -42,7 +42,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">6/4<br>Praise</td>
     <td class="tg-baqh" style="border: 1px solid black"><br>Mr Suhaimi Khalil<br><a href="mailto:suhaimi_b_khalil@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">suhaimi_b_khalil@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh" style="border: 1px solid black">Ms Poh Lin Hui<br><a href="mailto:poh_lin_hui@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">poh_lin_hui@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Ms Poh Lin Hui<br><a href="mailto:poh_lin_hui@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">poh_lin_hui@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">6/5<br>Truth</td>
