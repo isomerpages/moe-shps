@@ -17,7 +17,6 @@ description: ""
 .tg .tg-0lax{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
     <th class="tg-8jls"><a href="/co-curricular-activities/clubs-and-societies/art-club"><img src="/images/art%20club%20cover.png" alt="Art Club" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent;text-align:center;"></span><br><a href="/co-curricular-activities/clubs-and-societies/art-club"><span style="text-decoration:none;color:inherit;background-color:transparent;text-align:center;"><strong>Art Club</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/clubs-and-societies/chess-club"><img src="/images/chess%20club%20cover.png" alt="Basketball" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/clubs-and-societies/chess-club"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Chess Club</strong></span></a><br></th>
@@ -25,7 +24,6 @@ description: ""
     <th class="tg-hwgp"><a href="/co-curricular-activities/clubs-and-societies/infocomm-club"><img src="/images/infocomm%20club%20cover.png" alt="Netball" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">
 </span><br><a href="/co-curricular-activities/clubs-and-societies/infocomm-club"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Infocomm Club</strong></span></a><br></th>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-hwgp"><a href="/co-curricular-activities/clubs-and-societies/library-club"><img src="/images/library%20club%20cover.png" alt="Library Club" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/clubs-and-societies/library-club"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Library Club</strong></span></a><br></td>
