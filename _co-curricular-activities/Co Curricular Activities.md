@@ -51,14 +51,12 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
     <th class="tg-8jls"><a href="/co-curricular-activities/performing-arts/choir"><img src="/images/choir%20cover.png" alt="Choir" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/performing-arts/choir"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Choir</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/performing-arts/dance"><img src="/images/dance%20cover.png" alt="Dance" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/performing-arts/dance"><span style="text-decoration:none;color:#FFF;background-color:transparent"><strong>Dance</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/performing-arts/guzheng"><img src="/images/guzheng%20cover.png" alt="Guzheng" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/performing-arts/guzheng"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Guzheng</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/performing-arts/strings-ensemble"><img src="/images/strings%20ensemble%20cover.png" alt="Strings Ensemble" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/performing-arts/strings-ensemble"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Strings Ensemble</strong></span></a><br></th>
   </tr>
-</thead>
 </table>
 
 ### Sports and Games
@@ -75,14 +73,12 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
     <th class="tg-8jls"><a href="/co-curricular-activities/sports-and-games/hockey"><img src="/images/hockey%20cover.png" alt="Hockey" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/hockey"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Hockey</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/netball"><img src="/images/netball%20cover.png" alt="Netball" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/netball"><span style="text-decoration:none;color:#FFF;background-color:transparent"><strong>Netball</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/sailing"><img src="/images/sailing%20cover.png" alt="Sailing" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/sailing"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Sailing</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/sports-club"><img src="/images/sport%20club%20cover.png" alt="Sports Club" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/sports-club"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Sports Club</strong></span></a><br></th>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/table-tennis"><img src="/images/table%20tennis%20cover.png" alt="Table Tennis" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/table-tennis"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Table Tennis</strong></span></a><br></td>
@@ -107,12 +103,10 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
     <th class="tg-8jls"><a href="/co-curricular-activities/uniformed-groups/boys-brigade"><img src="/images/boys%20brigade%20cover.png" alt="Boys' Brigade" style="width:200px"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/uniformed-groups/boys-brigade"><span style="text-decoration:none; color:inherit;background-color:transparent; text-align:center;"><strong>Boys' Brigade</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/uniformed-groups/girls-brigade"><img src="/images/girls%20brigade.png" alt="Girls' Brigade" style="width:200px"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/uniformed-groups/girls-brigade"><span style="text-decoration:none; color:inherit;background-color:transparent; text-align:center;"><strong>Girls' Brigade</strong></span></a><br></th>
 <th class="tg-nlyn"></th>
 <th class="tg-0lax"></th>
   </tr>
-</thead>
 </table>
