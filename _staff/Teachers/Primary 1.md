@@ -28,7 +28,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>1/1<br>Love<br><br></td>
     <td class="tg-nrix" style="border: 1px solid black">Mrs Eleanor Goh<br><a href="mailto:eleanor_goh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">eleanor_goh@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Mrs Koh-Tan Peng Peng<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tan_peng_peng@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Mrs Koh-Tan Peng Peng<br><a href="mailto:tan_peng_peng@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tan_peng_peng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>1/2<br>Joy<br><br></td>
@@ -37,8 +37,8 @@ third_nav_title: Teachers
   </tr>
   <tr>
     <td class="tg-baqh" style="border: 1px solid black"><br>1/3<br>Peace<br><br></td>
-    <td class="tg-nrix" style="border: 1px solid black">Mdm Rohayah <br><a href="mailto:wong_siew_yin_sarah@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">rohaya_yaacub@schools.gov.sg</span></a><br></td>
-    <td class="tg-nrix" style="border: 1px solid black">Ms Caris Bay<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">caris_bay_tze_wei@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix" style="border: 1px solid black">Mdm Rohayah <br><a href="mailto:rohayah_yaacub@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">rohayah_yaacub@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix" style="border: 1px solid black">Ms Caris Bay<br><a href="mailto:caris_bay_tze_wei@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">caris_bay_tze_wei@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-baqh" style="border: 1px solid black"><br>1/4<br>Praise<br><br></td>
@@ -58,7 +58,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>1/7<br> Hope<br><br></td>
     <td class="tg-nrix" style="border: 1px solid black">Mr Ho Wee Yong<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ho_wee_yong@schools.gov.sg</span></a><br></td>
-    <td class="tg-nrix" style="border: 1px solid black">Mdm Roslind Thor<br><a href="mailto:ho_wee_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thor_soh_chin@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix" style="border: 1px solid black">Mdm Roslind Thor<br><a href="mailto:thor_soh_chin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thor_soh_chin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>1/8<br>Grace<br><br></td>
