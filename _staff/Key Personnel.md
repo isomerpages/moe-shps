@@ -89,99 +89,99 @@ description: ""
     <td class="tg-faf8"><a href="mailto:soong_kheng_fah_andrew@schools.gov.sg">soong_kheng_fah_andrew@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mdm Jasjit Kaur</td>
-    <td class="tg-faf8">Assistant Year Head<br>(Middle Primary)</td>
-    <td class="tg-faf8"><a href="mailto:jasjit_kaur_ranjit_singh@schools.gov.sg">jasjit_kaur_ranjit_singh@schools.gov.sg</a></td>
+    <td class="tg-zr06">Mdm Jasjit Kaur</td>
+    <td class="tg-zr06">Assistant Year Head<br>(Middle Primary)</td>
+    <td class="tg-zr06"><a href="mailto:jasjit_kaur_ranjit_singh@schools.gov.sg">jasjit_kaur_ranjit_singh@schools.gov.sg</a></td>
   </tr>
 	  <tr>
-    <td class="tg-zr06">Mdm Sonia Lee</td>
-    <td class="tg-zr06">Year Head<br>(Lower Primary)</td>
-    <td class="tg-zr06"><a href="mailto:lee_sock_ping@schools.gov.sg">lee_sock_ping@schools.gov.sg</a></td>
+    <td class="tg-faf8">Mdm Sonia Lee</td>
+    <td class="tg-faf8">Year Head<br>(Lower Primary)</td>
+    <td class="tg-faf8"><a href="mailto:lee_sock_ping@schools.gov.sg">lee_sock_ping@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Ms Poh Lin Hui</td>
-    <td class="tg-faf8">Level Head<br>Chinese Language</td>
-    <td class="tg-faf8"><a href="mailto:poh_lin_hui@schools.gov.sg">poh_lin_hui@schools.gov.sg</a></td>
+    <td class="tg-zr06">Ms Poh Lin Hui</td>
+    <td class="tg-zr06">Level Head<br>Chinese Language</td>
+    <td class="tg-zr06"><a href="mailto:poh_lin_hui@schools.gov.sg">poh_lin_hui@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Rohayah Ya'acub</td>
-    <td class="tg-zr06">Subject Head<br>Malay Language</td>
-    <td class="tg-zr06"><a href="mailto:rohayah_yaacub@schools.gov.sg">rohayah_yaacub@schools.gov.sg</a></td>
+    <td class="tg-faf8">Mdm Rohayah Ya'acub</td>
+    <td class="tg-faf8">Subject Head<br>Malay Language</td>
+    <td class="tg-faf8"><a href="mailto:rohayah_yaacub@schools.gov.sg">rohayah_yaacub@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mr Mohammad Noh</td>
-    <td class="tg-faf8">Subject Head<br>Physical Education and Co-Curricular Activities</td>
-    <td class="tg-faf8"><a href="mailto:mohammad_noh_jaffri@schools.gov.sg">mohammad_noh_jaffri@schools.gov.sg</a></td>
+    <td class="tg-zr06">Mr Mohammad Noh</td>
+    <td class="tg-zr06">Subject Head<br>Physical Education and Co-Curricular Activities</td>
+    <td class="tg-zr06"><a href="mailto:mohammad_noh_jaffri@schools.gov.sg">mohammad_noh_jaffri@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mrs Elizabeth Simon</td>
-    <td class="tg-zr06">Subject Head<br>Aesthetics</td>
-    <td class="tg-zr06"><a href="mailto:elizabeth_simon@schools.gov.sg">elizabeth_simon@schools.gov.sg</a></td>
+    <td class="tg-faf8">Mrs Elizabeth Simon</td>
+    <td class="tg-faf8">Subject Head<br>Aesthetics</td>
+    <td class="tg-faf8"><a href="mailto:elizabeth_simon@schools.gov.sg">elizabeth_simon@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mrs Eleanor Goh</td>
-    <td class="tg-faf8">Subject Head<br>Student Well-being</td>
-    <td class="tg-faf8"><a href="mailto:eleanor_goh@schools.gov.sg">eleanor_goh@schools.gov.sg</a></td>
+    <td class="tg-zr06">Mrs Eleanor Goh</td>
+    <td class="tg-zr06">Subject Head<br>Student Well-being</td>
+    <td class="tg-zr06"><a href="mailto:eleanor_goh@schools.gov.sg">eleanor_goh@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Priscilla Goh</td>
-    <td class="tg-zr06">Level Head<br>English Language</td>
-    <td class="tg-zr06"><a href="mailto:goh_hwi_ping@schools.gov.sg">goh_hwi_ping@schools.gov.sg</a></td>
+    <td class="tg-faf8">Mdm Priscilla Goh</td>
+    <td class="tg-faf8">Level Head<br>English Language</td>
+    <td class="tg-faf8"><a href="mailto:goh_hwi_ping@schools.gov.sg">goh_hwi_ping@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mrs Jeline Tan</td>
-    <td class="tg-faf8">Level Head<br>Mathematics</td>
-    <td class="tg-faf8"><a href="mailto:ng_lay_yen_a@schools.gov.sg">ng_lay_yen_a@schools.gov.sg</a><br></td>
+    <td class="tg-zr06">Mrs Jeline Tan</td>
+    <td class="tg-zr06">Level Head<br>Mathematics</td>
+    <td class="tg-zr06"><a href="mailto:ng_lay_yen_a@schools.gov.sg">ng_lay_yen_a@schools.gov.sg</a><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Farah Anna </td>
-    <td class="tg-zr06">Level Head<br>Gifted Education Programme</td>
-    <td class="tg-zr06"><a href="mailto:farah_anna_mohamed@schools.gov.sg">farah_anna_mohamed@schools.gov.sg</a></td>
+    <td class="tg-faf8">Mdm Farah Anna </td>
+    <td class="tg-faf8">Level Head<br>Gifted Education Programme</td>
+    <td class="tg-faf8"><a href="mailto:farah_anna_mohamed@schools.gov.sg">farah_anna_mohamed@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mrs Sabrina Neo</td>
-    <td class="tg-faf8">Subject Head<br>Information & Communication<br>Technology  </td>
-    <td class="tg-faf8"><a href="mailto:seah\_jia\_fen\_sabrina@schools.gov.sg">seah_jia_fen_sabrina@schools.gov.sg</a></td>
+    <td class="tg-zr06">Mrs Sabrina Neo</td>
+    <td class="tg-zr06">Subject Head<br>Information & Communication<br>Technology  </td>
+    <td class="tg-zr06"><a href="mailto:seah\_jia\_fen\_sabrina@schools.gov.sg">seah_jia_fen_sabrina@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mrs Nazima S Mohammed</td>
-    <td class="tg-zr06">Lead Teacher<br>English Language</td>
-    <td class="tg-zr06"><a href="mailto:nazima_shaik_mohammed@schools.gov.sg">nazima_shaik_mohammed@schools.gov.sg</a></td>
+    <td class="tg-faf8">Mrs Nazima S Mohammed</td>
+    <td class="tg-faf8">Lead Teacher<br>English Language</td>
+    <td class="tg-faf8"><a href="mailto:nazima_shaik_mohammed@schools.gov.sg">nazima_shaik_mohammed@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mr Aloysius Loh</td>
-    <td class="tg-faf8">Lead Teacher<br>Physical Education<br></td>
-    <td class="tg-faf8"><a href="mailto:loh_yun_kong@schools.gov.sg">loh_yun_kong@schools.gov.sg</a></td>
+    <td class="tg-zr06">Mr Aloysius Loh</td>
+    <td class="tg-zr06">Lead Teacher<br>Physical Education<br></td>
+    <td class="tg-zr06"><a href="mailto:loh_yun_kong@schools.gov.sg">loh_yun_kong@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mrs Cindy Simon</td>
-    <td class="tg-zr06">Senior Teacher<br>English Language</td>
-    <td class="tg-zr06"><a href="mailto:simon_chin_see_cindy@schools.gov.sg">simon_chin_see_cindy@schools.gov.sg</a></td>
+    <td class="tg-faf8">Mrs Cindy Simon</td>
+    <td class="tg-faf8">Senior Teacher<br>English Language</td>
+    <td class="tg-faf8"><a href="mailto:simon_chin_see_cindy@schools.gov.sg">simon_chin_see_cindy@schools.gov.sg</a></td>
   </tr>
 	<tr>
-    <td class="tg-faf8">Ms Faith Huang</td>
-    <td class="tg-faf8">Senior Teacher<br>English Language</td>
-    <td class="tg-faf8"><a href="mailto:huang\_huiru\_faith@schools.gov.sg"> huang_huiru_faith@schools.gov.sg</a></td>
+    <td class="tg-zr06">Ms Faith Huang</td>
+    <td class="tg-zr06">Senior Teacher<br>English Language</td>
+    <td class="tg-zr06"><a href="mailto: huang\_huiru\_faith@schools.gov.sg"> huang_huiru_faith@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Natila Abu Bakar<br></td>
-    <td class="tg-zr06">Senior Teacher<br>Mathematics</td>
-    <td class="tg-zr06"><a href="mailto:natila_abu_bakar@schools.gov.sg">natila_abu_bakar@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-faf8">Mr Dan Ang</td>
+    <td class="tg-faf8">Mdm Natila Abu Bakar<br></td>
     <td class="tg-faf8">Senior Teacher<br>Mathematics</td>
-    <td class="tg-faf8"><a href="mailto:ang_kah_eng@schools.gov.sg">ang_kah_eng@schools.gov.sg</a></td>
+    <td class="tg-faf8"><a href="mailto:natila_abu_bakar@schools.gov.sg">natila_abu_bakar@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Ms Nicole Chan</td>
-    <td class="tg-zr06">Senior Teacher<br>Chinese Language</td>
-    <td class="tg-zr06"><a href="mailto:nicole_chan_poh_wan@schools.gov.sg">nicole_chan_poh_wan@schools.gov.sg</a></td>
+    <td class="tg-zr06">Mr Dan Ang</td>
+    <td class="tg-zr06">Senior Teacher<br>Mathematics</td>
+    <td class="tg-zr06"><a href="mailto:ang_kah_eng@schools.gov.sg">ang_kah_eng@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-faf8">Mdm Zhang Tao</td>
+    <td class="tg-faf8">Ms Nicole Chan</td>
     <td class="tg-faf8">Senior Teacher<br>Chinese Language</td>
-    <td class="tg-faf8"><a href="mailto:zhang_tao@schools.gov.sg">zhang_tao@schools.gov.sg</a></td>
+    <td class="tg-faf8"><a href="mailto:nicole_chan_poh_wan@schools.gov.sg">nicole_chan_poh_wan@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Zhang Tao</td>
+    <td class="tg-zr06">Senior Teacher<br>Chinese Language</td>
+    <td class="tg-zr06"><a href="mailto:zhang_tao@schools.gov.sg">zhang_tao@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
