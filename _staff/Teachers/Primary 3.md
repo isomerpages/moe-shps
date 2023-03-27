@@ -58,7 +58,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black"><br>3/7<br>Hope</td>
     <td class="tg-nrix" style="border: 1px solid black"><br>Ms Karmen Tong<br><a href="mailto:tong_jia_min@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tong_jia_min@schools.gov.sg</span></a><br><br></td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Mdm Jasjit Kaur<br><a href="mailto:tong_jia_min@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">jasjit_kaur_ranjit_singh@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Ms Shamira<br><a href="mailto:shamira_banu_alisaafri@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">shamira_banu_alisaafri@schools.gov.sg</span></a><br><br></td>
   </tr>
 </tbody>
 </table>
