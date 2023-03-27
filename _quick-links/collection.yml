@@ -1,0 +1,21 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/P1 Orientation 2023.md
+      - For Parents/Booklist for Year 2023.md
+      - For Parents/Useful Resources.md
+      - For Parents/Essential Contacts.md
+      - "For Parents/Other Information: P4 GEP Parents' Briefing 2022.md"
+      - For Parents/School Virtual Tour.md
+      - For Parents/SHPS CCA e Open House.md
+      - For Parents/Sexuality Education 2023.md
+      - For Parents/Edusave Character Award (ECHA) for P4 to P6 Students.md
+      - For Students/.keep
+      - For Students/Student Learning Space (SLS).md
+      - For Students/Student iCON.md
+      - For Students/St Hilda's Primary School OPAC.md
+      - For Staff/.keep
+      - For Staff/For Staff.md
+      - For Staff/Staff Travel Declaration.md
