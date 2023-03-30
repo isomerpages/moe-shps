@@ -15,7 +15,7 @@ third_nav_title: For Parents
 
 4.    [P5 Zoom Webinar on PSLE and New scoring system for Parents and Guardians](/files/P5%20Parent%20Engagement%20Session%208%20July%202021.pdf)
 
-5.    [Canteen Menu](/files/Canteen%20Menu%202022%20Revised%2001%20Jul.pdf)
+5.    [Canteen Menu](https://file.go.gov.sg/shps-canteen-menu.pdf)
 
   
 
