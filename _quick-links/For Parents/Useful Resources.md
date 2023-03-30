@@ -26,9 +26,9 @@ third_nav_title: For Parents
 
   
 
-1. [MOE FAS Application Form](https://form.gov.sg/633a343e2628030011809282)
+1. [MOE FAS Application Form](https://go.gov.sg/fasform)
 
-2. [2022 Waiting List Application Form](https://go.gov.sg/wait-list-form-2022)
+2. [2022 Waiting List Application Form](https://form.gov.sg/633a343e2628030011809282)
 
 3. [Income Family Micro-Insurance and Savings Scheme](/files/Income_Family_Micro-Insurance_and_Savings_Scheme_(IFMISS).pdf)
 
