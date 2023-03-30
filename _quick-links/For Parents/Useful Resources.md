@@ -26,7 +26,7 @@ third_nav_title: For Parents
 
   
 
-1. [MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)
+1. [MOE FAS Application Form](https://form.gov.sg/633a343e2628030011809282)
 
 2. [2022 Waiting List Application Form](https://go.gov.sg/wait-list-form-2022)
 
