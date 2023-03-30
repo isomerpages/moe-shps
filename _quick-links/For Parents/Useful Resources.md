@@ -38,11 +38,7 @@ third_nav_title: For Parents
 
 6. [Edusave Application Form](/files/Edusave_Application_Form_revisedSep19.pdf)
 
-7. Please get the updated GIRO Application Form via this link: "[FAQ on how to apply for GIRO](https://va.ecitizen.gov.sg/cfp/customerPages/moe/displayresult.aspx?MesId=1287872)".
-
-8. [GIRO Termination Form](/files/GIRO_Termination_Form_revisedSep19.pdf)
-
-9. [Parent Volunteer Scheme at SHPS (Parents of children born in 2019)]([Application Form - Parent Volunteer Scheme 2025 at St. Hilda's Primary School | FormSG](https://form.gov.sg/6191db721736a30013f253d7))  
+7. [Parent Volunteer Scheme at SHPS (Parents of children born in 2019)]([Application Form - Parent Volunteer Scheme 2025 at St. Hilda's Primary School | FormSG](https://form.gov.sg/6191db721736a30013f253d7))  
 
   
 
