@@ -4,8 +4,6 @@ permalink: /quick-links/for-parents/other-information/
 description: ""
 third_nav_title: For Parents
 ---
-
-
 ### Parent-School Communication
 
 • Parents are encouraged to use the student handbook as a means of communication with the teachers.
