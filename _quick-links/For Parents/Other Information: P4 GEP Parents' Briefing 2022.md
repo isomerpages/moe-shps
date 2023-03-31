@@ -4,8 +4,6 @@ permalink: /quick-links/for-parents/other-information/
 description: ""
 third_nav_title: For Parents
 ---
-
-
 ### Parent-School Communication
 
 • Parents are encouraged to use the student handbook as a means of communication with the teachers.
@@ -48,4 +46,4 @@ Students must be immunised against diseases such as diphtheria, tetanus and poli
 
 ### P4 GEP Parents' Briefing 2022
 
-1) [P4 GEP Parents' Briefing Slides](/files/2022%20P4%20GEP%20Parents%20Briefing%20For%20School%20Website.pdf)
+1) [P4 GEP Parents' Briefing Slides](/files/2023%20p4%20gep%20parents'%20briefing%20(website).pdf)

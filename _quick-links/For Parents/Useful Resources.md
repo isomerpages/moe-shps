@@ -7,15 +7,13 @@ third_nav_title: For Parents
 ### Useful Resources
   
 
-1.    [P6 Parents Engagement Session on PSLE Scoring & Secondary School Posting Systems](/files/SHPS%20PSLE%20Indicative%20Scores.pdf)
+1.    [P6 Parents Engagement Session on PSLE Scoring & Secondary School Posting Systems](https://sites.google.com/moe.edu.sg/shpsparentsengagement2023/primary-6)
 
-2.    [COVID-19 vaccination for students (12 years and older)](/files/COVID-19%20Vaccination%20for%20students%2012%20year%20and%20above.pdf)
+2.    [Video on changes to PSLE Scoring & Secondary School Posting Systems](https://www.youtube.com/watch?v=vr-9ctEWnaA)
 
-3.    [Video on changes to PSLE Scoring & Secondary School Posting Systems](https://www.shps.moe.edu.sg/qql/slot/u548/Quicklinks/Useful%20Resources/Changes%20to%20the%20PSLE%20scoring%20and%20S1%20posting.mp4)
+3.    [P5 Zoom Webinar on PSLE and New scoring system for Parents and Guardians](https://sites.google.com/moe.edu.sg/shpsparentsengagement2023/primary-5)
 
-4.    [P5 Zoom Webinar on PSLE and New scoring system for Parents and Guardians](/files/P5%20Parent%20Engagement%20Session%208%20July%202021.pdf)
-
-5.    [Canteen Menu](/files/Canteen%20Menu%202022%20Revised%2001%20Jul.pdf)
+4.    [Canteen Menu](https://file.go.gov.sg/shps-canteen-menu.pdf)
 
   
 
@@ -26,9 +24,9 @@ third_nav_title: For Parents
 
   
 
-1. [MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form%20Sep%2021.pdf)
+1. [MOE FAS Application Form](https://go.gov.sg/fasform)
 
-2. [2022 Waiting List Application Form](https://go.gov.sg/wait-list-form-2022)
+2. [2023 Waiting List Application Form](https://form.gov.sg/633a343e2628030011809282)
 
 3. [Income Family Micro-Insurance and Savings Scheme](/files/Income_Family_Micro-Insurance_and_Savings_Scheme_(IFMISS).pdf)
 
@@ -38,11 +36,7 @@ third_nav_title: For Parents
 
 6. [Edusave Application Form](/files/Edusave_Application_Form_revisedSep19.pdf)
 
-7. Please get the updated GIRO Application Form via this link: "[FAQ on how to apply for GIRO](https://va.ecitizen.gov.sg/cfp/customerPages/moe/displayresult.aspx?MesId=1287872)".
-
-8. [GIRO Termination Form](/files/GIRO_Termination_Form_revisedSep19.pdf)
-
-9. [Parent Volunteer Scheme at SHPS (Parents of children born in 2018)](/files/PARENT%20VOLUNTEER%20INVITATION%20_PV.pdf)  
+7. [Parent Volunteer Scheme at SHPS (Parents of children born in 2019)]([Application Form - Parent Volunteer Scheme 2025 at St. Hilda's Primary School | FormSG](https://form.gov.sg/6191db721736a30013f253d7))  
 
   
 
