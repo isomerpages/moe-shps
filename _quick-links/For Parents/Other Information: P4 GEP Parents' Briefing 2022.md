@@ -46,4 +46,4 @@ Students must be immunised against diseases such as diphtheria, tetanus and poli
 
 ### P4 GEP Parents' Briefing 2022
 
-1) [P4 GEP Parents' Briefing Slides](/files/2022%20P4%20GEP%20Parents%20Briefing%20For%20School%20Website.pdf)
+1) [P4 GEP Parents' Briefing Slides](/files/2023%20p4%20gep%20parents'%20briefing%20(website).pdf)
