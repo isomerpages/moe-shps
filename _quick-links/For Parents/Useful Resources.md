@@ -36,7 +36,8 @@ third_nav_title: For Parents
 
 6. [Edusave Application Form](/files/Edusave_Application_Form_revisedSep19.pdf)
 
-7. [Parent Volunteer Scheme at SHPS (Parents of children born in 2019)]([Application Form - Parent Volunteer Scheme 2025 at St. Hilda's Primary School | FormSG](https://form.gov.sg/6191db721736a30013f253d7))  
+7. [Parent Volunteer Scheme at SHPS (Parents of children born in 2019)](https://form.gov.sg/6191db721736a30013f253d7)
+ 
 
   
 
