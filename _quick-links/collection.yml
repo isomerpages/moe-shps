@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/P4 GEP Parents Briefing.md
       - For Parents/.keep
       - For Parents/P1 Orientation 2023.md
       - For Parents/Booklist for Year 2023.md
