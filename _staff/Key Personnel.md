@@ -146,7 +146,7 @@ description: ""
   <tr>
     <td class="tg-faf8">Mrs Sabrina Neo</td>
     <td class="tg-faf8">Subject Head<br>Information &amp; Communication<br>Technology  </td>
-    <td class="tg-faf8"><a href="mailto:seah\_jia\_fen\_sabrina@schools.gov.sg">seah_jia_fen_sabrina@schools.gov.sg</a></td>
+    <td class="tg-faf8"><a href="mailto:seah_jia_fe\_sabrina@schools.gov.sg">seah_jia_fen_sabrina@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mrs Nazima S Mohammed</td>
@@ -166,7 +166,7 @@ description: ""
 	<tr>
     <td class="tg-faf8">Ms Faith Huang</td>
     <td class="tg-faf8">Senior Teacher<br>English Language</td>
-    <td class="tg-faf8"><a href="mailto:&nbsp;huang\_huiru\_faith@schools.gov.sg"> huang_huiru_faith@schools.gov.sg</a></td>
+    <td class="tg-faf8"><a href="mailto:huang_huiru_faith@schools.gov.sg"> huang_huiru_faith@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mdm Natila Abu Bakar<br></td>
