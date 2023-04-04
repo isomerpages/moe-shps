@@ -146,7 +146,7 @@ description: ""
   <tr>
     <td class="tg-faf8">Mrs Sabrina Neo</td>
     <td class="tg-faf8">Subject Head<br>Information &amp; Communication<br>Technology  </td>
-    <td class="tg-faf8"><a href="mailto:seah_jia_fe\_sabrina@schools.gov.sg">seah_jia_fen_sabrina@schools.gov.sg</a></td>
+    <td class="tg-faf8"><a href="mailto:seah_jia_fen_sabrina@schools.gov.sg">seah_jia_fen_sabrina@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mrs Nazima S Mohammed</td>
