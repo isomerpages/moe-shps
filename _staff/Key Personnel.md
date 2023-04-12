@@ -50,7 +50,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06">Mrs Daphne Phua</td>
-    <td class="tg-zr06">Head of Department<br>Educational Support</td>
+    <td class="tg-zr06">Head of Department<br>Special Educational Needs</td>
     <td class="tg-zr06"><a href="mailto:goh_siew_leng_daphne@schools.gov.sg">goh_siew_leng_daphne@schools.gov.sg</a></td>
   </tr>
   <tr>
