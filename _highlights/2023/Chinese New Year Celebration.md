@@ -4,26 +4,24 @@ permalink: /quick-links/for-parents/photogallery/2023/chinesenewyearcelebration/
 description: ""
 third_nav_title: "2023"
 ---
-### P5 CAMP KESEL
+### CHINESE NEW YEAR CELEBRATION
 
-![P5 CAMP KESEL](/images/2019%20P5%20Camp_ed.jpg)
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%205.jpg)
 
-### CHINESE NEW YEAR CELEBRATIONS
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%202.jpeg)
 
-![](/images/2019%20CNY%20for%20website_ed.jpg)
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%206.jpeg)
 
-### TOTAL DEFENCE DAY 
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%2010.jpg)
 
-![TOTAL DEFENCE DAY](/images/2019%20Total%20Defense.jpg)
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%207.jpg)
 
-### MOTHER TONGUE LANGUAGES FORTNIGHT
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%208.jpg)
 
-![MOTHER TONGUE LANGUAGES FORTNIGHT](/images/2019%20MT%20Fortnight.jpg)
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%209.jpg)
 
-### 9TH HIDAN STUDENT COUNCIL STUDENT LEADERS’ INVESTITURE
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%203.jpeg)
 
-![9TH HIDAN STUDENT COUNCIL STUDENT LEADERS’ INVESTITURE](/images/2019%20Student%20Leaders%20Investiture_ed.jpg)
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%204.jpeg)
 
-### ST. HILDA’S SCHOOLS 85TH ANNIVERSARY CARNIVAL
-
-![ST. HILDA’S SCHOOLS 85TH ANNIVERSARY CARNIVAL](/images/2019%20Carnival_ed2.jpg)
+![](/images/CNY%202023%20(20%20Jan%20'23)/picture%201.jpeg)
