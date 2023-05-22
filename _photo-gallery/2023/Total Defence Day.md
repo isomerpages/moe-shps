@@ -4,10 +4,24 @@ permalink: /quick-links/for-parents/photogallery/2023/tdd/
 description: ""
 third_nav_title: "2023"
 ---
-### 85TH ANNIVERSARY COMBINED FOUNDER’S DAY CELEBRATION
+### TOTAL DEFENCE DAY
 
-![85TH ANNIVERSARY COMBINED FOUNDER’S DAY CELEBRATION](/images/2019%20%20Enrichment%20Programme_updated.jpg)
+![](/images/Total%20Defence%20Day%202023/20230216_095438.jpg)
 
-### SHPS EARTH WEEK 2019
+![](/images/Total%20Defence%20Day%202023/20230216_094813.jpg)
 
-![SHPS EARTH WEEK 2019](/images/2019%20Earth%20Day_updated3.jpg)
+![](/images/Total%20Defence%20Day%202023/20230216_095820.jpg)
+
+![](/images/Total%20Defence%20Day%202023/20230216_101118.jpg)
+
+![](/images/Total%20Defence%20Day%202023/20230216_102317.jpg)
+
+![](/images/Total%20Defence%20Day%202023/img-20230216-wa0010.jpg)
+
+![](/images/Total%20Defence%20Day%202023/20230215_094441.jpg)
+
+![](/images/Total%20Defence%20Day%202023/img-20230216-wa0015.jpg)
+
+![](/images/Total%20Defence%20Day%202023/img-20230216-wa0007.jpg)
+
+![](/images/Total%20Defence%20Day%202023/img-20230216-wa0019.jpg)
