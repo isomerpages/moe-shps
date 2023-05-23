@@ -18,5 +18,3 @@ third_nav_title: "2023"
 
 | ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%206.jpeg) | ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%201.jpeg) |  |
 | -------- | -------- | -------- |
-
-
