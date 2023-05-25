@@ -6,4 +6,4 @@ third_nav_title: "2023"
 ---
 ### TOTAL DEFENCE DAY
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlmCuEiGn9C2ypZQ0vD8jdQz-R5_gNUtDRTZMR8Lh3MXKqEiOw74Hs_noi0CZxAqYxrMMFRIDZ-w8C/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlmCuEiGn9C2ypZQ0vD8jdQz-R5_gNUtDRTZMR8Lh3MXKqEiOw74Hs_noi0CZxAqYxrMMFRIDZ-w8C/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="900" height="569" allowfullscreen="true"></iframe>
