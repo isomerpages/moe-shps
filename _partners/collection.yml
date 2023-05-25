@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Chapliancy.md
       - Alumni.md
       - School Management Committee.md
