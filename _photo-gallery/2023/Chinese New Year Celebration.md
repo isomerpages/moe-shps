@@ -6,15 +6,4 @@ third_nav_title: "2023"
 ---
 ### CHINESE NEW YEAR CELEBRATION
 
-| ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%205.jpg) | ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%2010.jpg) |  |
-| -------- | -------- | -------- |
-
-| ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%209.jpg) | ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%207.jpg) |  |
-| -------- | -------- | -------- |
-
-| ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%203.jpeg) | ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%202.jpeg) |  |
-| -------- | -------- | -------- |
-
-
-| ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%206.jpeg) | ![](/images/CNY%202023%20(20%20Jan%20'23)/picture%201.jpeg) |  |
-| -------- | -------- | -------- |
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ00R0ed9G8MSkUrctAJFSGGzjAfScFVnQtr-BwelweOzcLKEKliCIPIPzuaNm42_ZgXJBA8G1SLVgo/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
