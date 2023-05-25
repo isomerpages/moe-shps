@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group.md
-      - Chapliancy.md
-      - Alumni.md
       - School Management Committee.md
+      - Chapliancy.md
+      - Parent Support Group.md
+      - Alumni.md
