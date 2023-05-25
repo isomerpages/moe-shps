@@ -6,17 +6,4 @@ third_nav_title: "2023"
 ---
 ### STUDENT INVESTITURE
 
-| ![](/images/Student%20Investiture%202023/img_2852.JPG) | ![](/images/Student%20Investiture%202023/img_2807.JPG)|  |
-| -------- | -------- | -------- |
-
-| ![](/images/Student%20Investiture%202023/img_2799.JPG) | ![](/images/Student%20Investiture%202023/img_2818.JPG)|  |
-| -------- | -------- | -------- |
-
-| ![](/images/Student%20Investiture%202023/img_2839.JPG) | ![](/images/Student%20Investiture%202023/p1022852.JPG)|  |
-| -------- | -------- | -------- |
-
-|![](/images/Student%20Investiture%202023/p1023004.JPG) |![](/images/Student%20Investiture%202023/img_2801.JPG)|  |
-| -------- | -------- | -------- |
-
-|![](/images/Student%20Investiture%202023/img_2881.JPG) |![](/images/Student%20Investiture%202023/img_2805.JPG)|  |
-| -------- | -------- | -------- |
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXnwj0-MTBCpAQp4-8H5Adk3AA22SfoQqy7_UZBaacUh8ftu9i_MgSIAbdu-fwKTntcLk-uEMw4n6W/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
