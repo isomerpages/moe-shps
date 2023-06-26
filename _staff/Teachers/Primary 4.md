@@ -37,7 +37,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">4/3 <br>Peace   </td>
     <td class="tg-nrix" style="border: 1px solid black"> <br>Ms Adeline Boon<br><a href="mailto:adeline_boon@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">adeline_boon@schools.gov.sg</span></a><br><br></td>
-    <td class="tg-nrix" style="border: 1px solid black"> Mrs Thilaga Suresh<br><a href="mailto:thilagavathy_suresh@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">thilagavathy_suresh@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix" style="border: 1px solid black"> Mrs Elango Anggammal<br><a href="mailto:elango_anggamal@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">elango_anggamal@schools.gov.sg</span></a><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>4/4<br>Praise<br></td>
