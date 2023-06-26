@@ -27,7 +27,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black"><br>3/1<br><span style="background-color:initial">Love</span></td>
     <td class="tg-nrix" style="border: 1px solid black"><br>Mrs Yeo Yew Ling<br><a href="mailto:yeo_yew_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_yew_ling@schools.gov.sg</span></a><br><br></td>
-    <td class="tg-nrix" style="border: 1px solid black"><br>Mr Lenz Teng  <br><a href="mailto:teng_hui_yieng@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teng_hui_yieng@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-nrix" style="border: 1px solid black"><br>Ms Ning Chin Yee  <br><a href="mailto:ning_chin_yee@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ning_chin_yee@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>3/2 <br><span style="background-color:initial">Joy</span></td>
