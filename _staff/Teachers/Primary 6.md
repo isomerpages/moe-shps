@@ -37,7 +37,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">6/3<br>Peace</td>
     <td class="tg-nrix" style="border: 1px solid black">Mdm Tien Hartini<br><a href="mailto:tien_hartini_sulaiman@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">tien_hartini_sulaiman@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Mr Wong Wai Hong<br><a href="mailto:Wong_Wai_Hong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">Wong_Wai_Hong@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Mr Muqairil Kamaluddin<br><a href="mailto:muqairil_kamaluddin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">muqairil_kamaluddin@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">6/4<br>Praise</td>

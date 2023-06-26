@@ -50,8 +50,8 @@ third_nav_title: Teachers
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">5/6<br>Faith</td>
-    <td class="tg-nrix" style="border: 1px solid black">Mr Mohammad Noh<br><a href="mailto:mohammad_noh_jaffri@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">mohammad_noh_jaffri@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Mdm Zhang Tao<br><a href="mailto:zhang_tao@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">zhang_tao@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-nrix" style="border: 1px solid black">Mr Ang Zhi Wei Kelvin<br><a href="mailto:ang_zhi_wei_kelvin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ang_zhi_wei_kelvin@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Mdm Sabrina Koh<br><a href="mailto:koh_rui_en_sabrina@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">koh_rui_en_sabrina@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">5/7<br>Hope</td>

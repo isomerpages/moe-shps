@@ -55,8 +55,8 @@ third_nav_title: Teachers
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-f4yw" style="border: 1px solid black">2/7<br> Hope</td>
-    <td class="tg-f4yw" style="border: 1px solid black">Ms Nicole Chan<br><a href="mailto:nicole_chan_poh_wan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nicole_chan_poh_wan@schools.gov.sg</span></a><br></td>
-    <td class="tg-7yig" style="border: 1px solid black"><br>Mdm Pheroza<br><a href="mailto:pheroza_ahmad_maricar@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">pheroza_ahmad_maricar@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-f4yw" style="border: 1px solid black">Ms Lio Jen Yun<br><a href="mailto:lio_jen_yun@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lio_jen_yun@schools.gov.sg</span></a><br></td>
+    <td class="tg-7yig" style="border: 1px solid black"><br>Ms Nicole Chan<br><a href="mailto:nicole_chan_poh_wan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">nicole_chan_poh_wan@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-f4yw" style="border: 1px solid black">2/8 <br>Grace</td>
