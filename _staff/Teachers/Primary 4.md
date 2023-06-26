@@ -27,7 +27,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>4/1<br>Love  </td>
     <td class="tg-baqh" style="border: 1px solid black"><br>Mr Edwin Lim<br><a href="mailto:lim_edwin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lim_edwin@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Ms Lio Jen Yun<br><a href="mailto:lio_jen_yun@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lio_jen_yun@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Mr Lenz Teng<br><a href="mailto:teng_hui_yieng@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">teng_hui_yieng@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>4/2<br>Joy  </td>
