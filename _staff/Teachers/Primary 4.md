@@ -61,7 +61,7 @@ third_nav_title: Teachers
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>4/8<br>Grace</td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Mr Wang Zhi Yong<br><a href="mailto:wang_zhi_yong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wang_zhi_yong@schools.gov.sg</span></a><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Mr Wang Zhi Yong<br><a href="mailto:wang_zhiyong_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">wang_zhiyong_a@schools.gov.sg</span></a><br></td>
     <td class="tg-baqh" style="border: 1px solid black"><br>Mdm Goh Mei Sang Jasmine<br><a href="mailto:goh_mei_sang@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">goh_mei_sang@schools.gov.sg</span></a><br><br></td>
   </tr>
 </tbody>
