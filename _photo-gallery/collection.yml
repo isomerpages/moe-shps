@@ -2,8 +2,6 @@ collections:
   photo-gallery:
     output: true
     order:
-      - 2023/St Hilda's Got Talent.md
-      - 2023/Earth Day.md
       - 2023/.keep
       - 2023/Chinese New Year Celebration.md
       - 2023/Total Defence Day.md
@@ -11,3 +9,5 @@ collections:
       - 2023/Talent Fiesta.md
       - 2023/International Friendship Day.md
       - 2023/Hari Raya Celebration.md
+      - 2023/Earth Day.md
+      - 2023/St Hilda's Got Talent.md
