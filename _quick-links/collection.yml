@@ -2,18 +2,18 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents/Forms.md
       - For Parents/.keep
       - For Parents/P1 Orientation 2023.md
       - For Parents/Booklist for Year 2023.md
       - For Parents/Useful Resources.md
-      - For Parents/Essential Contacts.md
       - For Parents/P4 GEP Parents Briefing.md
       - For Parents/Other Information.md
+      - For Parents/Forms.md
       - For Parents/School Virtual Tour.md
       - For Parents/SHPS CCA e Open House.md
       - For Parents/Sexuality Education 2023.md
       - For Parents/Edusave Character Award (ECHA) for P4 to P6 Students.md
+      - For Parents/Essential Contacts.md
       - For Students/NAPFA Standards.md
       - For Students/.keep
       - For Students/Student Learning Space (SLS).md
