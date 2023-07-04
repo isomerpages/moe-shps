@@ -2,8 +2,6 @@ logo: /images/school logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Our Partners
-    collection: about-us
   - title: Staff
     collection: staff
   - title: Key Programmes
