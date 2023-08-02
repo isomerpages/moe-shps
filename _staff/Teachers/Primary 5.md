@@ -41,7 +41,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">5/4<br>Praise  </td>
     <td class="tg-baqh" style="border: 1px solid black"><br>Ms Edwina Lee<br><a href="mailto:lee_xin_ting_edwina@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lee_xin_ting_edwina@schools.gov.sg</span></a><br> </td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Mrs Jocelyn Chan<br><a href="mailto:lin_xiuqin@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">lin_xiuqin@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Mrs Ushanthini Arumugam<br><a href="mailto:ushanthini_arumugam@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ushanthini_arumugam@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-nrix" style="border: 1px solid black">5/5<br>Truth  </td>
