@@ -38,4 +38,3 @@ The nominated students must: 
 The form must be duly completed and submitted using the link provided below by **Thursday, 31 August 2023**.  
 
 [ECHA Award 2023](https://go.gov.sg/shpsecha2023)
-
