@@ -11,13 +11,13 @@ third_nav_title: For Parents
 
 1. [MOE FAS Application Form](https://go.gov.sg/fasform)
 
-2. [2023 Waiting List Application Form](https://form.gov.sg/633a343e2628030011809282)
+2. [2023 Waiting List Application Form](https://go.gov.sg/shps-wait-list-form)
 
 3. [Income Family Micro-Insurance and Savings Scheme](/files/Income_Family_Micro-Insurance_and_Savings_Scheme_(IFMISS).pdf)
 
 4. [FAQ of Income Family Micro-Insurance and Savings Scheme  (as of 12 Dec 2016)](/files/FAQ_for_IFMISS.pdf)
 
-5. [Leave of Absence Form](https://go.gov.sg/leave-of-absence-form)
+5. [Leave of Absence Form](https://go.gov.sg/shps-leave-of-absence-form)
 
 6. [Edusave Application Form](/files/Edusave_Application_Form_revisedSep19.pdf)
 
