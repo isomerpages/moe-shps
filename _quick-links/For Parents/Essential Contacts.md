@@ -42,7 +42,7 @@ third_nav_title: For Parents
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nbj5" style="border: 1px solid black">School Uniform</td>
-    <td class="tg-nbj5" style="border: 1px solid black">Beau Voix Uniform<br>Tel: 6743 6645<br>Website :<br><a href="http://www.beauvoix.com/"><span style="text-decoration:none;color:#FDB900">www.beauvoix.com</span></a><br> </td>
+    <td class="tg-nbj5" style="border: 1px solid black">Beau Voix Uniform<br>Tel: 6743 6645<br>Website :<br><a href="http://www.beauvoix.com.sg"><span style="text-decoration:none;color:#FDB900">www.beauvoix.com.sg</span></a><br> </td>
     <td class="tg-nbj5" style="border: 1px solid black">10.00am - 5.00pm on weekdays<br>No. 2, Sims Close, #03-08<br>Gemini @ Sims<br>Singapore 387298<br>(By appointment only)<br><br>Available in school bookshop<br>(Purchase only via students. No parents allowed)</td>
     <td class="tg-nbj5">Closed unless<br>otherwise informed</td>
   </tr>
