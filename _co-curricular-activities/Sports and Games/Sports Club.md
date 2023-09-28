@@ -4,7 +4,9 @@ permalink: /co-curricular-activities/sports-and-games/sports-club/
 description: ""
 third_nav_title: Sports and Games
 ---
-The Sports Club aims to provide a platform for its members to engage in sports for recreation while learning values of teamwork and resilience. Students learn basic skills facilitated by teachers and compete with each other in friendly matches. At the same time, students will learn to practise sportsmanship, contributing to the sense of camaraderie within the CCA.
+The Sports Club aims to provide a platform for its members to engage in sports for recreation while learning values of teamwork and resilience. Students learn basic skills facilitated by teachers and compete with one another in friendly matches. At the same time, students will learn to practise sportsmanship, contributing to the sense of camaraderie within the CCA. 
+
+Please take note that from 2024, Sports Club will not be taking in new members for the CCA. 
 
 ![Sports Club](/images/sports%20club.png)
 
