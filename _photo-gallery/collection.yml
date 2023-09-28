@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2023/National Day.md
       - 2023/Lower Primary Sports Day.md
       - 2023/.keep
       - 2023/Chinese New Year Celebration.md
