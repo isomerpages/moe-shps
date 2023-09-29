@@ -67,8 +67,8 @@ third_nav_title: Teachers
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-baqh" style="border: 1px solid black"><br>1/9<br>Trust<br><br></td>
-    <td class="tg-nrix" style="border: 1px solid black">Mr Daniel Vaithilingam<br><a href="mailto:daniel_vaithilingam@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">daniel_vaithilingam@schools.gov.sg</span></a> <br></td>
-    <td class="tg-nrix" style="border: 1px solid black">Ms Preethi<br><a href="mailto:preethi_valsalan@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">preethi_valsalan@schools.gov.sg</span></a><br></td>
+    <td class="tg-nrix" style="border: 1px solid black">Mdm Abidah<br><a href="mailto:abidah_m_mohammed_ariffen@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">abidah_m_mohammed_ariffen@schools.gov.sg</span></a> <br></td>
+    <td class="tg-nrix" style="border: 1px solid black">Mr Daniel Vaithilingam<br><a href="mailto:daniel_vaithilingam@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">daniel_vaithilingam@schools.gov.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
