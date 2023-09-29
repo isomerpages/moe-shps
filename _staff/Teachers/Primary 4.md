@@ -36,7 +36,7 @@ third_nav_title: Teachers
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">4/3 <br>Peace   </td>
-    <td class="tg-nrix" style="border: 1px solid black"> <br>Ms Adeline Boon<br><a href="mailto:adeline_boon@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">adeline_boon@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-nrix" style="border: 1px solid black"> <br>Mr Mohamad Zulkarnaen<br><a href="mailto:mohamad_zulkarnaen_selamat@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">mohamad_zulkarnaen_selamat@schools.gov.sg</span></a><br><br></td>
     <td class="tg-nrix" style="border: 1px solid black"> Mrs Elango Anggammal<br><a href="mailto:elango_anggamal@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">elango_anggamal@schools.gov.sg</span></a><br></td>
   </tr>
   <tr style="border: 1px solid black">
