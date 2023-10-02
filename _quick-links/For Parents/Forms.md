@@ -11,7 +11,7 @@ third_nav_title: For Parents
 
 1. [MOE FAS Application Form](https://go.gov.sg/fasform)
 
-2. [2023 Waiting List Application Form](https://go.gov.sg/shps-wait-list-form)
+2. [Waiting List Application Form](https://www.shps.moe.edu.sg/quick-links/for-parents/forms/)
 
 3. [Income Family Micro-Insurance and Savings Scheme](/files/Income_Family_Micro-Insurance_and_Savings_Scheme_(IFMISS).pdf)
 
