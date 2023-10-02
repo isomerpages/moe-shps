@@ -32,7 +32,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black"> 6/2<br>Joy</td>
     <td class="tg-baqh" style="border: 1px solid black"><br>Mrs Jeline Tan<br><a href="mailto:ng_lay_yen_a@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ng_lay_yen_a@schools.gov.sg</span></a><br><br></td>
-    <td class="tg-nrix" style="border: 1px solid black">Mr Mohamad Zulkarnaen<br><a href="mailto:mohamad_zulkarnaen_selamat@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">mohamad_zulkarnaen_selamat@schools.gov.sg</span></a> </td>
+    <td class="tg-nrix" style="border: 1px solid black">Mr Aloysius Loh<br><a href="mailto:loh_yun_kong@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">loh_yun_kong@schools.gov.sg</span></a> </td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">6/3<br>Peace</td>
