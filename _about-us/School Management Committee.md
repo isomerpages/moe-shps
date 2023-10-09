@@ -12,7 +12,7 @@ td {border: 1px solid black; text-align: left;}
 <thead style="border: 1px solid black">
   <tr>
     <th style="border: 1px solid black">S/No<br></th>
-    <th  style="border: 1px solid black">APPOINTMENT<br></th>
+    <th style="border: 1px solid black">APPOINTMENT<br></th>
     <th style="border: 1px solid black">NAME<br></th>
     <th style="border: 1px solid black">REMARKS</th>
   </tr>
@@ -57,7 +57,7 @@ td {border: 1px solid black; text-align: left;}
   <tr>
     <td style="border: 1px solid black">7</td>
     <td style="border: 1px solid black">Member</td>
-    <td style="border: 1px solid black">Rev Victor Teo</td>
+    <td style="border: 1px solid black">Rev Glenn Chan</td>
     <td style="border: 1px solid black">Chaplain for SHPS and SHSS/Vicar, CCR</td>
   </tr>
   <tr>
