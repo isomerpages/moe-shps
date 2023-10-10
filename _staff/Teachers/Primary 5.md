@@ -31,7 +31,7 @@ third_nav_title: Teachers
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">5/2<br>Joy</td>
     <td class="tg-nrix" style="border: 1px solid black">Mrs Grace Chua<br><a href="mailto:chua_wee_leng@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">chua_wee_leng@schools.gov.sg</span></a><br></td>
-    <td class="tg-baqh" style="border: 1px solid black"><br>Ms Edrea Chong<br><a href="mailto:edrea_chong_yun@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">edrea_chong_yun@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-baqh" style="border: 1px solid black"><br>Mdm Zoe Koh Li-May<br><a href="mailto:zoe_koh_li-may@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">zoe_koh_li-may@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black">5/3<br>Peace</td>
