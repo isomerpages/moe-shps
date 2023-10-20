@@ -15,4 +15,4 @@ third_nav_title: For Parents
 
 4. [P4 GEP Parents' Briefing Slides](/files/2023%20p4%20gep%20parents'%20briefing%20(website).pdf)
 
-5.    [Canteen Menu (updated in June 2023)](/files/canteen%20menu%20june%202023.pdf)
+5.    [Canteen Menu (updated in October 2023)](/files/canteen%20menu%20oct%202023.pdf)
