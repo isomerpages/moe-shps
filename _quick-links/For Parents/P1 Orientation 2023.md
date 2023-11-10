@@ -7,7 +7,7 @@ variant: markdown
 ---
 1. [Virtual Tour Video Link](https://drive.google.com/file/d/1YKU-r0zOSsOoB7q99BJCGzuQ-x7TFYPd/view)
 
-2. [2023 P1 Orientation Principal's Address](https://go.gov.sg/2023-p1-orientation-principal-address)
+2. [2024 P1 Orientation Principal's Address](https://drive.google.com/file/d/1JsGhizrOP7nQ6OxQzpJc4Htho7rJEyJU/view?usp=sharing)
 
 3. [2023 Briefing for Parents](/files/Briefing%20for%20Parents%20on%2011%20Nov%202022.pdf)
 
