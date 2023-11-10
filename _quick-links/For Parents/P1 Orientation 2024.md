@@ -7,7 +7,7 @@ variant: markdown
 ---
 1. [Virtual Tour Video Link](https://drive.google.com/file/d/1YKU-r0zOSsOoB7q99BJCGzuQ-x7TFYPd/view)
 
-2. [2024 P1 Orientation Principal's Address](https://drive.google.com/file/d/1JsGhizrOP7nQ6OxQzpJc4Htho7rJEyJU/view?usp=sharing)
+2. [2024 P1 Orientation Principal's Address](https://drive.google.com/file/d/1YaE1V19afVo-FviRBZ9eLeVszA5aPV-d/view?usp=sharing)
 
 3. [2024 Briefing for Parents](https://drive.google.com/file/d/1sGEc4eCxmq7rsFWmqP8C-0Ivh3JWLA0H/view?usp=sharing)
 
