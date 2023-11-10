@@ -3,7 +3,15 @@ title: Booklist for Year 2023
 permalink: /quick-links/for-parents/booklist-for-year-2023/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
+
+[P1 Booklist 2024](/files/P1_Booklists_2024.pdf)
+
+[P2 Booklist 2024](/files/P2_Booklists_2024.pdf)
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -24,7 +32,7 @@ third_nav_title: For Parents
 <tbody>
   <tr>
     <td class="tg-f4yw">P1</td>
-    <td class="tg-6s4d"><a href="/files/P1%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 1 BOOKLIST FOR YEAR 2023</span></a></td>
+    <td class="tg-6s4d"><a href="/files/P1%20TEXTBOOK%20FOR%20YEAR%202023.pdf"><span style="text-decoration:none;color:#FDB900">PRIMARY 1 BOOKLIST FOR YEAR 2023 </span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> P2</td>
