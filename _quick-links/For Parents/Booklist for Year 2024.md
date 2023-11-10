@@ -15,7 +15,6 @@ variant: markdown
 | P5     | [P5 Booklist 2024](/files/P5_Booklists_2024.pdf)  | 
 | P5 (GEP)     | [P5 (GEP) Booklist 2024](/files/P5__GEP__Booklists_2024.pdf) | 
 | P5 (FDN)     | [P5 (FDN) Booklist 2024](/files/P5__FDN__Booklists_2024.pdf) | 
-| P5     | [P5 Booklist 2024](/files/P5_Booklists_2024.pdf)  | 
 | P6     | [P6 Booklist 2024](/files/P6_Booklists_2024.pdf)  | 
 | P6 (GEP)     | [P6 (GEP) Booklist 2024](/files/P6__GEP__Booklists_2024.pdf) | 
 | P6 (FDN)     | [P6 (FDN) Booklist 2024](/files/P6__FDN__Booklists_2024.pdf) |
