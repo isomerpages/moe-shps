@@ -9,6 +9,6 @@ variant: markdown
 
 2. [2024 P1 Orientation Principal's Address](https://drive.google.com/file/d/1JsGhizrOP7nQ6OxQzpJc4Htho7rJEyJU/view?usp=sharing)
 
-3. [2023 Briefing for Parents](/files/Briefing%20for%20Parents%20on%2011%20Nov%202022.pdf)
+3. [2024 Briefing for Parents](https://drive.google.com/file/d/1sGEc4eCxmq7rsFWmqP8C-0Ivh3JWLA0H/view?usp=sharing)
 
 4. [P1 Administration Package Link](https://go.gov.sg/shps-p1information)
