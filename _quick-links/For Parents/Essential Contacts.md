@@ -3,6 +3,7 @@ title: Essential Contacts
 permalink: /quick-links/for-parents/essential-contacts/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

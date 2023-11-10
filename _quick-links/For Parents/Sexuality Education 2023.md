@@ -1,24 +1,25 @@
 ---
 title: Sexuality Education 2023
-permalink: /quick-links/for-parents/sexuality-education-2023/
+permalink: /quick-links/for-parents/sexuality-education/
 description: ""
 third_nav_title: For Parents
+variant: tiptap
 ---
 ### MOE Sexuality Education in Schools
 
   
 
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters in their growing years. It is taught in the context of values which our mainstream society believes in -  the importance of the family as the basic unit of society, encouraging healthy, heterosexual marriages and respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters in their growing years. It is taught in the context of values which our mainstream society believes in -&nbsp; the importance of the family as the basic unit of society, encouraging healthy, heterosexual marriages and respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
   
 
 2. The goals of Sexuality Education are:
 
-	(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
+	(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;
 
-	(ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+	(ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-	(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the heterosexual married couple forming a nuclear family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality. 
+	(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the heterosexual married couple forming a nuclear family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.&nbsp;
 
   
 
@@ -34,52 +35,52 @@ third_nav_title: For Parents
 
   
 
-You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)  for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp; for more information on MOE Sexuality Education.
 
 ### Overview of ST HILDA’S PRIMARY SCHOOL’s Sexuality Education Programme for 2023
 
   
 4. The MOE Sexuality Education curriculum is holistic and secular. It is taught through
 
-        a. Science 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a. Science&nbsp;
 
-        b.    Form Teacher Guidance Period (FTGP)   
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; b.&nbsp;&nbsp; &nbsp;Form Teacher Guidance Period (FTGP)&nbsp;  
 
-        b. Character and Citizenship Education (CCE)
-
-  
-
-5. The Primary 5 and 6 SEd lessons in the Character and Citizenship Education (CCE) 2021 aim to equip students with the social-emotional skills to understand themselves, navigate changes arising from pubertal development, build healthy relationships and keep safe when online. 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;b. Character and Citizenship Education (CCE)
 
   
 
-6.  The content of Sexuality Education is grouped into five main themes:
-
-        • **Human development**: the onset of puberty and its psychological and emotional impact.
-
-        • **Interpersonal relationships**: the skills and values for healthy and rewarding relationships with friends and
-
-                family, including the opposite sex.
-
-        • **Sexual health**: information and attitudes to promote sexual health and avoid unwanted consequences of
-
-                sexual behaviour.
-
-        • **Sexual behaviour**: expressions of sexuality and their effects.
-
-        • **Culture, society and law**: societal, cultural and legal influences on sexual identity and sexual expressions.
+5. The Primary 5 and 6 SEd lessons in the Character and Citizenship Education (CCE) 2021 aim to equip students with the social-emotional skills to understand themselves, navigate changes arising from pubertal development, build healthy relationships and keep safe when online.&nbsp;
 
   
 
-You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+6.&nbsp; The content of Sexuality Education is grouped into five main themes:
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;• **Human development**: the onset of puberty and its psychological and emotional impact.
+
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;• **Interpersonal relationships**: the skills and values for healthy and rewarding relationships with friends and
+
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;family, including the opposite sex.
+
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;• **Sexual health**: information and attitudes to promote sexual health and avoid unwanted consequences of
+
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;sexual behaviour.
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;• **Sexual behaviour**: expressions of sexuality and their effects.
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;• **Culture, society and law**: societal, cultural and legal influences on sexual identity and sexual expressions.
+
+  
+
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 	
-### Growing Years (GY) Programme: 
+### Growing Years (GY) Programme:&nbsp;
 
-7. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Growing Years” is a response to these challenges.
+7. The upper primary years mark the onset of puberty.&nbsp; With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Growing Years” is a response to these challenges.
 
   
 
-8. The Primary 5 & 6 Growing Years (GY) package, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+8. The Primary 5 &amp; 6 Growing Years (GY) package, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;_changes_, build healthy&nbsp;_relationships_, especially online relationships, and exercise&nbsp;_safety_.
 
 
 <p style="text-align:center;"> <strong>At St Hilda’s Primary School, the following lessons from the Growing Years Programme will be taught in 2023 through CCE (FTGP):<br><br>PRIMARY 5</strong></p>
@@ -163,11 +164,11 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 ### Information for parents
 
-8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. 
+8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;
 
   
 
-9. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents before the commencement of the  programme.  
+9. Parents who wish to opt their children out of the&nbsp;**Growing Years (GY) programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents before the commencement of the&nbsp; programme.&nbsp;&nbsp;
 
   
 

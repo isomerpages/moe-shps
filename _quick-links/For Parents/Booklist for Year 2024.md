@@ -1,6 +1,6 @@
 ---
 title: Booklist for Year 2024
-permalink: /quick-links/for-parents/booklist-for-year-2023/
+permalink: /quick-links/for-parents/booklist-for-year/
 description: ""
 third_nav_title: For Parents
 variant: markdown
