@@ -3,6 +3,7 @@ title: Primary 3
 permalink: /staff/teachers/primary-3/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,7 +27,7 @@ third_nav_title: Teachers
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-nrix" style="border: 1px solid black"><br>3/1<br><span style="background-color:initial">Love</span></td>
-    <td class="tg-nrix" style="border: 1px solid black"><br>Mrs Yeo Yew Ling<br><a href="mailto:yeo_yew_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">yeo_yew_ling@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-nrix" style="border: 1px solid black"><br>Mrs Yeo Yew Ling<br><a href="mailto:ong_yew_ling@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ong_yew_ling@schools.gov.sg</span></a><br><br></td>
     <td class="tg-nrix" style="border: 1px solid black"><br>Ms Ning Chin Yee  <br><a href="mailto:ning_chin_yee@schools.gov.sg"><span style="text-decoration:none;color:#FDB900">ning_chin_yee@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr style="border: 1px solid black">
