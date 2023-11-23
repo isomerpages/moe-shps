@@ -3,13 +3,14 @@ title: Forms
 permalink: /quick-links/for-parents/forms/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### Forms
 
 
   
 
-1. [MOE FAS Application Form](https://go.gov.sg/fasform)
+1. [MOE FAS Application Form ](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 2. [Waiting List Application Form](https://go.gov.sg/shps-wait-list-form)
 
