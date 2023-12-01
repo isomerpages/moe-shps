@@ -14,4 +14,4 @@ for online viewing.
 Downloadable PDF Copy
 ----------------------------------
 
-Please click [here](https://online.fliphtml5.com/obrr/wnfa/) to download the file.
+Please click [here](https://forms.gle/Yh8aMyXBH4uDE5Wa8) to download the file.
