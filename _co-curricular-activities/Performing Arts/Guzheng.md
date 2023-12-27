@@ -3,10 +3,11 @@ title: Guzheng
 permalink: /co-curricular-activities/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 The Guzheng Ensemble aims for its members to acquire a greater understanding and appreciation of Chinese music and culture. The CCA also promotes self-discipline and develop teamwork.
 
-![Guzheng](/images/Guzheng.jpg)  
+![](/images/Guzheng__2_.jpg)
 
 ##### Guzheng Schedule:
 
