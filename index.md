@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/shps homepage.gif
+      background: /images/Presentation1.gif
       url: /contact-us/
       key_highlights:
         - title: Announcement
