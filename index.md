@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Presentation1.gif
+      background: /images/school_website_banner_edited.gif
       url: /contact-us/
       key_highlights:
         - title: Announcement
