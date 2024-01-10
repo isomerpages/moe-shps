@@ -39,5 +39,31 @@ The Boys’ Brigade is a uniformed group that aims to guide and instil disciplin
 
 ##### CCA Teachers:
 
-
-<table class="iveo_table ives_tab_simple3" cellspacing="0" cellpadding="0" border="1" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 544px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 257.219px;">Overall Teacher-in-charge</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Mdm Lu Na<br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><a href="mailto:lu_na@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(253, 185, 0); text-decoration: none; text-align: center;">lu_na@schools.gov.sg</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 22pt;"><td rowspan="4" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 257.219px;">Teachers-in-charge</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Mdm Rebekah Poh<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mrs  Shauna Lee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 22pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Mr Kelvin Ang</td></tr></tbody></table>
+<table class="iveo_table ives_tab_simple3" cellspacing="0" cellpadding="0" border="1" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 544px;">
+<tbody style="margin: 0px; outline: 0px; padding: 0px;">
+<tr style="margin: 0px; outline: 0px; padding: 0px;">
+<td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 257.219px;">Overall Teacher-in-charge
+</td>
+<td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Mdm Lu Na
+<br style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">
+<a href="mailto:lu_na@schools.gov.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(253, 185, 0); text-decoration: none; text-align: center;">lu_na@schools.gov.sg</a>
+<br style="margin: 0px; outline: 0px; padding: 0px;">
+</td>
+</tr>
+<tr style="margin: 0px; outline: 0px; padding: 0px; height: 22pt;">
+<td rowspan="4" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 257.219px;">Teachers-in-charge
+</td>
+<td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Mdm Rebekah Poh
+<br style="margin: 0px; outline: 0px; padding: 0px;">
+</td>
+</tr>
+<tr style="margin: 0px; outline: 0px; padding: 0px;">
+<td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mrs  Shauna Lee
+</td>
+</tr>
+<tr style="margin: 0px; outline: 0px; padding: 0px; height: 22pt;">
+<td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Mr Kelvin Ang
+</td>
+</tr>
+</tbody>
+</table>
