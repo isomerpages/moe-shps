@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /co-curricular-activities/sports-and-games/volleyball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 The Volleyball CCA aims to cultivate an interest in this exciting and powerful team sport. Weekly training not only focuses on fundamental skills, fitness conditioning and game play, it also emphasises discipline and team building. We firmly believe that participating in a team sport like Volleyball will help to impart the necessary values required to shape one’s character.
 
