@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ### Club and Societies
 
@@ -75,7 +76,7 @@ description: ""
     <th class="tg-8jls"><a href="/co-curricular-activities/sports-and-games/hockey"><img src="/images/hockey%20cover.png" alt="Hockey" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/hockey"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Hockey</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/netball"><img src="/images/netball%20cover.png" alt="Netball" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/netball"><span style="text-decoration:none;color:#FFF;background-color:transparent"><strong>Netball</strong></span></a><br></th>
     <th class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/sailing"><img src="/images/sailing%20cover.png" alt="Sailing" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/sailing"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Sailing</strong></span></a><br></th>
-    <th class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/sports-club"><img src="/images/sport%20club%20cover.png" alt="Sports Club" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/sports-club"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Sports Club</strong></span></a><br></th>
+    <th class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/sports-club"><img src="/images/sport%20club%20cover.png" alt="Sports Club" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/sports-club"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Sports Club/Floorball</strong></span></a><br></th>
   </tr>
 </tbody><tbody>
   <tr>
@@ -83,6 +84,7 @@ description: ""
     <td class="tg-hwgp"><a href="/co-curricular-activities/sports-and-games/volleyball"><img src="/images/volleyball%20cover.png" alt="Volleyball" width="290" height="208"></a><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><br><a href="/co-curricular-activities/sports-and-games/volleyball"><span style="text-decoration:none;color:inherit;background-color:transparent"><strong>Volleyball</strong></span></a><br></td>
     <td class="tg-nlyn"> </td>
     <td class="tg-0lax"></td>
+		
   </tr>
 </tbody>
 </table>
