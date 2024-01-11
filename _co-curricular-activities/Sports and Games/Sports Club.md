@@ -11,7 +11,7 @@ Please take note that from 2024, Sports Club will not be taking in new members f
 
 ![Sports Club](/images/sports%20club.png)
 
-##### Sports Club Schedule:
+##### Sports Club / Floorball Schedule:
 
   
 <style type="text/css">
