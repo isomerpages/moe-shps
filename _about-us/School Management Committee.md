@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 table { border-collapse: collapse;}
@@ -51,7 +52,7 @@ td {border: 1px solid black; text-align: left;}
   <tr>
     <td style="border: 1px solid black">6</td>
     <td style="border: 1px solid black">Member</td>
-    <td style="border: 1px solid black">Mrs Daphne Yeoh</td>
+    <td style="border: 1px solid black">Mdm Law Li Mei</td>
     <td style="border: 1px solid black">Principal, St Hilda’s Primary School (SHPS)</td>
   </tr>
   <tr>
