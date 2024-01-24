@@ -1,0 +1,16 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - History.md
+      - Vision, Mission, Values.md
+      - Crest & Motto.md
+      - School Management Committee.md
+      - Chaplaincy.md
+      - Parent Support Group (PSG).md
+      - Alumni.md
+      - Financial Information.md
+      - Contact Us.md
+      - School Hours.md
+      - St Hilda’s School Yearbook.md

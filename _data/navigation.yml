@@ -1,0 +1,14 @@
+logo: /images/school logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Staff
+    collection: staff
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: Quick Links
+    collection: quick-links
+  - title: Photo Gallery
+    collection: photo-gallery
