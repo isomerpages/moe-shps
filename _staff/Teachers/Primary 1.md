@@ -54,7 +54,7 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p></p>
                 <p>Mdm Lee Mei Ling
-                    <br><a href="mailto:lee_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+                    <br><a href="mailto:lee_mei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> 
                     <br>
                 </p>
             </td>
@@ -82,8 +82,8 @@ variant: tiptap
             </td>
             <td rowspan="1" colspan="1">
                 <p></p>
-                <p>Mdm Zhang Tao
-                    <br><a href="mailto:zhang_tao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_tao@schools.gov.sg</a>
+                <p>Mdm Zhang Tao</p>
+                <p><a href="mailto:zhang_tao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
                     <br>
                 </p>
             </td>
@@ -100,8 +100,7 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p></p>
                 <p>Ms Ho Wai Wai
-                    <br><a href="mailto:ho_wai_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wai_wai@schools.gov.sg</a>
-                    <br>
+                    <br><a href="mailto:ho_wai_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
