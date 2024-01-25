@@ -78,7 +78,7 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p><strong>Vice-Principal</strong>
                 </p>
-                <p><a href="mailto:goh_hui_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email </a>
+                <p><a href="mailto:goh_hui_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
