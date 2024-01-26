@@ -5,106 +5,70 @@ description: ""
 variant: tiptap
 ---
 <table>
-    <tbody>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper">
-                    <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 186px; height: 247px;" height="auto" width="100%" alt="Mrs Daphne Yeoh.jpg" src="/images/MDM_LAW_LI_MEI___P.jpg">
-                </div>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p><strong>Principal</strong>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p><a href="mailto:law_li_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>
-                    <br>
-                </p>
-                <div class="isomer-image-wrapper">
-                    <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 186px; height: 247px;" height="auto" width="100%" alt="Mrs Goh Hui Cheng.jpg" src="/images/Mrs%20Goh%20Hui%20Cheng.jpg">
-                </div>
-                <p>
-                    <br>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>
-                    <br>
-                </p>
-                <div class="isomer-image-wrapper">
-                    <img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 188px; height: 256px;" height="auto" width="100%" alt="Mrs Joy.jpg" src="/images/Mrs%20Joy.jpg">
-                </div>
-                <p>
-                    <br>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p></p>
-                <p></p>
-                <div class="isomer-image-wrapper">
-                    <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg">
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p><strong>Vice-Principal</strong>
-                </p>
-                <p><a href="mailto:goh_hui_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p><strong>Vice-Principal</strong>
-                </p>
-                <p><a href="mailto:low_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-                </p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p><strong>Vice-Principal (Admin)</strong>
-                </p>
-                <p><a href="mailto:lew-poh_lye_imm@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-        </tr>
-    </tbody>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/MDM_LAW_LI_MEI___P.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Principal</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_li_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:goh_hui_cheng@schools.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mrs_Goh_Hui_Cheng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vice-Principal</div><div class="isomer-card-link">email</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:low_ai_ling@schools.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="VP" src="/images/Joy_Zhang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Vice-Principal</div>
+<div class="isomer-card-link">email</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="mailto:lew-poh_lye_imm@schools.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="VPA" src="/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vice-Principal (Admin)</div><div class="isomer-card-link">email</div></div></a>
+</div>
 <p></p>
