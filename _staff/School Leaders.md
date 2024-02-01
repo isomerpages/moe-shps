@@ -58,17 +58,17 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:goh_hui_cheng@schools.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mrs_Goh_Hui_Cheng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vice-Principal</div><div class="isomer-card-link">email</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:goh_hui_cheng@schools.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 80%" height="auto" width="100%" alt="Placeholder image" src="/images/Mrs_Goh_Hui_Cheng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vice-Principal</div><div class="isomer-card-link">email</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:low_ai_ling@schools.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VP" src="/images/Joy_Zhang.png">
+<img style="width: 80%" height="auto" width="100%" alt="VP" src="/images/Joy_Zhang.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Vice-Principal</div>
 <div class="isomer-card-link">email</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="mailto:lew-poh_lye_imm@schools.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="VPA" src="/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vice-Principal (Admin)</div><div class="isomer-card-link">email</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="mailto:lew-poh_lye_imm@schools.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 80%" height="auto" width="100%" alt="VPA" src="/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vice-Principal (Admin)</div><div class="isomer-card-link">email</div></div></a>
 </div>
 <p></p>
