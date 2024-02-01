@@ -19,14 +19,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-
-
-
-| ![](/images/Mrs_Goh.jpg) | ![](/images/Mrs_Zhang.jpg) | ![](/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg) |
-| -------- | -------- | -------- |
-| [email](mailto:goh_hui_cheng@schools.gov.sg)     | [email](mailto:low_ai_ling@schools.gov.sg)     | [email](mailto:lew-poh_lye_imm@schools.gov.sg)     |
-
 <table>
 <tbody>
 <tr>
@@ -51,3 +43,10 @@ variant: markdown
 </p>
 </td>
 </tr></tbody></table>
+
+
+
+| ![](/images/Mrs_Goh.jpg) | ![](/images/Mrs_Zhang.jpg) | ![](/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg) |
+| -------- | -------- | -------- |
+| [email](mailto:goh_hui_cheng@schools.gov.sg)     | [email](mailto:low_ai_ling@schools.gov.sg)     | [email](mailto:lew-poh_lye_imm@schools.gov.sg)     |
+
