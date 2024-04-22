@@ -64,7 +64,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mrs Christopher Chong
+<p>Mr Christopher Chong
 <br><a href="mailto:chong_kin_mun_joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email<br></a>
 </p>
 </td>
