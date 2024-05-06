@@ -4,7 +4,11 @@ permalink: /staff/key-personnel/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -171,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasjit Kaur
+<p>Ms Jasjit Kaur
 <br><a href="mailto:jasjit_kaur_ranjit_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
