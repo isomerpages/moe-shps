@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -105,8 +110,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mdm Islina Ismail
-<br><a href="mailto:islina_ismail_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Ms Siti Nurfadzillah
+<br><a href="mailto:siti_nurfadzillah_husni_thamrin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>

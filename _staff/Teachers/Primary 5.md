@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -32,8 +37,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mdm Rebecca Tong
-<br><a href="mailto:tong_siew_phey_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Kimmy Tan
+<br><a href="mailto:tan_sue_ling_kimmy@schools.gov.sgs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
@@ -51,8 +56,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mr Hashim
-<br><a href="mailto:hashim_bin_mohd_shariff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Rebecca Tong
+<br><a href="mailto:tong_siew_phey_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
@@ -140,7 +145,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Ms Ashley Chua
+<p>Mrs Ashley Lai
 <br><a href="mailto:chua_cui_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
