@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -32,8 +37,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mr Long Hian Kum
-<br><a href="mailto:long_hian_kum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Munirah
+<br><a href="mailto:munirah_manap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
@@ -70,8 +75,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mr Muqairil
-<br><a href="mailto:muqairil_kamaluddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mrs Geetha
+<br><a href="mailto:geetha_muralimohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
@@ -89,8 +94,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mrs Muru
-<br><a href="mailto:Alagammai_Rama_Sundram_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mr Muqairil
+<br><a href="mailto:muqairil_kamaluddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
@@ -165,8 +170,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Mdm Katie Tay
-<br><a href="mailto:tay_lay_yong_katie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Farah
+<br><a href="mailto:farah_anna_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
