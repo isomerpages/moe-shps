@@ -62,7 +62,7 @@ The Boys’ Brigade is a uniformed group that aims to guide and instil disciplin
 </td>
 </tr>
 <tr style="margin: 0px; outline: 0px; padding: 0px; height: 22pt;">
-<td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Mr Kelvin Ang
+<td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 258.219px;">Ms Chua Wen Qian
 </td>
 </tr>
 </tbody>
