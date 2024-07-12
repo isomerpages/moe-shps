@@ -59,7 +59,6 @@ audio-visual system management, robotics, digital art and video editing.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Karmen Tong
 <br><a href="mailto:tong_jia_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tong_jia_min@schools.gov.sg</a>
-<br>
 </p>
 </td>
 </tr>
