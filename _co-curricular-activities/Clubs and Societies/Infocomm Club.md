@@ -68,9 +68,7 @@ audio-visual system management, robotics, digital art and video editing.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Sim
-<br>
-</p>
+<p>Mdm Rachel Sim</p>
 </td>
 </tr>
 <tr>
