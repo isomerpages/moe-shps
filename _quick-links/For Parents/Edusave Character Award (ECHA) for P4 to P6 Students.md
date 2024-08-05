@@ -3,16 +3,11 @@ title: Edusave Character Award (ECHA) for P4 to P6 Students
 permalink: /quick-links/for-parents/edusave-character-award-echa-for-p4-to-p6-students/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
-The Ministry of Education (MOE) introduced the Edusave Character Award (ECHA) in 2012 to **enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions.** This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports our efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
+The Edusave Character Award (ECHA) aims to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviours and actions; and who can be role models to inspire others. The Award supports the school's efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
 
   
-
-The objectives of the ECHA are:
-
-  (a) To send a clear and strong signal of the importance that MOE places on character and values, on par with achievements in the academic domain; and
-
-(b) To recognise outstanding students in each school who are exemplary in character, and who can be role models to inspire others.
 
 ### Eligibility Criteria
 
@@ -21,7 +16,7 @@ The nominated students must: 
   
 1. **be a Singapore citizen**
 
-2. have demonstrated good character and values in a **consistent manner**. Students may be identified for the following qualities:
+2. have demonstrated **good character and values** in a **consistent manner**. Students may be identified for the following qualities:
 
   
 (a) Qualities associated with our **school values** (Love Sincerely, Live Responsibly, Learn Continuously, Serve Humbly and Strive Resiliently)
@@ -35,6 +30,8 @@ The nominated students must: 
 ### Nomination
 
   
-The form must be duly completed and submitted using the link provided below by **Thursday, 31 August 2023**.  
+Students can be nominated by teachers, parents, peers or self. 
 
-[ECHA Award 2023](https://go.gov.sg/shpsecha2023)
+The form must be duly completed and submitted using the link provided below by **Wednesday, 21 August 2024**.  
+
+[ECHA Award 2024](https://go.gov.sg/shpsecha2024)
