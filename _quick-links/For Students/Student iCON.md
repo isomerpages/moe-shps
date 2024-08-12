@@ -1,7 +1,9 @@
 ---
 title: Student iCON
-permalink: /quick-links/for-students/student-icon
+permalink: /quick-links/for-students/student-icon/
 description: ""
 third_nav_title: For Students
+variant: tiptap
 ---
-1.    [Reset Student iCON Password](https://go.gov.sg/sticon)
+<p>1.&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/sticon" rel="noopener noreferrer nofollow" target="_blank">Reset Student MIMS Password</a>
+</p>
