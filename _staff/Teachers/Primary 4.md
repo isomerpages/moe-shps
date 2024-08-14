@@ -88,8 +88,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Ms Preethi
-<br><a href="mailto:preethi_valsalan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Ms Insyirah
+<br><a href="mailto:insyirah_maritz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
