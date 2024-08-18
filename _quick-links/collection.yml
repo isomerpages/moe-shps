@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For External Vendors/School Bus.md
       - For External Vendors/.keep
       - For Parents/.keep
       - For Parents/P1 Orientation 2024.md
