@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For External Vendors.md
       - For Parents/.keep
       - For Parents/P1 Orientation 2024.md
       - For Parents/Booklist for Year 2024.md
