@@ -37,19 +37,24 @@ email or to the School's General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address:</p>
+<p>Address: 2 Tampines Ave 3, Singapore 529706</p>
 </li>
 <li>
-<p>Contact Number:</p>
+<p>Contact Number: 67811916</p>
 </li>
 <li>
 <p>Email:</p>
 </li>
 <li>
-<p>Contact Person:</p>
+<p>Contact Person: Ms Yolande Koh (AM) / Mr Chris Yeo (OM)</p>
 </li>
 </ul>
-<p>How to get there?</p>
+<p></p>
+<p><strong>How to get there?</strong>
+</p>
+<p>Nearest MRT: Tampines (DT33 line) - 8 minutes walking distance</p>
+<p>Bus Number: 129, 23, 293, 46, 518 - 3 minutes walking distance</p>
+<p></p>
 <p>
 <br>
 </p>
