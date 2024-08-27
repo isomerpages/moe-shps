@@ -30,8 +30,26 @@ Procedure below.</p>
 <p>Complete the <a href="/files/SHPS_2024_____2__Information_from_Vendor__For_Single_Bus_Service____ANNEX_A.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a>
 </p>
 </li>
+<li>
+<p>Submit the completed Call for Proposal - Annex A by closing date, ,via
+email or to the School's General Office.</p>
+</li>
 </ol>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address:</p>
+</li>
+<li>
+<p>Contact Number:</p>
+</li>
+<li>
+<p>Email:</p>
+</li>
+<li>
+<p>Contact Person:</p>
+</li>
+</ul>
+<p>How to get there?</p>
 <p>
 <br>
 </p>
