@@ -27,9 +27,11 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the</p>
+<p>Complete the <a href="/files/SHPS_2024_____2__Information_from_Vendor__For_Single_Bus_Service____ANNEX_A.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a>
+</p>
 </li>
 </ol>
+<p></p>
 <p>
 <br>
 </p>
