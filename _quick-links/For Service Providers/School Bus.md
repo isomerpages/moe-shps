@@ -20,6 +20,10 @@ Procedure below.</p>
 <li>
 <p><a href="/files/SHPS_2024_____3__TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service____ANNEX_B.pdf" rel="noopener nofollow" target="_blank">Agreement of Appointment for School Bus Operator</a>
 </p>
+</li>
+<li>
+<p><a href="/files/SHPS_2024_____4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 <p></p>
 </li>
 </ol>
@@ -43,7 +47,8 @@ email or to the School's General Office.</p>
 <p>Contact Number: 67811916</p>
 </li>
 <li>
-<p>Email:</p>
+<p>Email: <a href="mailto:yolande_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yolande_koh@schools.gov.sg</a>
+</p>
 </li>
 <li>
 <p>Contact Person: Ms Yolande Koh (AM) / Mr Chris Yeo (OM)</p>
