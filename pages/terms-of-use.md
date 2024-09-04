@@ -19,7 +19,7 @@ Thank you for visiting https://www.shps.moe.edu.sg/. By accessing and using this
 
 **Privacy Policy**
 
-5\. Click here to review this Web Site Privacy Statement.
+5\. Click [here](https://www.moe.gov.sg/privacy-statement) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
