@@ -53,8 +53,8 @@ references from prior educational institutions and employers;</p>
 research support, as well as managing related programs, including using
 Personal Data for development and fundraising activities, and disclosing
 information to donors, grantors, evaluators, and external organizations
-for reports, events, surveys, and publicity of <a rel="noopener noreferrer nofollow" target="_blank">St. Hilda’s Primary School’s </a>replated
-programmes;</p>
+for reports, events, surveys, and publicity of St. Hilda’s Primary School’s
+replated programmes;</p>
 <p>&nbsp;2.1.5 Investigating potential fraud, misconduct, or unlawful actions,
 or omission, and using electronic and video systems to maintain campus
 security, control access, and investigate suspicious or inappropriate activities;</p>
@@ -183,9 +183,8 @@ and processes.</p>
 <p>&nbsp;6.2 We reserve the right to amend the terms of this Data Protection
 Policy at our absolute discretion. You may request the latest version of
 the policy at any time.</p>
-<p>&nbsp;6.3 We encourage you to periodically check our website, <u>www. </u>
-<a rel="noopener noreferrer nofollow" target="_blank"><u>SHPS.moe.edu.sg</u>
-</a>, for the most current version of our Data Protection Policy to stay informed
+<p>&nbsp;6.3 We encourage you to periodically check our website, <a href="https://www.shps.moe.edu.sg" rel="noopener nofollow" target="_blank">www.shps.moe.edu.sg</a>,
+for the most current version of our Data Protection Policy to stay informed
 about our latest practices regarding Personal Data Protection.</p>
 <p><strong>7. Complaint Process and Feedback<u><br><br></u></strong>7.1 If
 you have any complaint, grievance, or feedback regarding our handling of
@@ -196,7 +195,7 @@ to verify your identity before we can respond to your request.</p>
 <p>&nbsp;7.3 You can contact us through the following methods to submit your
 complaint, grievance, or feedback:</p>
 <p>&nbsp;7.3.1 Singapore Telephone Number: 64350211</p>
-<p>&nbsp;7.3.2 Email: <a rel="noopener noreferrer nofollow" target="_blank">shps@moe.edu.sg</a>.
+<p>&nbsp;7.3.2 Email: <a href="mailto:shps@moe.edu.sg" rel="noopener nofollow" target="_blank">shps@moe.edu.sg</a>.
 Attention it to the ‘Data Protection Officer’</p>
 <p>&nbsp;7.3.3 School Address: 2 Tampines Avenue 3, Singapore 529706</p>
 <p>&nbsp;7.4 We are committed to deal with any complaint, grievance or feedback
