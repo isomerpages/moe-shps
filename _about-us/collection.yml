@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - PDPA Policy for SHPS.md
       - Principal's Message.md
       - History.md
       - Vision, Mission, Values.md
