@@ -53,8 +53,8 @@ references from prior educational institutions and employers;</p>
 research support, as well as managing related programs, including using
 Personal Data for development and fundraising activities, and disclosing
 information to donors, grantors, evaluators, and external organizations
-for reports, events, surveys, and publicity of <a rel="noopener noreferrer nofollow" target="_blank">St. Hilda’s Primary School’s </a>replated
-programmes;</p>
+for reports, events, surveys, and publicity of St. Hilda’s Primary School’s
+<a rel="noopener noreferrer nofollow" target="_blank"></a>replated programmes;</p>
 <p>&nbsp;2.1.5 Investigating potential fraud, misconduct, or unlawful actions,
 or omission, and using electronic and video systems to maintain campus
 security, control access, and investigate suspicious or inappropriate activities;</p>
