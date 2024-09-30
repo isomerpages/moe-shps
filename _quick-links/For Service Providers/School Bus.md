@@ -119,7 +119,7 @@ programmes and co-curricular activities, departure before 4pm</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Up to 15-seater  (per trip)</strong>
+<p><strong>Up to 15-seater (per trip)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
