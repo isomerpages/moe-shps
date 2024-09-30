@@ -10,21 +10,16 @@ third_nav_title: For Service Providers
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><u>PEH BUS SERVICE</u></strong>
-<br>174D Edgedale Plains #15-195</p>
-<p>Singapore 824174</p>
-<p></p>
-<p><strong><u>CONTACT</u></strong>
-</p>
-<p>Number: 90073126 (Mr Peh) / 97231801 (Ms Berlin)</p>
+<br>Address: 174D Edgedale Plains #15-195 Singapore 824174</p>
+<p>Contact Person/Number: 90073126 (Mr Peh) / 97231801 (Ms Berlin)</p>
 <p>Email address: <a rel="noopener noreferrer nofollow" target="_blank">shpsbus@gmail.com</a>
 </p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>BUS FARE</u></strong>
 </p>
 <p>Service Period:&nbsp; 01 Jan 2025 to 31 Dec 2026</p>
 <p>&nbsp;</p>
-<p><u>Daily School Bus Services</u>
+<p><strong><u>DAILY SCHOOL BUS SERVICES</u></strong>
 </p>
 <p>Based on Not to Exceed Price (NTE) for sending students from home to school
 and vice versa</p>
@@ -124,7 +119,7 @@ programmes and co-curricular activities, departure before 4pm</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Up to 15-seater (per trip)</strong>
+<p><strong>Up to 15-seater  (per trip)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,8 +157,9 @@ programmes and co-curricular activities, departure before 4pm</p>
 </p>
 <p><strong><u>SERVICE BOOKING LINK</u></strong>
 </p>
-<p><a href="https://forms.gle/DMRgXCrqmSz3Ldws9" rel="noopener noreferrer nofollow" target="_blank">For 2025</a>
-</p>
+<p>Click on the <a href="https://forms.gle/DMRgXCrqmSz3Ldws9" rel="noopener nofollow" target="_blank">service booking link</a> for
+2025 School Bus Registration Form.</p>
+<p></p>
 <p>
 <br>
 </p>
