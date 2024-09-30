@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - PDPA Policy for SHPS.md
       - Principal's Message.md
       - History.md
       - Vision, Mission, Values.md
@@ -13,5 +12,6 @@ collections:
       - Alumni.md
       - Financial Information.md
       - Contact Us.md
+      - PDPA Policy for SHPS.md
       - School Hours.md
       - St Hilda’s School Yearbook.md
