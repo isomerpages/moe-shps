@@ -138,7 +138,6 @@ the public interest.</p>
 we will ensure that adequate protection measures are in place and will
 make every effort to ensure these third parties comply with the PDPA and
 our data protection policies.</p>
-<p>&nbsp;&nbsp;</p>
 <p><strong>4. Request for Access, Correction and/or Withdrawal of Personal Data</strong>
 </p>
 <p><strong>&nbsp;</strong>4.1 You may request to access or correct the Personal
@@ -162,7 +161,7 @@ to maintain your existing relationship with us.</p>
 to access or correct your Personal Data. You will be notified in advance
 of such cost, and we will provide you with a written estimate of the fee
 we will be charging.</p>
-<p>&nbsp;&nbsp;</p>
+<p></p>
 <p><strong>5. Administration and Security Management of Personal Data<u><br><br></u></strong>5.1
 We will make reasonable efforts to ensure that your Personal Data is accurate,
 complete, and up to date.</p>
@@ -177,7 +176,7 @@ and/or anonymized as soon as it is reasonable to assume that (i) the purpose
 for which that Personal Data was collected is no longer being served by
 the retention of such Personal Data; (ii) retention is no longer necessary
 for any other legal or business purposes.</p>
-<p>&nbsp;<strong>6. Updates on Data Protection Policy<u><br><br></u></strong>6.1
+<p><strong>6. Updates on Data Protection Policy<u><br><br></u></strong>6.1
 To ensure the effective management, protection, and processing of your
 Personal Data, we will periodically review and update our policies, procedures,
 and processes.</p>
@@ -188,10 +187,10 @@ the policy at any time.</p>
 <a rel="noopener noreferrer nofollow" target="_blank"><u>SHPS.moe.edu.sg</u>
 </a>, for the most current version of our Data Protection Policy to stay informed
 about our latest practices regarding Personal Data Protection.</p>
-<p>&nbsp;<strong>7. Complaint Process and Feedback<u><br><br></u></strong>7.1
-If you have any complaint, grievance, or feedback regarding our handling
-of your Personal Data or about our compliance with the PDPA, please feel
-free to reach out to us.</p>
+<p><strong>7. Complaint Process and Feedback<u><br><br></u></strong>7.1 If
+you have any complaint, grievance, or feedback regarding our handling of
+your Personal Data or about our compliance with the PDPA, please feel free
+to reach out to us.</p>
 <p>7.2 To protect your personal data and security, we will also require you
 to verify your identity before we can respond to your request.</p>
 <p>&nbsp;7.3 You can contact us through the following methods to submit your
