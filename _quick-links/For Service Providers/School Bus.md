@@ -5,61 +5,165 @@ variant: tiptap
 description: ""
 third_nav_title: For Service Providers
 ---
-<p><strong>School Bus Advertisement</strong>
+<p><strong>DETAILS OF BUS OPERATOR AND BUS FARES</strong>
 </p>
-<p>To apply, please refer to the Service Requirements and the Application
-Procedure below.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>PEH BUS SERVICE</u></strong>
+<br>174D Edgedale Plains #15-195</p>
+<p>Singapore 824174</p>
 <p></p>
-<p><strong>Service Requirements</strong>
+<p><strong><u>CONTACT</u></strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/SHPS_2024_____1__Call_for_Proposals__For_Single_Bus_Service_.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+<p>Number: 90073126 (Mr Peh) / 97231801 (Ms Berlin)</p>
+<p>Email address: <a rel="noopener noreferrer nofollow" target="_blank">shpsbus@gmail.com</a>
 </p>
-</li>
-<li>
-<p><a href="/files/SHPS_2024_____3__TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service____ANNEX_B.pdf" rel="noopener nofollow" target="_blank">Agreement of Appointment for School Bus Operator</a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>BUS FARE</u></strong>
 </p>
-</li>
-<li>
-<p><a href="/files/SHPS_2024_____4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+<p>Service Period:&nbsp; 01 Jan 2025 to 31 Dec 2026</p>
+<p>&nbsp;</p>
+<p><u>Daily School Bus Services</u>
 </p>
-<p></p>
-</li>
-</ol>
-<p><strong>Application Procedure</strong>
+<p>Based on Not to Exceed Price (NTE) for sending students from home to school
+and vice versa</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Distance Range Category</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Complete the <a href="/files/SHPS_2024_____2__Information_from_Vendor__For_Single_Bus_Service____ANNEX_A.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Up to 15-seater</strong>
 </p>
-</li>
-<li>
-<p>Submit the completed Call for Proposal - Annex A by closing date, <strong>6 September 2024</strong> ,via
-email or to the School's General Office.</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address: 2 Tampines Ave 3, Singapore 529706</p>
-</li>
-<li>
-<p>Contact Number: 67811916</p>
-</li>
-<li>
-<p>Email: <a href="mailto:yolande_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yolande_koh@schools.gov.sg</a>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>&gt;15-seater</strong>
 </p>
-</li>
-<li>
-<p>Contact Person: Ms Yolande Koh (AM) / Mr Chris Yeo (OM)</p>
-</li>
-</ul>
-<p></p>
-<p><strong>How to get there?</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1-way</strong>
 </p>
-<p>Nearest MRT: Tampines (DT33 line) - 8 minutes walking distance</p>
-<p>Bus Number: 129, 23, 293, 46, 518 - 3 minutes walking distance</p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2-way</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1-way</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2-way</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$170</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$170</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$220</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$220</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><u>School Bus Services for after school activities</u>
+</p>
+<p>Sending students from school after supplementary lessons / enrichment
+programmes and co-curricular activities, departure before 4pm</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Distance Range Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Up to 15-seater (per trip)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&gt;15-seater (per trip)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$7</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><u>SERVICE BOOKING LINK</u></strong>
+</p>
+<p><a href="https://forms.gle/DMRgXCrqmSz3Ldws9" rel="noopener noreferrer nofollow" target="_blank">For 2025</a>
+</p>
 <p>
 <br>
 </p>
