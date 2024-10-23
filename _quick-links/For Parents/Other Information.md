@@ -3,6 +3,7 @@ title: Other Information
 permalink: /quick-links/for-parents/other-information/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### Parent-School Communication
 
@@ -24,19 +25,7 @@ third_nav_title: For Parents
 
 Parent/Guardian must obtain permission from the Form Teacher if they wish to take their child/ward home due to sickness or other urgent matters. Please sign in the ‘Student Early Dismissal’ book at the General Office.
 
-  
-
-### Leave of Absence
-
-The school strongly discourages Leave of Absence during the school term. For special cases, the following requirements are needed:
-
-• Application in writing to the Principal should be made by parents as early as possible, and no later than two weeks before the departure date.
-
-• Approval for such leave can only be granted by the Principal or Vice-principal.
-
-• Leave granted would presuppose that the parents would take the necessary steps to ensure that the child keep up with the lessons missed and to submit any assignments done during the child’s period of leave.
-
-• Compassionate leave may be granted on short notice. Parents may call the child’s Form Teacher to make such a request and submit the necessary document to the Form Teacher after the child returns to school.
+ 
 
   
 
