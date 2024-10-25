@@ -76,7 +76,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Mdm Rohayah
-<br><a href="mailto:rohayah_yacuub@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email<br></a>
+<br><a href="mailto:rohayah_yaacub@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
