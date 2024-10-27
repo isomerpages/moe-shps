@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For Service Providers/School Canteen.md
       - For Service Providers/School Bus.md
       - For Service Providers/.keep
       - For Parents/.keep
