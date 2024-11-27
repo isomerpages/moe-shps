@@ -94,7 +94,7 @@ will help to impart the necessary values required to shape one’s character.</p
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Geetha</p>
+<p>Mrs Geetha Muralimohan</p>
 </td>
 </tr>
 <tr>
