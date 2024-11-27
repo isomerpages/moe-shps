@@ -4,11 +4,11 @@ permalink: /about-us/st-hilda-s-school-yearbook/
 description: ""
 variant: markdown
 ---
-SHPS Yearbook 2023
+SHPS Yearbook 2024
 --------------------------------
 
 Please click 
-[here](https://online.fliphtml5.com/obrr/wnfa/)
+[here](https://go.gov.sg/shps-yearbook)
 for online viewing.
 
 Downloadable PDF Copy
