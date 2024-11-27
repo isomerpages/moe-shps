@@ -57,8 +57,8 @@ audio-visual system management, robotics, digital art and video editing.</p>
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Karmen Tong
-<br><a href="mailto:tong_jia_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tong_jia_min@schools.gov.sg</a>
+<p>Mr Yeow Yuen Ten
+<br><a href="mailto:yeow_yuen_ten@schools.gov.sg" rel="noopener noreferrer nofollow" target="">tong_jia_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -67,17 +67,17 @@ audio-visual system management, robotics, digital art and video editing.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Karmen Tong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kimmy Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rachel Sim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yeow Yuen Ten</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Dhashni</p>
 </td>
 </tr>
 <tr>
