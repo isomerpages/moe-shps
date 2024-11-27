@@ -71,7 +71,7 @@ thereby contributing to the character development of the boys.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rebekah Poh</p>
+<p>Mr Alvin Lee</p>
 </td>
 </tr>
 <tr>

@@ -1,5 +1,5 @@
 ---
-title: Sports Club and Floorball
+title: Floorball & Sportsclub
 permalink: /co-curricular-activities/sports-and-games/sports-club/
 description: ""
 third_nav_title: Sports and Games
@@ -15,7 +15,7 @@ members for the CCA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sports Club" src="/images/sports%20club.png">
 </div>
-<h5>Sports Club / Floorball Schedule:</h5>
+<h5>Floorball Schedule:</h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,8 +64,8 @@ members for the CCA.</p>
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Hwee Kay
-<br><a href="mailto:koh_hwee_kay@schools.gov.sg" rel="noopener noreferrer nofollow" target="">koh_hwee_kay@schools.gov.sg</a>
+<p>Mdm Haziah Jamale
+<br><a href="mailto:haziah_jamale@schools.gov.sg" rel="noopener noreferrer nofollow" target="">haziah_jamale@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ members for the CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Geetha Muralimohan</p>
+<p>Ms Koh Hwee Kay</p>
 </td>
 </tr>
 </tbody>
