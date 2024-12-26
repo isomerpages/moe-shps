@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Administrative Staff.md
       - School Leaders.md
       - Key Personnel.md
       - Teachers/.keep
@@ -12,7 +11,8 @@ collections:
       - Teachers/Primary 4.md
       - Teachers/Primary 5.md
       - Teachers/Primary 6.md
-      - Achievement of Staff/2022.md
+      - Administrative Staff.md
       - Achievement of Staff/.keep
+      - Achievement of Staff/2022.md
       - Achievement of Staff/2021.md
       - Achievement of Staff/2020.md
