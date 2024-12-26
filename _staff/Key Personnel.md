@@ -65,8 +65,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Hui Zhi
-<br><a href="mailto:lim_hui_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Qiu Suguan
+<br><a href="mailto:qiu_suguan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,13 +87,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Lim</p>
-<p><a href="mailto:alvin_lim_hsu_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mr Lim Hui Zhi</p>
+<p><a href="mailto:lim_hui_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Student Management</p>
+<br>Mother Tongue
+<br>Covering Student Management (P1 -P3)</p>
 </td>
 </tr>
 <tr>
@@ -105,17 +106,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Head of Department
 <br>Information &amp; Communication Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Ng
-<br><a href="mailto:ng_ding_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>Gifted Education Programme</p>
 </td>
 </tr>
 <tr>
@@ -191,8 +181,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>(Lower Primary)</p>
+<p>Year Head (Lower Primary) / Covering Student Management (P4 - P6)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Angeline Huang
+<br><a href="mailto:angelina_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Primary) / Covering Student Management (P4 - P6)</p>
 </td>
 </tr>
 <tr>
@@ -314,20 +315,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher
-<br>Physical Education
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Cindy Simon
-<br><a href="mailto:simon_chin_see_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>English Language</p>
+<br>Physical Education</p>
 </td>
 </tr>
 <tr>
