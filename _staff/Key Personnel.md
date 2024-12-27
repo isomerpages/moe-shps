@@ -193,7 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary) / Covering Student Management (P4 - P6)</p>
+<p>Year Head (Lower Primary)</p>
 </td>
 </tr>
 <tr>
