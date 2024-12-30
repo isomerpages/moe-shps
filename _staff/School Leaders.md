@@ -64,16 +64,18 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Zhang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_JOSEPHINE_TAN_VP.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_JOY_ZHANG_LOW___VP_resized.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_LEW_POH_LYE_IMM___VP_new.jpg">
 </div>
 </th>
 </tr>
