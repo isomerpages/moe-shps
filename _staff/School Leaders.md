@@ -2,9 +2,13 @@
 title: School Leaders
 permalink: /staff/school-leaders/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,7 +23,12 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -29,6 +38,7 @@ variant: markdown
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -42,10 +52,47 @@ variant: markdown
 <p><a href="mailto:law_li_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
-</tr></tbody></table>
-
-
-
-| ![](/images/Mrs_Goh.jpg) | ![](/images/Mrs_Zhang.jpg) | ![](/images/MRS_LEW_POH_LYE_IMM___VP__resize_.jpg) |
-| -------- | -------- | -------- |
-| [email](mailto:goh_hui_cheng@schools.gov.sg)     | [email](mailto:low_ai_ling@schools.gov.sg)     | [email](mailto:lew-poh_lye_imm@schools.gov.sg)     |
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_JOSEPHINE_TAN_VP.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_JOY_ZHANG_LOW___VP_resized.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_LEW_POH_LYE_IMM___VP_resized.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:josephine_ys_ng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lew-poh_lye_imm@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
