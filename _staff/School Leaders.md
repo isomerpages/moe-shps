@@ -75,7 +75,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_LEW_POH_LYE_IMM___VP_new.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_LEW_POH_LYE_IMM___VP_resized.jpg">
 </div>
 </th>
 </tr>
