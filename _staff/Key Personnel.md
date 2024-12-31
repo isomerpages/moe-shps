@@ -209,17 +209,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohayah Ya'acub
-<br><a href="mailto:rohayah_yaacub@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Malay Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Elizabeth Simon
 <br><a href="mailto:elizabeth_simon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
