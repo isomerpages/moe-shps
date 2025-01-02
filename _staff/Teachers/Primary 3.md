@@ -53,8 +53,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Preethi Valsalan
-<br><a href="mailto:preethi_valsalan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mrs Jasmine David
+<br><a href="mailto:lim_li_shi_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
