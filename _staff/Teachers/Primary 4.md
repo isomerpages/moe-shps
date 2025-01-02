@@ -149,8 +149,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khairunnisa
-<br><a href="mailto:khairunnisa_shamsuri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Ms Jesslyn Kwang
+<br><a href="mailto:kwang_ling_li_jesslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
