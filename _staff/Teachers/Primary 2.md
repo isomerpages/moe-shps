@@ -32,7 +32,7 @@ variant: tiptap
 <br>Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haziah Jamale
+<p>Mdm Haziah
 <br><a href="mailto:haziah_jamale@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
@@ -96,7 +96,7 @@ variant: tiptap
 <br>Truth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Shuang Rachel
+<p>Mdm Rachel Yang
 <br><a href="mailto:yang_shuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
@@ -128,7 +128,7 @@ variant: tiptap
 <br>Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurliyana Yahya
+<p>Mdm Nurliyana
 <br><a href="mailto:nurliyana_yahya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
@@ -149,7 +149,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Philomena Lim Ping Ping
+<p>Mdm Philomena Lim
 <br><a href="mailto:philomena_lim_ping_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
