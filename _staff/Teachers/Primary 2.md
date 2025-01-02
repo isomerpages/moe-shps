@@ -64,7 +64,7 @@ variant: tiptap
 <br>Peace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shaheeda Anwar
+<p>Mdm Shaheeda
 <br><a href="mailto:shaheeda_mohamed_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
