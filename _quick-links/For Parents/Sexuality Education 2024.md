@@ -74,9 +74,10 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
+<p></p>
 <p>&nbsp;You may click <a href="/files/2024_P5_and_P6_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the Sexuality Education lessons that will be taught
-in 2024.</p>
+in 2025.</p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
