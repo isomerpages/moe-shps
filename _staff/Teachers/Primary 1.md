@@ -134,7 +134,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan Lee Huang
-<br><a href="mailto:tan_lee_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<br><a href="mailto:tan_lee_huang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
