@@ -112,14 +112,13 @@ variant: tiptap
 <br>Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kiu Hai Mei
-<br><a href="mailto:kiu_hai_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Kashif
 <br><a href="mailto:kashif_mohamed_iqbal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seng</p>
+<p></p>
 </td>
 </tr>
 <tr>
