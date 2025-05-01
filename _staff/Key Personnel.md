@@ -87,18 +87,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Hui Zhi</p>
-<p><a href="mailto:lim_hui_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>Mother Tongue
-<br>Covering Student Management (P1 -P3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Junice Tan
 <br><a href="mailto:teo_kwee_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
@@ -149,7 +137,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Upper Primary)</p>
+<br>(Upper Primary) / Covering Student Management (P4 - P6)</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +159,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Middle Primary)</p>
+<br>(Middle Primary) / Covering Student Management (P1-P3)</p>
 </td>
 </tr>
 <tr>
