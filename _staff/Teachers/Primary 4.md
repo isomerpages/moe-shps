@@ -118,7 +118,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seng Liak Soon</p>
-<p></p>
+<p><a href="mailto:seng_liak_soon_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
 </td>
 </tr>
 <tr>
