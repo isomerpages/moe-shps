@@ -25,7 +25,7 @@ variant: markdown
 <tbody>
   <tr style="border: 1px solid black">
     <td class="tg-nbj5" style="border: 1px solid black">General Office</td>
-    <td class="tg-nbj5" style="border: 1px solid black">Tel: 6781 1916<br>Fax: 6783 0527<br>Email: <a href="mailto:shps@moe.edu.sg"><span style="text-decoration:none;color:#FDB900">shps@moe.edu.sg</span></a><br>Website:<br>www.shps.moe.edu.sg<br> </td>
+    <td class="tg-nbj5" style="border: 1px solid black">Tel: 6781 1916<br>Fax: 6783 0527<br>Email: <a href="mailto:shps@moe.edu.sg"><span style="text-decoration:none;color:#FDB900">shps@moe.edu.sg</span></a> </td>
     <td class="tg-nbj5" style="border: 1px solid black">Mon - Fri<br>7.00am - 5.00pm<br> </td>
     <td class="tg-nbj5" style="border: 1px solid black">Mon - Fri<br>8.00am - 5.00pm</td>
   </tr>
@@ -61,8 +61,8 @@ variant: markdown
   </tr>
   <tr style="border: 1px solid black">
     <td class="tg-nbj5" style="border: 1px solid black">Student Care Centre</td>
-    <td class="tg-nbj5" style="border: 1px solid black">YMCA<br>Tel : 9235 1637<br>Email: <a href="mailto:shscc@ymca.edu.sg"><span style="text-decoration:none;color:#FDB900">shscc@ymca.edu.sg</span></a><br><br>Click <a href="https://www.ymca.org.sg/education/%20ymca-education-services"><span style="text-decoration:none;color:#FDB900">HERE</span></a> for the website: <span style="background-color:initial">https://www.ymca.org.sg/education/</span><br>ymca-education-services<br> </td>
-    <td class="tg-nbj5" style="border: 1px solid black">Mon - Fri <br>1.30pm – 7.00pm<br></td>
+    <td class="tg-nbj5" style="border: 1px solid black">YMCA<br>Tel : 9235 1637<br>Email: <a href="mailto:shscc@ymca.edu.sg"><span style="text-decoration:none;color:#FDB900">shscc@ymca.edu.sg</span></a><br>
+    </td><td class="tg-nbj5" style="border: 1px solid black">Mon - Fri <br>1.30pm – 7.00pm<br></td>
     <td class="tg-nbj5" style="border: 1px solid black">Mon – Fri<br>7.30am – 7.00pm</td>
   </tr>
 </tbody>
