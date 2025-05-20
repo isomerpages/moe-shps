@@ -26,7 +26,7 @@ td {border: 1px solid black; text-align: left;}
   <tr>
     <td style="border: 1px solid black; text-align:center;"><b>P1 to P6</b></td>
     <td style="border: 1px solid black; text-align:center;">7.30am – 1.30pm</td>
-    <td style="border: 1px solid black; text-align:center;">7.30am – 1.30pm</td>
+    <td style="border: 1px solid black; text-align:center;">7.30am – 1pm</td>
     <td style="border: 1px solid black; text-align:center;">7.30am – 1.30pm</td>
     <td style="border: 1px solid black; text-align:center;">7.30am – 1.30pm<br>(P1 and P2 only)<br><br>7.30am – 2pm<br>(P3-P6 with staggered lunch break)</td>
     <td style="border: 1px solid black; text-align:center;">7.30am – 1.30pm</td>
@@ -34,7 +34,7 @@ td {border: 1px solid black; text-align: left;}
   <tr>
     <td style="border: 1px solid black; text-align:center;"><b>Only students who are involved</b></td>
     <td style="border: 1px solid black; text-align:center;">2pm – 4pm<br><br><br><b>(Selected CCAs)</b></td>
-    <td style="border: 1px solid black; text-align:center;">2pm – 4pm<br><br><br><b>HMT/Remedial/<br>Enrichment <br>Programmes</b></td>
+    <td style="border: 1px solid black; text-align:center;">1.30pm – 3.30pm<br><br><br><b>HMT/Remedial/<br>Enrichment <br>Programmes</b></td>
     <td style="border: 1px solid black; text-align:center;">NA</td>
     <td style="border: 1px solid black; text-align:center;">2pm to 4pm<br><br><b>CCA for P3 -P6</b><br>(except for certain CCAs that will end later than 4pm)</td>
     <td style="border: 1px solid black; text-align:center;">2pm to 4pm<br><br><br><b>HMT/Remedial/<br>Enrichment <br>Programmes</b></td>
