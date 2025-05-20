@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<p><strong>Floorball (Girls Only)</strong>
-</p>
 <p>Floorball is a fast-paced and exciting team sport that is gaining popularity
 among youths in Singapore and around the world. This CCA offers girls the
 opportunity to develop both their physical skills and character through
