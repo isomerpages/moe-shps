@@ -34,7 +34,7 @@ td {border: 1px solid black; text-align: left;}
   <tr>
     <td style="border: 1px solid black; text-align:center;"><b>Only students who are involved</b></td>
     <td style="border: 1px solid black; text-align:center;">2pm – 4pm<br><br><br><b>(Selected CCAs)</b></td>
-    <td style="border: 1px solid black; text-align:center;">1.35pm – 3.35pm<br><br><br><b>HMT/Remedial/<br>Enrichment <br>Programmes</b></td>
+    <td style="border: 1px solid black; text-align:center;">1.35pm – 3.40pm<br><br><br><b>HMT/Remedial/<br>Enrichment <br>Programmes</b></td>
     <td style="border: 1px solid black; text-align:center;">NA</td>
     <td style="border: 1px solid black; text-align:center;">2pm to 4pm<br><br><b>CCA for P3 -P6</b><br>(except for certain CCAs that will end later than 4pm)</td>
     <td style="border: 1px solid black; text-align:center;">2pm to 4pm<br><br><br><b>HMT/Remedial/<br>Enrichment <br>Programmes</b></td>
