@@ -101,8 +101,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Geetha
-<br><a href="mailto:geetha_muralimohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Ms Karkuzhali
+<br><a href="mailto:narayanasamy_karkuzhali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
@@ -133,8 +133,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Lee Huang
-<br><a href="mailto:tan_lee_huang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Ms Teo May Lim
+<br><a href="mailto:teo_may_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
