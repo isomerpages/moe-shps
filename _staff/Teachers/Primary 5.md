@@ -112,13 +112,13 @@ variant: tiptap
 <br>Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Chua
-<br><a href="mailto:chua_wee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mrs Rachel Ho
+<br><a href="mailto:sim_wanru_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachel Ho
-<br><a href="mailto:sim_wanru_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mr Hashim
+<br><a href="mailto:hashim_bin_mohd_shariff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
