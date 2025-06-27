@@ -48,13 +48,13 @@ variant: tiptap
 <br>Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Long Ai Sang
-<br><a href="mailto:chua_ai_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Bai Yun
+<br><a href="mailto:bai_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Bai Yun
-<br><a href="mailto:bai_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Tan Lee Huang</p>
+<p><a href="mailto:tan_lee_huang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
@@ -85,8 +85,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cindy Tay
-<br><a href="mailto:cindy_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mrs Long Ai Sang
+<br><a href="mailto:chua_ai_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
