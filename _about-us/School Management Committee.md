@@ -34,8 +34,8 @@ td {border: 1px solid black; text-align: left;}
   <tr>
     <td style="border: 1px solid black">3</td>
     <td style="border: 1px solid black">Honorary Secretary</td>
-    <td style="border: 1px solid black">Mrs Janice Lim</td>
-    <td style="border: 1px solid black">Principal, St Hilda’s Secondary School (SHSS) / Honorary Secretary</td>
+    <td style="border: 1px solid black">Mdm Law Li Mei</td>
+    <td style="border: 1px solid black">Principal, St Hilda’s Primary School (SHPS) / Honorary Secretary</td>
   </tr>
   <tr>
     <td style="border: 1px solid black">4</td>
@@ -43,12 +43,17 @@ td {border: 1px solid black; text-align: left;}
     <td style="border: 1px solid black">Mr Alvin Ng</td>
     <td style="border: 1px solid black">Chapel of Christ the Redeemer (CCR) Parochial Church Council (PCC) Representative</td>
   </tr>
-  
   <tr>
     <td style="border: 1px solid black">5</td>
     <td style="border: 1px solid black">Member</td>
-    <td style="border: 1px solid black">Mdm Law Li Mei</td>
-    <td style="border: 1px solid black">Principal, St Hilda’s Primary School (SHPS)</td>
+    <td style="border: 1px solid black">Dr Tan Bee Geok</td>
+    <td style="border: 1px solid black">Secretary of Schools, Diocese of Singapore </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black">5</td>
+    <td style="border: 1px solid black">Member</td>
+    <td style="border: 1px solid black">Mr Lew King Lun Julian</td>
+    <td style="border: 1px solid black">Principal, St Hilda’s Secondary School (SHSS)</td>
   </tr>
   <tr>
     <td style="border: 1px solid black">6</td>
