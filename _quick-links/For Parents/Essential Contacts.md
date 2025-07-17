@@ -38,7 +38,7 @@ variant: markdown
   <tr style="border: 1px solid black">
     <td class="tg-nbj5" style="border: 1px solid black">School Bookshop</td>
     <td class="tg-nbj5" style="border: 1px solid black">Pacific Bookstores Pte Ltd<br>Tel: 90481828<br>Website:<br> <a href="http://www.pacificbookstores.com/"><span style="text-decoration:none;color:#FDB900">www.pacificbookstores.com</span></a></td>
-    <td class="tg-nbj5" style="border: 1px solid black">8.00am - 3.00pm<br>(Lunch 11.30am - 12.30pm)<br><br> </td>
+    <td class="tg-nbj5" style="border: 1px solid black">8.00am - 3.00pm<br>(Lunch 12.00pm - 1.00pm)<br><br> </td>
     <td class="tg-nbj5" style="border: 1px solid black">Closed unless<br>otherwise informed</td>
   </tr>
   <tr style="border: 1px solid black">
