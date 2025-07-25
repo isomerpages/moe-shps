@@ -37,14 +37,14 @@ All nominees for the ECHA must fulfill the following criteria:
   
 The selection process will constitute the following stages:
 
-1. Nomination: Students will be nominated from at least two groups of state holders with direct interactions with students. (i.e., students, school staff and parents)
+1. **Nomination:** Students will be nominated from at least two groups of stakeholders with direct interactions with students. (i.e., students, school staff and parents)
 
 All nominations will be kept confidential and the selection process will start only upon the close of the nomination stage. 
 
-2. Shortlisting: A structured process is instituted to short list students from the pool of nominees. The shortlisting of nominees will be conducted by the school. 
+2. **Shortlisting:** A structured process is instituted to shortlist students from the pool of nominees. The shortlisting of nominees will be conducted by the school. 
 
-3. Endorsement: The validation and endorsement of the ECHA awardees will be conducted by a panel chaired by wither the Principal or Vice-Principal, and is independent of the shortlisting panel. 
+3. **Endorsement:** The validation and endorsement of the ECHA awardees will be conducted by a panel chaired by either the Principal or Vice-Principal, and is independent of the shortlisting panel. 
 
-The nomination must be duly completed and submited by **Friday, 15 August 2025 (5pm). Nominations made after the deadline will NOT be accepted.**
+The nomination must be duly completed and submitted by **Friday, 15 August 2025 (5pm). Nominations made after the deadline will NOT be accepted.**
 
 [ECHA award 2025](https://go.gov.sg/echaaward2025)
