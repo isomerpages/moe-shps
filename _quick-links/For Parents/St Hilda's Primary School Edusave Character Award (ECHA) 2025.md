@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-The Edusave Character Award (ECHA) aims to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions; and who can be role models to inspire others. The award supports the school's efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
+The Edusave Character Award (ECHA) aims to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions; and who can be role models to inspire others. The award supports the school's continuing efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
 
  ### Quota of Awards
 
