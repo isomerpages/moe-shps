@@ -19,7 +19,7 @@ The ECHA is open to students from all levels.
 All nominees for the ECHA must fulfill the following criteria:
 
   
-1. **is a Singapore citizen**
+1. **Is a Singapore citizen**
 
 2.  **Demonstrates good character and values in a consistent manner:**
 
