@@ -47,7 +47,4 @@ All nominations will be kept confidential and the selection process will start o
 
 The nomination must be duly completed and submited by **Friday, 15 August 2025 (5pm). Nominations made after the deadline will NOT be accepted.**
 
-
-The form must be duly completed and submitted using the link provided below by **Wednesday, 21 August 2024**.  
-
 [ECHA award 2025](https://go.gov.sg/echaaward2025)
