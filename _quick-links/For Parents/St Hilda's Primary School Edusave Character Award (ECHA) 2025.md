@@ -27,10 +27,10 @@ All nominees for the ECHA must fulfill the following criteria:
 (a) Qualities associated with our **school values** (Love Sincerely, Live Responsibly, Learn Continuously, Serve Humbly and Strive Resiliently)
 
   
-(b) Demonstrated a high level of **civic responsibility**: Students must have demonstrated concerns about issues related to their community or issues faced by others. They could have initiated simple action or played an active role to address these issues and demonstrate commitment to making a difference; and/or
+(b) Demonstrated a high level of **civic responsibility**: Students must have demonstrated concerns about issues related to their community or issues faced by others. They could have initiated simple action or played an active role in addressing these issues and demonstrate commitment to making a difference; and/or
 
   
-(c) Qualities associated with **resilience**: Students who have persevered despite facing difficult circumstances (e.g. financial problems, health issues, family issues, peer pressure) and have managed to overcome the odds and still do their best in both academic and non-academic domains. (under school value)
+(c) Qualities associated with **resilience**: Students who have persevered despite facing challenging circumstances (e.g. financial problems, health issues, family issues, peer pressure) and have managed to overcome the odds and still strive to do their best in both academic and non-academic domains. (under school value)
 
 ### Selection Process
 
