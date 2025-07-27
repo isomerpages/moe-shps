@@ -42,9 +42,8 @@ and non-academic domains. (under school value)</p>
 <p>The selection process will constitute the following stages:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Nomination:</strong> Students will be nominated from at least two
-groups of stakeholders with direct interactions with students. (i.e., students,
-school staff and parents)</p>
+<p><strong>Nomination:</strong> Students will be nominated from <strong>at least two groups of stakeholders </strong>with
+direct interactions with students. (i.e., students, school staff and parents)</p>
 </li>
 </ol>
 <p>All nominations will be kept confidential and the selection process will
