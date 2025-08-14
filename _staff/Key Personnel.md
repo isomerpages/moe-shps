@@ -137,7 +137,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Upper Primary) / Covering Student Management (P4 - P6)</p>
+<br>(Upper Primary) / Covering Student Management (P4-P6)</p>
 </td>
 </tr>
 <tr>
@@ -160,18 +160,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
 <br>(Middle Primary) / Covering Student Management (P1-P3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sonia Lee
-<br><a href="mailto:lee_sock_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary) / Covering Student Management (P4 - P6)
-<br>
-</p>
 </td>
 </tr>
 <tr>
