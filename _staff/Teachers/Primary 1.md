@@ -133,8 +133,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo May Lim
-<br><a href="mailto:teo_may_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Ms May Lim
+<br><a href="mailto:lim_wan_yee_a@schools.gov.sg)" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
