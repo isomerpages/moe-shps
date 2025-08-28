@@ -63,6 +63,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Peter Foo</p>
+<p><a href="mailto:Foo_Sian_Teong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Suhaila Shamsudeen
 <br><a href="mailto:Suhaila_shamsudeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
