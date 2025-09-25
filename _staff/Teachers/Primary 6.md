@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CO-FORM TEACHER</strong>
+<p><strong>FORM TEACHER</strong>
 </p>
 </td>
 </tr>
@@ -69,8 +69,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sonia Lee
-<br><a href="mailto:lee_sock_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Rebecca Tong
+<br><a href="mailto:tong_siew_phey_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
