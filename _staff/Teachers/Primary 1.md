@@ -17,12 +17,8 @@ variant: tiptap
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>FORM TEACHER</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>FORM TEACHER</strong>
+<td rowspan="1" colspan="2">
+<p><strong>                                FORM TEACHERS</strong>
 </p>
 </td>
 </tr>
