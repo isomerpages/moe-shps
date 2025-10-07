@@ -80,13 +80,13 @@ variant: tiptap
 <br>Praise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Jo Lynn
-<br><a href="mailto:sim_jo_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mrs Long Ai Sang
+<br><a href="mailto:chua_ai_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Long Ai Sang
-<br><a href="mailto:chua_ai_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Amira</p>
+<p><a href="mailto:amira_tajudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
