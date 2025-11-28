@@ -4,7 +4,7 @@ permalink: /about-us/st-hilda-s-school-yearbook/
 description: ""
 variant: markdown
 ---
-SHPS Yearbook 2024
+SHPS Yearbook 
 --------------------------------
 
 Please click 
