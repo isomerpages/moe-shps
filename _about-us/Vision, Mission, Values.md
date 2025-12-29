@@ -7,7 +7,7 @@ variant: markdown
 School Vision
 -------------
 
-One Hildan Family anchored on Godly values – Nurturing Servant Leaders and Changemakers of Tomorrow.  
+One thriving Hildan Family anchored on Godly values – Nurturing Servant Leaders and Changemakers of Tomorrow.  
 
   
 
@@ -48,4 +48,3 @@ Hildan Outcome
 \-       Adapt and effect change positively
 
 \-       Reflect and exhibit global mindset
-
