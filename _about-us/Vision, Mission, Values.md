@@ -2,6 +2,7 @@
 title: Vision, Mission, Values
 permalink: /about-us/vision-mission-values/
 description: ""
+variant: markdown
 ---
 School Vision
 -------------
@@ -23,32 +24,28 @@ As an Anglican school, we are committed to providing a balanced development of 
 School Values
 -------------
 
-\-       Love Sincerely
+\-       Respect
 
-\-       Live Responsibly
+\-       Responsibility
 
-\-       Learn Continuously
+\-       Resilience
 
-\-       Serve Humbly
+\-       Love
 
-\-       Strive Resiliently
+\-       Integrity
 
 
+   
 ---
 
 Hildan Outcome
 --------------
 
-\-       Discerning, Empathetic, Adaptable and Resilient Individuals
+\-       Discerning and communicate effectively
 
-\-       Exemplary Servant Leaders
+\-       Emphatise and serve humbly
 
-\-       Creative and Critical Inquirers
+\-       Adapt and effect change positively
 
-\-       Effective Communicators
+\-       Reflect and exhibit global mindset
 
-\-       Reflective Learners
-
-\-       Motivated Achievers
-
-\-       Courageous Changemakers
