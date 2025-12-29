@@ -175,50 +175,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Lin Hui
-<br><a href="mailto:poh_lin_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head
-<br>Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Raihana Mohamed</p>
-<p><a href="mailto:raihanah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
-<p>Malay Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Elizabeth Simon
-<br><a href="mailto:elizabeth_simon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Eleanor Goh
-<br><a href="mailto:eleanor_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Student Well-being</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Priscilla Goh
 <br><a href="mailto:goh_hwi_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
@@ -252,6 +208,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Poh Lin Hui
+<br><a href="mailto:poh_lin_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Raihana Mohamed</p>
+<p><a href="mailto:raihanah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+<p>Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Farah Anna
 <br><a href="mailto:farah_anna_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
@@ -259,6 +237,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Level Head
 <br>Gifted Education Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Elizabeth Simon
+<br><a href="mailto:elizabeth_simon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Pauline Chia
+<br><a href="mailto:pauline_ap_chia@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Student Management</p>
 </td>
 </tr>
 <tr>
