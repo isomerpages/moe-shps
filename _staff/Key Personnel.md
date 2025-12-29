@@ -87,13 +87,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Junice Tan
-<br><a href="mailto:teo_kwee_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mr Ho Kar Yan
+<br><a href="mailto:Ho_KAR_YAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Information &amp; Communication Technology</p>
+<br>Student Management</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Upper Primary) / Covering Student Management (P4-P6)</p>
+<br>(Upper Primary)</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Middle Primary) / Covering Student Management (P1-P3)</p>
+<br>(Middle Primary)</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
+<p>Year Head</p>
+<p>(Lower Primary)</p>
 </td>
 </tr>
 <tr>
@@ -181,6 +182,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Level Head
 <br>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Raihana Mohamed</p>
+<p><a href="mailto:raihanah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+<p>Malay Language</p>
 </td>
 </tr>
 <tr>
