@@ -308,20 +308,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Natila Abu Bakar
-<br><a href="mailto:natila_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> 
+<p>Mdm Kavita
+<br><a href="mailto:kavita_logaumania_deluger@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> 
 <br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Dan Ang
-<br><a href="mailto:ang_kah_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -371,6 +360,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 <p>Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Juanita Toh</p>
+<p><a href="mailto:juanita_toh@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+<p>Education Support</p>
 </td>
 </tr>
 </tbody>
