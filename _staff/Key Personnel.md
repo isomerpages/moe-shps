@@ -252,17 +252,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pauline Chia
-<br><a href="mailto:pauline_ap_chia@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Sabrina Neo
 <br><a href="mailto:seah_jia_fen_sabrina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
