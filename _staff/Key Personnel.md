@@ -164,9 +164,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Huang
-<br><a href="mailto:angelina_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
+<p>Ms Angelina Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
@@ -209,7 +207,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Kavita
-<br><a href="mailto:kavita_logaumania_deluger@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> 
+<br><a href="mailto:kavita_logaumania_deluger@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
