@@ -110,14 +110,6 @@ teams, be innovative and strive for excellence as they persevere to succeed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Agnes Poh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nur Liyana Izyan</p>
 </td>
 </tr>
