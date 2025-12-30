@@ -60,7 +60,6 @@ arts as they learn the drama strategies and showcase them on stage.</p>
 <p>Mrs Cindy Simon
 <br><a href="mailto:simon_chin_see_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="">s</a>
 <a href="mailto:imon_chin_see_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">imon_chin_see_cindy@schools.gov.sg</a><a href="mailto:simon_chin_see_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="">@schools.gov.sg</a>
-<br>
 </p>
 </td>
 </tr>
