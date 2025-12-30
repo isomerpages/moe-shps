@@ -208,6 +208,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kavita
+<br><a href="mailto:kavita_logaumania_deluger@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Poh Lin Hui
 <br><a href="mailto:poh_lin_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
@@ -293,18 +304,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
 <br>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kavita
-<br><a href="mailto:kavita_logaumania_deluger@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>Mathematics</p>
 </td>
 </tr>
 <tr>
