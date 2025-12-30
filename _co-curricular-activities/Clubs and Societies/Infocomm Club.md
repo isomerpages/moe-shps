@@ -57,8 +57,8 @@ audio-visual system management, robotics, digital art and video editing.</p>
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeow Yuen Ten
-<br><a href="mailto:yeow_yuen_ten@schools.gov.sg" rel="noopener noreferrer nofollow" target="">yeow_yuen_ten@schools.gov.sg</a>
+<p>Mdm Rachel Sim
+<br><a href="mailto:sim_wanru_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="">sim_wanru_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -77,7 +77,7 @@ audio-visual system management, robotics, digital art and video editing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Sim</p>
+<p>Mr Yeow Yuen Ten</p>
 </td>
 </tr>
 <tr>
