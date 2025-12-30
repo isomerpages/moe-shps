@@ -92,7 +92,7 @@ physiological and emotional skills during their time in the CCA.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,6 +112,11 @@ physiological and emotional skills during their time in the CCA.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kashif Mohamed Iqbal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Isaac Lin</p>
 </td>
 </tr>
 </tbody>
