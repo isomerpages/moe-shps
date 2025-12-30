@@ -85,7 +85,7 @@ will help to impart the necessary values required to shape one’s character.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Amira
-<br><a href="mailto:amira_tajudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">wang_zhiyong_a@schools.gov.sg</a>
+<br><a href="mailto:amira_tajudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amira_tajudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
