@@ -42,9 +42,7 @@ a common goal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 - P6
-<br>
-</p>
+<p>P4 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
