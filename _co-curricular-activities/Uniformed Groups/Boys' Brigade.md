@@ -60,8 +60,8 @@ thereby contributing to the character development of the boys.</p>
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lu Na
-<br><a href="mailto:lu_na@schools.gov.sg" rel="noopener noreferrer nofollow" target="">lu_na@schools.gov.sg</a>
+<p>Mr Alvin Lee
+<br><a href="mailto:alvin_lim_hsu_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">lu_na@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -71,7 +71,7 @@ thereby contributing to the character development of the boys.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Lee</p>
+<p>Mdm Lu Na</p>
 </td>
 </tr>
 <tr>
