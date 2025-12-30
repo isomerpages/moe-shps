@@ -5,8 +5,15 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<p>The Drama Box aims to develop students’ interest and passion for theatrical
-arts as they learn the drama strategies and showcase them on stage.</p>
+<p>The Drama Media Club invites students to explore the joy of reading and
+acting in a fun and creative way. Through engaging with stories and books,
+members learn how to bring words to life and share them with the school
+community.</p>
+<p>Working together, students build confidence and creativity. They also
+develop important teamwork and communication skills that will support them
+both in school and beyond.</p>
+<p>By showcasing their work, students celebrate the joy of reading and acting
+with the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Drama Club" src="/images/drama%20club%201.jpg">
 </div>
