@@ -36,9 +36,7 @@ every girl to be a leader.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 - P6
-<br>
-</p>
+<p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
