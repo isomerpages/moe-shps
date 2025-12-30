@@ -73,7 +73,7 @@ a common goal.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>&nbsp;Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,12 @@ a common goal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Hwee Kay</p>
+<p>Ms Tina Seah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Xue</p>
 </td>
 </tr>
 </tbody>
