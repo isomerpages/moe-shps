@@ -61,7 +61,7 @@ thereby contributing to the character development of the boys.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alvin Lee
-<br><a href="mailto:alvin_lim_hsu_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="">lu_na@schools.gov.sg</a>
+<br><a href="mailto:alvin_lim_hsu_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_lim_hsu_jin@schools.gov.sg</a>
 <br>
 </p>
 </td>
