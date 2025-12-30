@@ -165,6 +165,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Angelina Huang</p>
+<p><a href="mailto:angelina_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
