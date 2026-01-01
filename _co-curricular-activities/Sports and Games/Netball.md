@@ -85,8 +85,8 @@ teams, be innovative and strive for excellence as they persevere to succeed.</p>
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Agnes Poh
-<br><a href="mailto:khoo_gek_lin_agnes@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_gek_lin_agnes@schools.gov.sg</a>
+<p>Mdm Nur Ashikin
+<br><a href="mailto:siti_nurashikin_mohd_sultan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurashikin_mohd_sultan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -110,7 +110,7 @@ teams, be innovative and strive for excellence as they persevere to succeed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ashikin</p>
+<p>Mdm Nur Liyana Izyan</p>
 </td>
 </tr>
 </tbody>

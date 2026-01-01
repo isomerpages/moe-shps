@@ -87,13 +87,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Junice Tan
-<br><a href="mailto:teo_kwee_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mr Ho Kar Yan
+<br><a href="mailto:Ho_KAR_YAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Information &amp; Communication Technology</p>
+<br>Student Management</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Upper Primary) / Covering Student Management (P4-P6)</p>
+<br>(Upper Primary)</p>
 </td>
 </tr>
 <tr>
@@ -159,50 +159,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Middle Primary) / Covering Student Management (P1-P3)</p>
+<br>(Middle Primary)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Huang
-<br><a href="mailto:angelina_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Ms Angelina Huang</p>
+<p><a href="mailto:angelina_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Poh Lin Hui
-<br><a href="mailto:poh_lin_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head
-<br>Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Elizabeth Simon
-<br><a href="mailto:elizabeth_simon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Eleanor Goh
-<br><a href="mailto:eleanor_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Student Well-being</p>
+<p>Year Head</p>
+<p>(Lower Primary)</p>
 </td>
 </tr>
 <tr>
@@ -240,6 +208,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kavita
+<br><a href="mailto:kavita_logaumania_deluger@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Poh Lin Hui
+<br><a href="mailto:poh_lin_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Raihana Mohamed</p>
+<p><a href="mailto:raihanah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+<p>Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Farah Anna
 <br><a href="mailto:farah_anna_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
@@ -247,6 +248,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Level Head
 <br>Gifted Education Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Elizabeth Simon
+<br><a href="mailto:elizabeth_simon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -296,29 +308,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Natila Abu Bakar
-<br><a href="mailto:natila_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Dan Ang
-<br><a href="mailto:ang_kah_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Kimmy Tan</p>
 <p><a href="mailto:tan_sue_ling_kimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
@@ -359,6 +348,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 <p>Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Juanita Toh</p>
+<p><a href="mailto:juanita_toh@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+<p>Education Support</p>
 </td>
 </tr>
 </tbody>

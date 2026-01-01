@@ -84,17 +84,17 @@ will help to impart the necessary values required to shape one’s character.</p
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Zhi Yong
-<br><a href="mailto:wang_zhiyong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="">wang_zhiyong_a@schools.gov.sg</a>
+<p>Mdm Amira
+<br><a href="mailto:amira_tajudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amira_tajudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Geetha Muralimohan</p>
+<p>Mdm Wu Yuze</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,12 @@ will help to impart the necessary values required to shape one’s character.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Preethi Valsalan</p>
+<p>Ms Nicole Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Yang</p>
 </td>
 </tr>
 <tr>

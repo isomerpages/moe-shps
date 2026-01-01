@@ -36,9 +36,7 @@ every girl to be a leader.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 - P6
-<br>
-</p>
+<p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
@@ -68,11 +66,11 @@ every girl to be a leader.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Jo Lynn</p>
+<p>Mdm Agnes Poh</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +80,12 @@ every girl to be a leader.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Joyce Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jessie Ong</p>
 </td>
 </tr>
 </tbody>

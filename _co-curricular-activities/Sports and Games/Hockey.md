@@ -91,7 +91,7 @@ sportsmanship, respect, perseverance and teamwork.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,12 +105,7 @@ sportsmanship, respect, perseverance and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Amira</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Ang</p>
+<p>Ms Dora</p>
 </td>
 </tr>
 <tr>

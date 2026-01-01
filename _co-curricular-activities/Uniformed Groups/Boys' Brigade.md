@@ -35,9 +35,7 @@ thereby contributing to the character development of the boys.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 - P6
-<br>
-</p>
+<p>P3 - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
@@ -60,9 +58,8 @@ thereby contributing to the character development of the boys.</p>
 <p>Overall Teacher-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lu Na
-<br><a href="mailto:lu_na@schools.gov.sg" rel="noopener noreferrer nofollow" target="">lu_na@schools.gov.sg</a>
-<br>
+<p>Mr Alvin Lee
+<br><a href="mailto:alvin_lim_hsu_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_lim_hsu_jin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -71,7 +68,7 @@ thereby contributing to the character development of the boys.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Lee</p>
+<p>Mdm Lu Na</p>
 </td>
 </tr>
 <tr>
