@@ -128,7 +128,7 @@ variant: tiptap
 <br>Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kavitha
+<p>Mr Kavita
 <br><a href="mailto:daniel_ng_kian_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
