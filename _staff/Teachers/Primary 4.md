@@ -120,7 +120,6 @@ variant: tiptap
 <p>Mr Muqairil
 <br><a href="mailto:muqairil_kamaluddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
