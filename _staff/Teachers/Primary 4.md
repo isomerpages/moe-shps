@@ -129,14 +129,12 @@ variant: tiptap
 <br>Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hajar
-<br><a href="mailto:nur_hajar_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Bai Yun
 <br><a href="mailto:bai_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
