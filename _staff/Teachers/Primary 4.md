@@ -134,7 +134,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hajar
+<br><a href="mailto:nur_hajar_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+</p>
 </td>
 </tr>
 <tr>
