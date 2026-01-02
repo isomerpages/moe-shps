@@ -1,6 +1,6 @@
 ---
 title: Drama Media Club
-permalink: /co-curricular-activities/clubs-and-societies/drama-media/
+permalink: /co-curricular-activities/clubs-and-societies/drama-box/
 description: ""
 third_nav_title: Performing Arts
 variant: tiptap
