@@ -133,8 +133,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Khairunnisa
-<br><a href="mailto:siti_khairunnisa_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mdm Zhang Tao
+<br><a href="mailto:zhang_tao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
