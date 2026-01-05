@@ -43,7 +43,7 @@ Hildan Outcome
 
 \-       Discerning and communicate effectively
 
-\-       Emphatise and serve humbly
+\-       Empathise and serve humbly
 
 \-       Adapt and effect change positively
 
