@@ -230,12 +230,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raihana Mohamed</p>
+<p>Mdm Raihanah Mohamed</p>
 <p><a href="mailto:raihanah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head</p>
+<p>Subject Head</p>
 <p>Malay Language</p>
 </td>
 </tr>
