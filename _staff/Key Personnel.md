@@ -104,7 +104,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Character &amp; Citizenry Education</p>
+<br>Character &amp; Citizenry Education &amp; Partnership</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Malay Language</p>
+<br>Malay Language &amp; Tamil Language</p>
 </td>
 </tr>
 <tr>
