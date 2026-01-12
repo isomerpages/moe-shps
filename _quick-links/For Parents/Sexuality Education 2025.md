@@ -85,8 +85,9 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
-is also downloadable <a href="https://form.gov.sg/67920644c0fd4289bc5f7250" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong>Thursday, 3 April 2025 (P5 Level)</strong> and <strong>Thursday, 15 May 2025 (P6 level)</strong>.</p>
+is also downloadable <a href="https://go.gov.sg/shpsgrowingyears2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong>Friday, 13 March 2026.</strong>
+</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67811916
 (Mrs Jasmine David-HOD CCE) for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
