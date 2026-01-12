@@ -74,9 +74,17 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p>You may refer to the tables below for more information on the Sexuality
-Education lessons that will be taught in 2026.</p>
+Education lessons that will be taught.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_3.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
