@@ -47,7 +47,7 @@ in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
 Law.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
@@ -73,10 +73,18 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<p>You may click <a href="/files/Sexuality_Education_P5_P6.pdf" rel="noopener nofollow" target="_blank">here</a> for
-more information on the Sexuality Education lessons that will be taught
-in 2025.</p>
+<p>You may refer to the tables below for more information on the Sexuality
+Education lessons that will be taught.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_3.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
@@ -85,8 +93,9 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
-is also downloadable <a href="https://form.gov.sg/67920644c0fd4289bc5f7250" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong>Thursday, 3 April 2025 (P5 Level)</strong> and <strong>Thursday, 15 May 2025 (P6 level)</strong>.</p>
+is also downloadable <a href="https://go.gov.sg/shpsgrowingyears2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong>Friday, 13 March 2026.</strong>
+</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67811916
 (Mrs Jasmine David-HOD CCE) for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
