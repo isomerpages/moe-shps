@@ -1,5 +1,5 @@
 ---
-title: Sexuality Education 2025
+title: Sexuality Education 2026
 permalink: /quick-links/for-parents/sexuality-education/
 description: ""
 third_nav_title: For Parents
