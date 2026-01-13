@@ -33,7 +33,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurliyana Yahya&nbsp;
-<br><a href="mailto:nur_liyana_yahya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<br><a href="mailto:nur_liyana_izyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
