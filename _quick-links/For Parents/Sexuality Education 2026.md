@@ -77,13 +77,15 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 Education lessons that will be taught.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_A.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_B.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Pic_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_C.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
