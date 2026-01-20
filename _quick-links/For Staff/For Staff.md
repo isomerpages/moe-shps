@@ -14,3 +14,6 @@ variant: tiptap
 </p>
 <p><strong>-&nbsp;<a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit (SC+)</a></strong>
 </p>
+<p>- <strong><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">Resource Booking System</a></strong>
+</p>
+<p></p>
