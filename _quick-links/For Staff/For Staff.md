@@ -6,7 +6,7 @@ third_nav_title: For Staff
 variant: tiptap
 ---
 <h3>Quicklinks for SHPS Staff</h3>
-<p><strong>-&nbsp;<a href="https://rbs.avero-tech.com/5025/index.html#~/vb.my.html" rel="noopener noreferrer nofollow" target="_blank">AV/ICT Service Request Form</a></strong>
+<p><strong>-&nbsp;<a href="https://form.gov.sg/6948fecb4461a27bf10d7ccd" rel="noopener noreferrer nofollow" target="_blank">AV/ICT Service Request Form</a></strong>
 </p>
 <p><strong>-&nbsp;<a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a></strong>
 </p>
@@ -14,3 +14,6 @@ variant: tiptap
 </p>
 <p><strong>-&nbsp;<a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit (SC+)</a></strong>
 </p>
+<p>- <strong><a href="https://rbs.avero-tech.com/" rel="noopener nofollow" target="_blank">Resource Booking System</a></strong>
+</p>
+<p></p>
