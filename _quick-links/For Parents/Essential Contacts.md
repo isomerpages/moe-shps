@@ -56,7 +56,7 @@ variant: markdown
   <tr style="border: 1px solid black">
     <td class="tg-nbj5" style="border: 1px solid black">School Dental clinic<br> </td>
     <td class="tg-nbj5" style="border: 1px solid black">Tel: 9111 9578</td>
-    <td class="tg-nbj5" style="border: 1px solid black">Mon and Thu<br>(Alternate Week)<br>8.00am - 5.00pm<br>(Lunch 1pm - 2pm)<br> </td>
+    <td class="tg-nbj5" style="border: 1px solid black">Mon to Fri (except Thurs)<br>(Alternate Week)<br>8.00am - 5.00pm<br>(Lunch 12.30pm - 1.30pm)<br> </td>
     <td class="tg-nbj5" style="border: 1px solid black">By Appointment<br>Only</td>
   </tr>
   <tr style="border: 1px solid black">
