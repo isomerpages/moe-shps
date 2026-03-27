@@ -81,9 +81,8 @@ Education lessons that will be taught.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_B.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_C.png">
 </div>
