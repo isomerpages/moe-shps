@@ -85,7 +85,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Liyana Izyan
+<p>Mdm Nurliyana Yahya
 <br><a href="mailto:nurliyana_yahya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
