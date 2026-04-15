@@ -161,7 +161,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nisa
-<br><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<br><a href="mailto: siti_khairunnisa_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
