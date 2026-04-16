@@ -101,8 +101,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ee Lin
-<br><a href="mailto:Tan_Ee_Lin_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
+<p>Mr Rick Ee
+<br><a href="mailto:rick_ee_guan_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>
 </p>
 </td>
 </tr>
