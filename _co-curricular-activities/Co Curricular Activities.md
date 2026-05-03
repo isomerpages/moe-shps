@@ -162,9 +162,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="208" width="290" alt="Sports Club" src="/images/sport%20club%20cover.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_girls_hockey__1_.jpeg">
 </div>
 <p><strong><a href="/co-curricular-activities/sports-and-games/sports-club" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
